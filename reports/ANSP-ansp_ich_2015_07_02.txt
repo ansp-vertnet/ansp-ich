@@ -1,0 +1,259 @@
+Report for Institution Code ANSP, Resource ansp_ich
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 203
+Number of records retrieved in searches: 2621
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 2
+	Country: France ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Italy ; Times: 6
+	Country: Mexico ; Times: 2
+	Country: Paraguay ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Spain ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 155
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 5
+	Date: 2015-06-02 ; Times: 5
+	Date: 2015-06-03 ; Times: 3
+	Date: 2015-06-04 ; Times: 2
+	Date: 2015-06-05 ; Times: 11
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-07 ; Times: 6
+	Date: 2015-06-08 ; Times: 9
+	Date: 2015-06-09 ; Times: 28
+	Date: 2015-06-10 ; Times: 34
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-12 ; Times: 3
+	Date: 2015-06-13 ; Times: 8
+	Date: 2015-06-15 ; Times: 6
+	Date: 2015-06-16 ; Times: 11
+	Date: 2015-06-17 ; Times: 11
+	Date: 2015-06-18 ; Times: 3
+	Date: 2015-06-19 ; Times: 8
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-21 ; Times: 2
+	Date: 2015-06-22 ; Times: 5
+	Date: 2015-06-23 ; Times: 1
+	Date: 2015-06-24 ; Times: 18
+	Date: 2015-06-25 ; Times: 3
+	Date: 2015-06-26 ; Times: 8
+	Date: 2015-06-27 ; Times: 2
+	Date: 2015-06-29 ; Times: 4
+	Date: 2015-06-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "chromis agilis" ; Times: 2
+	Query: "180204" ; Times: 1
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "atitlan" ; Times: 1
+	Query: "amnh fish" ; Times: 1
+	Query: "micropogonias ectenes" ; Times: 1
+	Query: "Saudi Arabia" ; Times: 2
+	Query: "ansp mam" ; Times: 11
+	Query: "ANSP 5288" ; Times: 4
+	Query: "catalognumber:125769" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(-3.2940822283128046,-57.63427734375))<100000" ; Times: 1
+	Query: "catalognumber:94452" ; Times: 2
+	Query: "mappable:1 distance(location,geopoint(-0.9228116626856938,-47.17529296875))<100000" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "bahrain" ; Times: 1
+	Query: "ansp herp" ; Times: 2
+	Query: "catalognumber:88978" ; Times: 1
+	Query: "heterodon distance(location,geopoint(41.73033005046653,-83.49609375))<100000" ; Times: 1
+	Query: "platybelone argalus" ; Times: 1
+	Query: "Platypus" ; Times: 1
+	Query: "Alphestes multiguttatus" ; Times: 1
+	Query: ""Cynoscion nebulosus" stateprovince:"Louisiana" mappable:1" ; Times: 1
+	Query: "ANSP mam" ; Times: 7
+	Query: "squatina" ; Times: 2
+	Query: "sardinops sagax" ; Times: 1
+	Query: "180200" ; Times: 1
+	Query: "gymnothorax dovii" ; Times: 1
+	Query: "gila robusta arizona" ; Times: 1
+	Query: "jaguar" ; Times: 2
+	Query: "Dermatolepis dermatolepis type:specimen" ; Times: 1
+	Query: "chrysochloris" ; Times: 1
+	Query: "91447" ; Times: 1
+	Query: "pristis tissue" ; Times: 1
+	Query: "cave alabama" ; Times: 1
+	Query: "112895" ; Times: 3
+	Query: "130658" ; Times: 1
+	Query: "CMC" ; Times: 1
+	Query: "apogon apogonides" ; Times: 1
+	Query: "proteus" ; Times: 3
+	Query: "Hybopsis lineapunctata coosa river" ; Times: 1
+	Query: "189402" ; Times: 1
+	Query: "stateprovince:"guaira" country:"paraguay"" ; Times: 4
+	Query: "decussatus" ; Times: 1
+	Query: "ummz cyprinodon" ; Times: 1
+	Query: "ansp" ; Times: 2
+	Query: "lutjanus colorado" ; Times: 1
+	Query: "trachinotus stilbe" ; Times: 1
+	Query: ""T. Barbour"" ; Times: 2
+	Query: "mappable:1 distance(location,geopoint(-3.2502085616531686,-62.7978515625))<100000" ; Times: 1
+	Query: "ornatissimus" ; Times: 1
+	Query: "stateprovince:"Florida" genus:ictalurus" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(-4.302591077119676,-59.1943359375))<100000" ; Times: 1
+	Query: "Pristis pristis" ; Times: 1
+	Query: "Creagrutus yanatili" ; Times: 1
+	Query: "catalognumber:49434" ; Times: 1
+	Query: "Carcharodon" ; Times: 1
+	Query: "institutioncode:ansp" ; Times: 5
+	Query: "USNM 159496" ; Times: 1
+	Query: "catalognumber:120059" ; Times: 1
+	Query: "hyporhamphus gilli" ; Times: 1
+	Query: "`pse" ; Times: 3
+	Query: "129469" ; Times: 1
+	Query: "161912" ; Times: 1
+	Query: "plectroglyphidodon imparipennis" ; Times: 3
+	Query: "lutjanus guttatus" ; Times: 1
+	Query: "124336" ; Times: 1
+	Query: "Kuwait" ; Times: 1
+	Query: "sicily" ; Times: 5
+	Query: "117737" ; Times: 1
+	Query: "Tiburon Island" ; Times: 1
+	Query: "alphestes afer" ; Times: 1
+	Query: "bbm" ; Times: 1
+	Query: "catalognumber:68048 institutioncode:ansp" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(-5.134714634014442,-43.92333984375))<100000" ; Times: 1
+	Query: "Rhinoptera" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "institutioncode:ANSP" ; Times: 1
+	Query: "Vidua" ; Times: 1
+	Query: "134776" ; Times: 1
+	Query: "oxyporhamphus micropterus" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: ""Ictiobus bubalus"" ; Times: 1
+	Query: "AUM" ; Times: 2
+	Query: "BPBM 6531" ; Times: 2
+	Query: "stateprovince:"TENNESSEE" institutioncode:ANSP" ; Times: 1
+	Query: "leconti" ; Times: 1
+	Query: "Hemanthias peruanus" ; Times: 1
+	Query: "scorpaenopsis diabolus" ; Times: 1
+	Query: "Oncorhynchus aguabonita" ; Times: 1
+	Query: "a;to purus" ; Times: 1
+	Query: "AUM Notropis" ; Times: 1
+	Query: "catalognumber:84696" ; Times: 1
+	Query: "oman" ; Times: 3
+	Query: "catalognumber:35017" ; Times: 1
+	Query: "Qatar" ; Times: 1
+	Query: "uaz" ; Times: 1
+	Query: "pervagor aspricaudus" ; Times: 6
+	Query: "ansp mammal" ; Times: 1
+	Query: "Okaloosae" ; Times: 1
+	Query: "Cyprinella caerulea coosa" ; Times: 1
+	Query: "ZSM" ; Times: 1
+	Query: "decapterus macarellus" ; Times: 1
+	Query: "Tyrannus tyrannus brazil" ; Times: 1
+	Query: "161927" ; Times: 1
+	Query: "coris gaimard" ; Times: 2
+	Query: "173778" ; Times: 1
+	Query: "canthigaster amboinensis" ; Times: 2
+	Query: "173777" ; Times: 1
+	Query: "catalognumber:86190" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(-4.302591077119676,-53.0419921875))<100000" ; Times: 1
+	Query: "bmnh" ; Times: 2
+	Query: "Caranx melampygus" ; Times: 1
+	Query: "lutjanus inermis" ; Times: 1
+	Query: "137212" ; Times: 1
+	Query: "oligoplites refulgens" ; Times: 1
+	Query: "catenatus missouri" ; Times: 4
+	Query: "Syria" ; Times: 1
+	Query: "137167" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+	Query: "jacksonii stateprovince:"California"" ; Times: 4
+	Query: "mollusks" ; Times: 1
+	Query: "fmnh skel" ; Times: 1
+	Query: "161896" ; Times: 1
+	Query: "174682" ; Times: 1
+	Query: "174683" ; Times: 1
+	Query: "catalognumber:130386" ; Times: 1
+	Query: "174687" ; Times: 1
+	Query: "174688" ; Times: 1
+	Query: "ANSP 32397" ; Times: 2
+	Query: "thalassoma trilobatum" ; Times: 2
+	Query: "119799" ; Times: 1
+	Query: "pristis pristis" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1524 download events in this period)
+Total number of records downloaded: 3049 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2960
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Guatemala ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-07 ; Times: 2
+	Date: 2015-06-08 ; Times: 1
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 9
+	Date: 2015-06-17 ; Times: 4
+	Date: 2015-06-18 ; Times: 2
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Qatar" ; Times: 1
+	Query: "Kuwait" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "cave alabama" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "atitlan" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Saudi Arabia" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "palestine" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: ""T. Barbour"" ; Times: 1
+	Query: "bahrain" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "quetzaltenango" ; Times: 1
+	Query: ""Cynoscion nebulosus" stateprovince:"Louisiana" mappable:1" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "AUM Notropis" ; Times: 1
+	Query: "oman" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 408
+Total number of records retrieved from searches: 5028
+Number of download events that retrieved data from the resource: 57
+Total number of records downloaded: 16520
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 435
+Total number of records retrieved from searches: 5643
+Number of download events that retrieved data from the resource: 67
+Total number of records downloaded: 18177
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
