@@ -1,0 +1,176 @@
+Report for Institution Code ANSP, Resource ansp_ich
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 896
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 1
+	Country: South Africa ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: Mexico ; Times: 7
+	Country: India ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 45
+	Country: Germany ; Times: 23
+	Country: Colombia ; Times: 1
+	Country: Dominican Republic ; Times: 2
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 4
+	Date: 2015-10-13 ; Times: 6
+	Date: 2015-10-10 ; Times: 5
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-26 ; Times: 12
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 5
+	Date: 2015-10-22 ; Times: 5
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-20 ; Times: 9
+	Date: 2015-10-05 ; Times: 4
+	Date: 2015-10-07 ; Times: 6
+	Date: 2015-10-06 ; Times: 3
+	Date: 2015-10-01 ; Times: 8
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 7
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-30 ; Times: 4
+	Date: 2015-10-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "porotergus gymnotus" ; Times: 1
+	Query: "halichoeres scapularis" ; Times: 1
+	Query: "corcovado costa rica" ; Times: 2
+	Query: "dendrochirus brachypterus" ; Times: 4
+	Query: "Etheostoma stigmaeum alabama" ; Times: 1
+	Query: "pholis ornata" ; Times: 1
+	Query: "bryaninops loki am" ; Times: 2
+	Query: "KU 13469" ; Times: 1
+	Query: "video" ; Times: 1
+	Query: "Aguascalientes" ; Times: 3
+	Query: "Hybopsis lineapunctata Alabama" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Hauxwell" ; Times: 1
+	Query: "ireng" ; Times: 2
+	Query: "121056" ; Times: 2
+	Query: "newfoundland fish" ; Times: 1
+	Query: "Simpson Rd" ; Times: 1
+	Query: "wetmorella nigropinnata bpbm" ; Times: 1
+	Query: "amnh 12704" ; Times: 2
+	Query: "apodichthys flavidus" ; Times: 1
+	Query: "wetmorella nigropinnata" ; Times: 1
+	Query: "Sierra Madre near Guadalupe" ; Times: 1
+	Query: "institutioncode:ANSP" ; Times: 1
+	Query: "BPBM 5473" ; Times: 2
+	Query: "43288" ; Times: 1
+	Query: "stateprovince:&#34;Los&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "wetmorella nigropinnata am" ; Times: 2
+	Query: "126521" ; Times: 1
+	Query: "Micropoecilia" ; Times: 1
+	Query: "aguascalientes" ; Times: 1
+	Query: "Crenidens" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "ku 9952" ; Times: 1
+	Query: "usnm 159514" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "gambusia affinis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "(Sabah AND Sarawak)" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "oligolepis" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "xenisthmus" ; Times: 4
+	Query: "bpbm indonesia" ; Times: 3
+	Query: "dendrochirus" ; Times: 1
+	Query: "naranjo costa rica" ; Times: 1
+	Query: "rhabdops" ; Times: 2
+	Query: "witch" ; Times: 9
+	Query: "busuanga" ; Times: 1
+	Query: "axis axis" ; Times: 1
+	Query: "meleagrides" ; Times: 1
+	Query: "iraq" ; Times: 1
+	Query: "catalognumber:180686 institutioncode:ANSP" ; Times: 1
+	Query: "crenidens crenidens" ; Times: 2
+	Query: "wetmorella nigropinnata bpbm paratype" ; Times: 1
+	Query: "am R.132879" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "Etheostoma stigmaeum Alabama" ; Times: 1
+	Query: "aneus" ; Times: 1
+	Query: "p358" ; Times: 1
+	Query: "amblyrhynchus institutioncode:ANSP" ; Times: 1
+	Query: "country:&#34;iraq&#34;" ; Times: 1
+	Query: "Video" ; Times: 1
+	Query: "Stegastes leucorus" ; Times: 1
+	Query: "92289" ; Times: 1
+	Query: "100002" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "Milwaukee" ; Times: 1
+	Query: "Remorina albescens" ; Times: 1
+	Query: "bpbm 132" ; Times: 1
+	Query: "rhabdotus" ; Times: 2
+	Query: "sea cucumbers" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 823 download events in this period)
+Total number of records downloaded: 3045
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 12
+	Country: Germany ; Times: 1
+	Country: Uganda ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gambusia affinis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "(Marinkelle)" ; Times: 1
+	Query: "Clinostomus" ; Times: 1
+	Query: "Etheostoma stigmaeum Alabama" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "marmorata" ; Times: 1
+	Query: "ellice islands" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "dendrochirus brachypterus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Amboy" ; Times: 1
+	Query: "Xiphophorus variatus" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "stateprovince:&#34;Karnataka&#34; country:&#34;India&#34;" ; Times: 1
+
+
+End of report.
