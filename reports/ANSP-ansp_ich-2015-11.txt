@@ -1,0 +1,224 @@
+Report for Institution Code ANSP, Resource ansp_ich
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 160
+Number of records retrieved in searches: 1093
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Bahamas ; Times: 2
+	Country: Sweden ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 3
+	Country: New Zealand ; Times: 1
+	Country: United States ; Times: 55
+	Country: Russia ; Times: 76
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 2
+	Date: 2015-11-24 ; Times: 8
+	Date: 2015-11-30 ; Times: 9
+	Date: 2015-11-03 ; Times: 2
+	Date: 2015-11-11 ; Times: 3
+	Date: 2015-11-13 ; Times: 2
+	Date: 2015-11-12 ; Times: 3
+	Date: 2015-11-15 ; Times: 3
+	Date: 2015-11-14 ; Times: 1
+	Date: 2015-11-17 ; Times: 15
+	Date: 2015-11-16 ; Times: 2
+	Date: 2015-11-27 ; Times: 9
+	Date: 2015-11-20 ; Times: 3
+	Date: 2015-11-21 ; Times: 12
+	Date: 2015-11-22 ; Times: 2
+	Date: 2015-11-05 ; Times: 3
+	Date: 2015-11-08 ; Times: 5
+	Date: 2015-11-09 ; Times: 6
+	Date: 2015-11-28 ; Times: 5
+	Date: 2015-11-29 ; Times: 9
+	Date: 2015-11-02 ; Times: 2
+	Date: 2015-11-25 ; Times: 10
+	Date: 2015-11-26 ; Times: 19
+	Date: 2015-11-01 ; Times: 2
+	Date: 2015-11-06 ; Times: 13
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-04 ; Times: 1
+	Date: 2015-11-23 ; Times: 5
+	Date: 2015-11-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "corythoichthys amplexus" ; Times: 1
+	Query: "epinephelus gabriellae" ; Times: 1
+	Query: "ptereleotris microlepis" ; Times: 1
+	Query: "cephalopsetta" ; Times: 1
+	Query: "takifugu oblongus" ; Times: 1
+	Query: "johnius borneensis" ; Times: 1
+	Query: "94563" ; Times: 1
+	Query: "type:specimen institutioncode:ANSP" ; Times: 2
+	Query: "lagocephalus lunaris oman" ; Times: 2
+	Query: "Lepidosiren" ; Times: 1
+	Query: "acanthoplesiops indicus" ; Times: 5
+	Query: "Ophichthidae oman" ; Times: 1
+	Query: "&#34;los angeles river&#34;" ; Times: 1
+	Query: "Umbra krameri" ; Times: 1
+	Query: "eupleurogrammus muticus" ; Times: 1
+	Query: "80723" ; Times: 1
+	Query: "80724" ; Times: 1
+	Query: "jaguar" ; Times: 2
+	Query: "Trigonocephalus" ; Times: 1
+	Query: "paramonacanthus gulf" ; Times: 1
+	Query: "catalognumber:24638" ; Times: 1
+	Query: "Stereolepis gigas" ; Times: 2
+	Query: "epinephelus latifasciatus oman" ; Times: 1
+	Query: "saurida gracilis" ; Times: 1
+	Query: "schistura" ; Times: 1
+	Query: "johnius dussumieri" ; Times: 1
+	Query: "miodon" ; Times: 1
+	Query: "neocentropogon" ; Times: 3
+	Query: "tetrosomus gibbosus oman" ; Times: 1
+	Query: "cheimerius nufar" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "halicampus mataafae" ; Times: 1
+	Query: "scomberomorus guttatus" ; Times: 1
+	Query: "Lepidotrigla oman" ; Times: 1
+	Query: "Campanario" ; Times: 1
+	Query: "87620" ; Times: 1
+	Query: "Pantanal" ; Times: 1
+	Query: "catalognumber:18740" ; Times: 2
+	Query: "M-128432" ; Times: 1
+	Query: "sorsogona oman" ; Times: 2
+	Query: "fundulus grandis" ; Times: 2
+	Query: "parapriacanthus" ; Times: 3
+	Query: "mystacina" ; Times: 1
+	Query: "176575" ; Times: 1
+	Query: "uranoscopus oman" ; Times: 2
+	Query: "county:&#34;Snyder&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "witch" ; Times: 7
+	Query: "ansp 7179" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus continent:North America" ; Times: 1
+	Query: "terapon theraps gulf" ; Times: 1
+	Query: "catalognumber:188484 institutioncode:ANSP" ; Times: 1
+	Query: "johnius gulf" ; Times: 1
+	Query: "176891" ; Times: 2
+	Query: "hemilutjanus" ; Times: 1
+	Query: "parupeneus indicus" ; Times: 1
+	Query: "distance(location,geopoint(31.088418038752163,-86.61964416503906))&lt;13467.610102058845" ; Times: 1
+	Query: "66553" ; Times: 1
+	Query: "Lepidotrigla bentuviai" ; Times: 1
+	Query: "74990" ; Times: 1
+	Query: "22626" ; Times: 1
+	Query: "specificepithet:pilsbryi genus:notropis" ; Times: 1
+	Query: "euryglossa orientalis" ; Times: 1
+	Query: "pseudorhombus triocellatus" ; Times: 2
+	Query: "parapercis robinsoni" ; Times: 1
+	Query: "107871" ; Times: 1
+	Query: "johnius vogleri" ; Times: 1
+	Query: "tamandua" ; Times: 1
+	Query: "specificepithet:jacksonii" ; Times: 1
+	Query: "catalognumber:187703 institutioncode:ANSP" ; Times: 1
+	Query: "176578" ; Times: 2
+	Query: "176579" ; Times: 1
+	Query: "pseudorhombus malayanus" ; Times: 4
+	Query: "28884" ; Times: 1
+	Query: "type:specimen (Liophis OR Lystrophis OR Xenodon OR Erythrolamprus OR Umbrivaga OR Leimadophis OR Lygophis OR Dromicus) institutioncode:ANSP" ; Times: 1
+	Query: "180660 institutioncode:ANSP" ; Times: 1
+	Query: "platycephalidae oman" ; Times: 3
+	Query: "23206" ; Times: 1
+	Query: "lagocephalus oman" ; Times: 1
+	Query: "locality:Pine Hills stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "scatophagus gulf" ; Times: 1
+	Query: "suezichthys" ; Times: 2
+	Query: "sillago chondropus" ; Times: 1
+	Query: "johnius carutta" ; Times: 1
+	Query: "11531" ; Times: 1
+	Query: "umbrina canariensis" ; Times: 2
+	Query: "141749" ; Times: 1
+	Query: "176585" ; Times: 1
+	Query: "umbrina ronchus" ; Times: 1
+	Query: "bembrops" ; Times: 1
+	Query: "institutioncode:ansp" ; Times: 1
+	Query: "epinephelus bleekeri oman" ; Times: 1
+	Query: "etheostoma stigmaeum arkansas" ; Times: 1
+	Query: "187218" ; Times: 1
+	Query: "type:specimen specificepithet:oblongus genus:Erimyzon stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "176586" ; Times: 1
+	Query: "epinephelus indistinctus" ; Times: 1
+	Query: "gavialiceps taeniola" ; Times: 2
+	Query: "percina maculata" ; Times: 1
+	Query: "epinephelus epistictus oman" ; Times: 1
+	Query: "192049" ; Times: 1
+	Query: "barbus barbus" ; Times: 1
+	Query: "176592" ; Times: 1
+	Query: "choridactylus natalensis" ; Times: 1
+	Query: "corythoichthys haematopterus" ; Times: 1
+	Query: "choridactylus multibarbus" ; Times: 1
+	Query: "leptophilypnus" ; Times: 1
+	Query: "johnius belangerii" ; Times: 1
+	Query: "johnius sina" ; Times: 1
+	Query: "33590" ; Times: 1
+	Query: "type:specimen locality:Eleuthera country:&#34;Bahamas&#34;" ; Times: 2
+	Query: "gymnothorax phasmatodes" ; Times: 1
+	Query: "Stereolepis" ; Times: 1
+	Query: "fish 1890" ; Times: 1
+	Query: "zugmayeri" ; Times: 1
+	Query: "soleidae oman" ; Times: 1
+	Query: "Guadalupe Island" ; Times: 1
+	Query: "Tetrapturus" ; Times: 1
+	Query: "aluterus monoceros" ; Times: 1
+	Query: "176587" ; Times: 1
+	Query: "county:&#34;Colombia&#34;" ; Times: 1
+	Query: "176582" ; Times: 1
+	Query: "stri" ; Times: 1
+	Query: "alopias" ; Times: 2
+	Query: "epinephelus bleekeri gulf" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 751 download events in this period)
+Total number of records downloaded: 967
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-09 ; Times: 3
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-17 ; Times: 1
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:jacksonii" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "NAYARIT" ; Times: 1
+	Query: "county:&#34;Snyder&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "Notophthalmus" ; Times: 1
+	Query: "Rugosa rugosa" ; Times: 1
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "distance(location,geopoint(18.224133787422407,-66.59088134765625))&lt;75606" ; Times: 1
+	Query: "etheostoma spectabile" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "type:specimen (Liophis OR Lystrophis OR Xenodon OR Erythrolamprus OR Umbrivaga OR Leimadophis OR Lygophis OR Dromicus) institutioncode:ANSP" ; Times: 1
+	Query: "Mammoth Cave" ; Times: 1
+	Query: "country:&#34;Ethiopia&#34;" ; Times: 1
+
+
+End of report.
