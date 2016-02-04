@@ -1,0 +1,169 @@
+Report for Institution Code ANSP, Resource ansp_ich
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 776
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: United States ; Times: 70
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 7
+	Country: Hungary ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-06 ; Times: 8
+	Date: 2016-01-26 ; Times: 3
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-24 ; Times: 9
+	Date: 2016-01-03 ; Times: 7
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-09 ; Times: 2
+	Date: 2016-01-22 ; Times: 7
+	Date: 2016-01-20 ; Times: 3
+	Date: 2016-01-19 ; Times: 12
+	Date: 2016-01-18 ; Times: 2
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-12 ; Times: 7
+	Date: 2016-01-11 ; Times: 2
+	Date: 2016-01-10 ; Times: 5
+	Date: 2016-01-15 ; Times: 4
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-30 ; Times: 2
+	Date: 2016-01-02 ; Times: 4
+	Date: 2016-01-25 ; Times: 3
+	Date: 2016-01-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "BMNH" ; Times: 2
+	Query: "Salmo salar" ; Times: 2
+	Query: "USNM 4393" ; Times: 1
+	Query: "egregius" ; Times: 1
+	Query: "erotelis smaragdus" ; Times: 1
+	Query: "Etheostoma stigmaeum alabama" ; Times: 1
+	Query: "distance(location,geopoint(29.429036,-113.527516))&lt;15000" ; Times: 1
+	Query: "etheostoma vulneratum" ; Times: 1
+	Query: "Lampetra appendix" ; Times: 1
+	Query: "Gobiomorus dormitor" ; Times: 2
+	Query: "Percina macrocephala" ; Times: 1
+	Query: "Thoburnia hamiltoni" ; Times: 3
+	Query: "locality:Cana Brava country:&#34;Brazil&#34;" ; Times: 1
+	Query: "eq" ; Times: 1
+	Query: "anomalum data" ; Times: 1
+	Query: "bpbm 1748" ; Times: 1
+	Query: "116441" ; Times: 1
+	Query: "jacksonii" ; Times: 1
+	Query: "T. thynnus" ; Times: 1
+	Query: "polypterus" ; Times: 1
+	Query: "specificepithet:topeka genus:Notropis stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "amnh 4119" ; Times: 1
+	Query: "usnm 4234" ; Times: 1
+	Query: "ANSP 128716" ; Times: 1
+	Query: "faku" ; Times: 1
+	Query: "mobula japanica" ; Times: 1
+	Query: "Etheostoma tallapoosae alabama" ; Times: 1
+	Query: "locality:Ducke country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Hypomesus olidus" ; Times: 3
+	Query: "distance(location,geopoint(25.689036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "parapriacanthus ansp" ; Times: 2
+	Query: "dormitator latifrons" ; Times: 1
+	Query: "cercamia" ; Times: 1
+	Query: "family:Cobitidae" ; Times: 1
+	Query: "AM 101015" ; Times: 1
+	Query: "108529" ; Times: 1
+	Query: "family:Dasyatidae" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "162073" ; Times: 1
+	Query: "minous" ; Times: 1
+	Query: "usnm tulayan" ; Times: 1
+	Query: "country:&#34;mauritius&#34;" ; Times: 1
+	Query: "genus:Etheostoma stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "125417" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "sedentarius mappable:1" ; Times: 1
+	Query: "Roaring River stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "family:Dasyatidae country:&#34;USA&#34;" ; Times: 2
+	Query: "Noturus eleutherus" ; Times: 1
+	Query: "gobiomorus maculatus" ; Times: 2
+	Query: "witch" ; Times: 8
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "ANSP 8359" ; Times: 1
+	Query: "family:Hiodontidae" ; Times: 1
+	Query: "Etowah County" ; Times: 1
+	Query: "velifera" ; Times: 1
+	Query: "Noturus flavus" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "AM 101017" ; Times: 1
+	Query: "MZUF" ; Times: 1
+	Query: "cercamia eremia" ; Times: 2
+	Query: "79-64" ; Times: 1
+	Query: "genus:Rivulus" ; Times: 1
+	Query: "catalognumber:144269 institutioncode:ANSP mappable:1" ; Times: 1
+	Query: "176998" ; Times: 1
+	Query: "family:Notopteridae" ; Times: 1
+	Query: "locality:Carmen stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "gempylus serpens" ; Times: 1
+	Query: "ANSP 15436" ; Times: 5
+	Query: "sailfish" ; Times: 1
+	Query: "scolopsis vosmeri" ; Times: 1
+	Query: "jellyfish" ; Times: 1
+	Query: "locality:Socorro country:&#34;Mexico&#34;" ; Times: 2
+	Query: "ANSP 6844" ; Times: 1
+	Query: "130422 ku" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 507 download events in this period)
+Total number of records downloaded: 5785
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-03 ; Times: 8
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;False Bay&#34;" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "Etheostoma tallapoosae alabama" ; Times: 1
+	Query: "mobula japanica" ; Times: 1
+	Query: "distance(location,geopoint(32.66250035467835,-119.99542236328125))&lt;87926.45562583183" ; Times: 1
+	Query: "Etheostoma stigmaeum alabama" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))&lt;78505" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+
+
+End of report.
