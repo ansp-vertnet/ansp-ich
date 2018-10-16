@@ -1,0 +1,1053 @@
+Report for Institution Code ANSP, Resource ansp_ich
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1387
+Number of records retrieved in searches: 22307
+Number of different countries where searches have been originated: 28
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 40
+	Country: Brazil ; Times: 25
+	Country: Madagascar ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: France ; Times: 1
+	Country: Israel ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Czechia ; Times: 3
+	Country: Guatemala ; Times: 1
+	Country: China ; Times: 4
+	Country: Chile ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 12
+	Country: Dominican Republic ; Times: 2
+	Country: Spain ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 1053
+	Country: Sweden ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Mexico ; Times: 200
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 8
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Japan ; Times: 1
+	Country: South Korea ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 9
+	Date: 2018-02-08 ; Times: 53
+	Date: 2018-02-03 ; Times: 1
+	Date: 2018-02-02 ; Times: 46
+	Date: 2018-02-01 ; Times: 19
+	Date: 2018-02-07 ; Times: 27
+	Date: 2018-02-06 ; Times: 90
+	Date: 2018-02-05 ; Times: 247
+	Date: 2018-02-04 ; Times: 4
+	Date: 2018-02-21 ; Times: 67
+	Date: 2018-02-20 ; Times: 84
+	Date: 2018-02-23 ; Times: 15
+	Date: 2018-02-22 ; Times: 44
+	Date: 2018-02-25 ; Times: 19
+	Date: 2018-02-24 ; Times: 7
+	Date: 2018-02-27 ; Times: 419
+	Date: 2018-02-26 ; Times: 36
+	Date: 2018-02-28 ; Times: 18
+	Date: 2018-02-14 ; Times: 13
+	Date: 2018-02-15 ; Times: 33
+	Date: 2018-02-16 ; Times: 23
+	Date: 2018-02-17 ; Times: 14
+	Date: 2018-02-10 ; Times: 5
+	Date: 2018-02-11 ; Times: 7
+	Date: 2018-02-12 ; Times: 13
+	Date: 2018-02-13 ; Times: 15
+	Date: 2018-02-18 ; Times: 21
+	Date: 2018-02-19 ; Times: 38
+
+List of queries that retrieved data from the resource: 
+	Query: "Canada" ; Times: 1
+	Query: "institutioncode:ANSP distance(location,geopoint(34.35794833631096,-82.6171875))&lt;100000" ; Times: 1
+	Query: "genus:&#34;trichomycterus&#34;" ; Times: 1
+	Query: "Hepatus lucillae mappable:1" ; Times: 1
+	Query: "Rhinogobius similis mappable:1" ; Times: 1
+	Query: "Acanthurus matoides" ; Times: 3
+	Query: "Naso thynnoides" ; Times: 2
+	Query: "ostracion meleagris" ; Times: 1
+	Query: "Fluviphylax" ; Times: 1
+	Query: "scientificname:&#34;comephorus dybowskii&#34;" ; Times: 1
+	Query: "scientificname:&#34;pristobrycon striolatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;artedius notospilotus&#34;" ; Times: 1
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 3
+	Query: "scientificname:&#34;cyprinella lutrensis&#34;" ; Times: 1
+	Query: "Paracanthurus hepatus" ; Times: 1
+	Query: "scientificname:&#34;pseudanos irinae&#34;" ; Times: 1
+	Query: "farlowella acus" ; Times: 2
+	Query: "scientificname:&#34;canthigaster punctatissima&#34;" ; Times: 1
+	Query: "Ubon ratchathani" ; Times: 2
+	Query: "metynnis altidorsalis" ; Times: 1
+	Query: "Hepatus guttatus" ; Times: 1
+	Query: "scientificname:&#34;carpiodes cyprinus&#34;" ; Times: 1
+	Query: "genus:&#34;metriaclima&#34;" ; Times: 1
+	Query: "scientificname:&#34;hemitripterus americanus&#34;" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "fmnh japan" ; Times: 1
+	Query: "stateprovince:California" ; Times: 3
+	Query: "scientificname:&#34;ophichthus rex&#34;" ; Times: 1
+	Query: "scientificname:&#34;piaractus brachypomus&#34;" ; Times: 1
+	Query: "stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "Zebrasoma rostratum" ; Times: 1
+	Query: "scientificname:&#34;cyprinella labrosa&#34;" ; Times: 1
+	Query: "ANSP 192864" ; Times: 1
+	Query: "scientificname:&#34;pallasina barbata&#34;" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 2
+	Query: "scientificname:&#34;belonion apodion&#34;" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "scientificname:&#34;trinectes fluviatilis&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus holotaenia&#34;" ; Times: 1
+	Query: "distance(location,geopoint(41.9258506977145,-83.3063313274999))&lt;5625" ; Times: 4
+	Query: "pterois volitans" ; Times: 5
+	Query: "Chaetodon lineatus" ; Times: 1
+	Query: "distance(location,geopoint(45.259052436225,-93.979293029214))&lt;21143" ; Times: 4
+	Query: "scientificname:&#34;catoprion mento&#34;" ; Times: 1
+	Query: "scientificname:&#34;clarias batrachus&#34;" ; Times: 1
+	Query: "ANSP 191246" ; Times: 1
+	Query: "183644" ; Times: 1
+	Query: "scientificname:&#34;pimephales tenellus&#34;" ; Times: 1
+	Query: "scientificname:&#34;notropis leuciodus&#34;" ; Times: 1
+	Query: "scientificname:&#34;tomicodon rupestris&#34;" ; Times: 1
+	Query: "Naso tuberosus mappable:1" ; Times: 3
+	Query: "institutioncode:ANSP distance(location,geopoint(-42.83247287208631,139.5263671875))&lt;655173" ; Times: 1
+	Query: "Sicyopterus japonicus mappable:1" ; Times: 1
+	Query: "Hepatus lineolatus mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;ontario&#34; country:&#34;CANADA&#34;" ; Times: 1
+	Query: "scientificname:&#34;notemigonus crysoleucas&#34;" ; Times: 1
+	Query: "Hepatus fuliginosus" ; Times: 1
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 2
+	Query: "Sicydium plumieri mappable:1" ; Times: 1
+	Query: "Naso vlamingii" ; Times: 1
+	Query: "scientificname:&#34;cottus carolinae&#34;" ; Times: 1
+	Query: "huso huso" ; Times: 2
+	Query: "scientificname:&#34;monacanthus ciliatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;colomesus  tocantinensis&#34;" ; Times: 1
+	Query: "scientificname:&#34;heteropneustes fossilis&#34;" ; Times: 1
+	Query: "Naso brevirostris" ; Times: 2
+	Query: "Sicyopterus stimpsoni mappable:1" ; Times: 1
+	Query: "genus:Pimelodella country:&#34;Panama&#34;" ; Times: 1
+	Query: "Acanthurus achilles" ; Times: 1
+	Query: "3026" ; Times: 1
+	Query: "scientificname:&#34;barbus anema&#34;" ; Times: 1
+	Query: "Acanthurus nigricans mappable:1" ; Times: 5
+	Query: "Tick Island" ; Times: 1
+	Query: "scientificname:&#34;macrhybopsis storeriana&#34;" ; Times: 1
+	Query: "Microphilypnus Guyana" ; Times: 3
+	Query: "183292" ; Times: 1
+	Query: "scientificname:&#34;hypsoblennius brevipinnis&#34;" ; Times: 1
+	Query: "scientificname:&#34;bero elegans&#34;" ; Times: 1
+	Query: "scientificname:&#34;setipinna tenuifilis&#34;" ; Times: 1
+	Query: "distance(location,geopoint(44.3604113495001,-93.3289771619999))&lt;20441" ; Times: 4
+	Query: "catalognumber:434" ; Times: 1
+	Query: "Hepatus fuliginosus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;ictalurus punctatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;emblemaria atlantica&#34;" ; Times: 1
+	Query: "scientificname:&#34;serrasalmus elongatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;notropis chrosomus&#34;" ; Times: 1
+	Query: "scientificname:&#34;notropis  hypsilepis&#34;" ; Times: 1
+	Query: "grypus" ; Times: 1
+	Query: "polypteriformes" ; Times: 1
+	Query: "scientificname:&#34;acanthemblemaria chaplini&#34;" ; Times: 1
+	Query: "witch" ; Times: 5
+	Query: "caiman" ; Times: 1
+	Query: "lepomis" ; Times: 1
+	Query: "scientificname:&#34;rhabdolichops eastwardi&#34;" ; Times: 1
+	Query: "Teuthis achilles" ; Times: 1
+	Query: "family:Leiognathidae continent:Africa" ; Times: 2
+	Query: "scientificname:&#34;gila atraria&#34;" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "scientificname:&#34;cottus poecilopus&#34;" ; Times: 1
+	Query: "B-1357" ; Times: 1
+	Query: "scientificname:&#34;canthigaster figueiredoi&#34;" ; Times: 1
+	Query: "scientificname:&#34;exodon paradoxus&#34;" ; Times: 1
+	Query: "scientificname:&#34;notropis hudsonius&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus oligolepis&#34;" ; Times: 1
+	Query: "scientificname:&#34;achirus scutum&#34;" ; Times: 1
+	Query: "scientificname:&#34;clinostomus elongatus&#34;" ; Times: 1
+	Query: "75244" ; Times: 1
+	Query: "ANSP 182659" ; Times: 1
+	Query: "institutioncode:ANSP basisofrecord:PreservedSpecimen mappable:1" ; Times: 8
+	Query: "ANSP 191182" ; Times: 1
+	Query: "Mirza" ; Times: 2
+	Query: "80294" ; Times: 1
+	Query: "scientificname:&#34;leporellus vittatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;acyrtops beryllinus&#34;" ; Times: 1
+	Query: "raccoon" ; Times: 2
+	Query: "distance(location,geopoint(43.6212740058635,-95.2482103224999))&lt;15916" ; Times: 4
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "county:&#34;santa barbara&#34;" ; Times: 2
+	Query: "hemichromis" ; Times: 2
+	Query: "sand eel" ; Times: 1
+	Query: "Ctenochaetus binotatus" ; Times: 2
+	Query: "scientificname:&#34;ranzania laevis&#34;" ; Times: 1
+	Query: "scientificname:&#34;thalassophryne amazonica&#34;" ; Times: 1
+	Query: "scientificname:&#34;chitonotus pugetensis&#34;" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 2
+	Query: "scientificname:&#34;acrocheilus alutaceus&#34;" ; Times: 1
+	Query: "Acanthurus nigrofuscus" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 9
+	Query: "scientificname:&#34;pimephales notatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;phenacobius mirabilis&#34;" ; Times: 1
+	Query: "belonesox belizanus" ; Times: 1
+	Query: "scientificname:&#34;acanthemblemaria exilispinus&#34;" ; Times: 1
+	Query: "scientificname:&#34;acanthemblemaria hancocki&#34;" ; Times: 1
+	Query: "ANSP 189094" ; Times: 1
+	Query: "Monoceros garretti" ; Times: 1
+	Query: "ANSP 189091" ; Times: 1
+	Query: "ANSP 189092" ; Times: 1
+	Query: "scientificname:&#34;batrachoides goldmani&#34;" ; Times: 1
+	Query: "scientificname:&#34;micrometrus aurora&#34;" ; Times: 1
+	Query: "suriname" ; Times: 3
+	Query: "ambergris" ; Times: 1
+	Query: "Pterois volitans" ; Times: 22
+	Query: "genus:Gila stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "scientificname:&#34;aspidophoroides monopterygius&#34;" ; Times: 1
+	Query: "Zebrasoma rostratum mappable:1" ; Times: 1
+	Query: "ZP-AM 44" ; Times: 1
+	Query: "Ctenochaetus binotatus mappable:1" ; Times: 2
+	Query: "Acanthurus guttatus" ; Times: 2
+	Query: "scientificname:&#34;cyprinella whipplei&#34;" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 21
+	Query: "Acanthurus thompsoni mappable:1" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Acanthurus randalli mappable:1" ; Times: 1
+	Query: "scientificname:&#34;cyprinella spiloptera&#34;" ; Times: 1
+	Query: "family:Apteronotidae" ; Times: 1
+	Query: "MCZ 1954" ; Times: 2
+	Query: "Chesapeake Bay" ; Times: 5
+	Query: "scientificname:&#34;anguilla rostrata&#34;" ; Times: 1
+	Query: "&#34;Oreochromis mossambicus&#34;" ; Times: 1
+	Query: "Stenogobius hawaiiensis mappable:1" ; Times: 1
+	Query: "scientificname:&#34;notropis longirostris&#34;" ; Times: 1
+	Query: "scientificname:&#34;hybognathus hankinsoni&#34;" ; Times: 1
+	Query: "genus:Oncorhynchus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:&#34;notemigonus&#34;" ; Times: 1
+	Query: "scientificname:&#34;campostoma pullum&#34;" ; Times: 1
+	Query: "Oklahoma oklahoma" ; Times: 1
+	Query: "scientificname:&#34;helogenes marmoratus&#34;" ; Times: 1
+	Query: "metynnis maculatus" ; Times: 1
+	Query: "BMNH" ; Times: 1
+	Query: "Bald eagle" ; Times: 1
+	Query: "scientificname:&#34;encrasicholina purpurea&#34;" ; Times: 1
+	Query: "Acanthurus gahhm" ; Times: 2
+	Query: "scientificname:&#34;cyprinella  pyrrhomelas&#34;" ; Times: 1
+	Query: "Acanthurus gahhm mappable:1" ; Times: 2
+	Query: "scientificname:&#34;nocomis biguttatus&#34;" ; Times: 1
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;notropis buccatus&#34;" ; Times: 1
+	Query: "Astyanax bimaculatus" ; Times: 1
+	Query: "scientificname:&#34;tomicodon cryptus&#34;" ; Times: 1
+	Query: "Acanthurus leucosternon" ; Times: 2
+	Query: "Acanthurus tuberosus" ; Times: 1
+	Query: "scientificname:&#34;arothron immaculatus&#34;" ; Times: 1
+	Query: "saramacca" ; Times: 1
+	Query: "catalognumber:74868" ; Times: 1
+	Query: "Gulo gulo " ; Times: 1
+	Query: "scientificname:&#34;ameiurus melas&#34;" ; Times: 1
+	Query: "scientificname:&#34;dellichthys morelandi&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus barbus&#34;" ; Times: 1
+	Query: "fundulus heteroclitus" ; Times: 2
+	Query: "stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "scientificname:&#34;labidesthes sicculus&#34;" ; Times: 1
+	Query: "scientificname:&#34;serrasalmus marginatus&#34;" ; Times: 1
+	Query: "order:Gymnotiformes continent:South America" ; Times: 1
+	Query: "scientificname:&#34;rhaphiodon vulpinus&#34;" ; Times: 1
+	Query: "scientificname:&#34;ascelichthys rhodorus&#34;" ; Times: 1
+	Query: "Hydrolagus affinis" ; Times: 1
+	Query: "wolf" ; Times: 2
+	Query: "scientificname:&#34;cynodon gibbus&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus waageni&#34;" ; Times: 1
+	Query: "recordedby:sharp year &gt;= 1895 year &lt;= 1895 institutioncode:ANSP" ; Times: 1
+	Query: "institutioncode:ANSP distance(location,geopoint(27.769106880246426,81.8701171875))&lt;5030265" ; Times: 2
+	Query: "genus:&#34;ictiobus&#34;" ; Times: 1
+	Query: "scientificname:&#34;notropis rubellus&#34;" ; Times: 1
+	Query: "recordedby:Judson year &gt;= 1908" ; Times: 1
+	Query: "stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "scientificname:&#34;homalopteroides wassinkii&#34;" ; Times: 1
+	Query: "locality:Alabama" ; Times: 1
+	Query: "country:&#34;mexico&#34;" ; Times: 11
+	Query: "scientificname:&#34;cottus bairdii&#34;" ; Times: 1
+	Query: "country:&#34;New Zealand&#34; year &gt;= 1855 year &lt;= 1866" ; Times: 1
+	Query: "scientificname:&#34;heterostichus rostratus&#34;" ; Times: 1
+	Query: "scientificname:&#34;amia calva&#34;" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "scientificname:&#34;coralliozetus cardonae&#34;" ; Times: 1
+	Query: "stolzmanni" ; Times: 1
+	Query: "scientificname:&#34;trinectes maculatus&#34;" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "&#34;Mylopharyngodon piceus&#34;" ; Times: 24
+	Query: "Tennessee" ; Times: 1
+	Query: "Hydrolycus wallacei" ; Times: 1
+	Query: "Acanthurus tennenti mappable:1" ; Times: 1
+	Query: "scientificname:&#34;barbus paludinosus&#34;" ; Times: 1
+	Query: "Galeocerdo cuvier" ; Times: 7
+	Query: "scientificname:&#34;hybognathus placitus&#34;" ; Times: 1
+	Query: "scientificname:&#34;homalopterula ripleyi&#34;" ; Times: 1
+	Query: "catalognumber:129640" ; Times: 1
+	Query: "Negaprion brevirostris" ; Times: 2
+	Query: "Acanthurus unicornis mappable:1" ; Times: 1
+	Query: "khemmarat" ; Times: 1
+	Query: "Acanthurus randalli" ; Times: 1
+	Query: "scientificname:&#34;barbus natalensis&#34;" ; Times: 1
+	Query: "scientificname:&#34;serrasalmus manueli&#34;" ; Times: 1
+	Query: "Texas" ; Times: 1
+	Query: "badger" ; Times: 1
+	Query: "ANSP 182609" ; Times: 1
+	Query: "scientificname:&#34;metynnis altidorsalis&#34;" ; Times: 1
+	Query: "Ctenochaetus hawaiiensis" ; Times: 1
+	Query: "scientificname:&#34;rhabdolichops caviceps&#34;" ; Times: 1
+	Query: "scientificname:&#34;osteochilus melanopleurus&#34;" ; Times: 1
+	Query: "ANSP 182603" ; Times: 1
+	Query: "Naso annulatus mappable:1" ; Times: 1
+	Query: "156047" ; Times: 1
+	Query: "Guatemala" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 4
+	Query: "scientificname:&#34;campostoma anomalum&#34;" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "scientificname:&#34;bagre marinus&#34;" ; Times: 1
+	Query: "genus:&#34;barbatula&#34;" ; Times: 1
+	Query: "Acanthurus caeruleus" ; Times: 1
+	Query: "ANSP 182230" ; Times: 1
+	Query: "114041" ; Times: 1
+	Query: "Acanthurus leucopareius mappable:1" ; Times: 1
+	Query: "scientificname:&#34;pygopristis denticulata&#34;" ; Times: 1
+	Query: "Naso unicornis" ; Times: 1
+	Query: "scientificname:&#34;sphoeroides nephelus&#34;" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 19
+	Query: "county:&#34;calhoun&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Acanthurus philippinus" ; Times: 1
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "Acanthurus philippinus mappable:1" ; Times: 1
+	Query: "Prionurus punctatus" ; Times: 1
+	Query: "scientificname:&#34;barbus meridionalis&#34;" ; Times: 1
+	Query: "scientificname:&#34;gillichthys mirabilis&#34;" ; Times: 1
+	Query: "ANSP 179650" ; Times: 1
+	Query: "scientificname:&#34;daector dowi&#34;" ; Times: 1
+	Query: "pulcherrimus" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "scientificname:&#34;noturus flavus&#34;" ; Times: 1
+	Query: "scientificname:&#34;roeboides guatemalensis&#34;" ; Times: 1
+	Query: "Naso unicornis mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 4
+	Query: "scientificname:&#34;notropis baileyi&#34;" ; Times: 1
+	Query: "Acanthurus caeruleus mappable:1" ; Times: 1
+	Query: "iguana" ; Times: 2
+	Query: "ANSP 178124" ; Times: 2
+	Query: "scientificname:&#34;moxostoma poecilurum&#34;" ; Times: 1
+	Query: "chesapeake" ; Times: 1
+	Query: "ANSP 180317" ; Times: 1
+	Query: "distance(location,geopoint(42.841622107,-93.677619575))&lt;6905" ; Times: 4
+	Query: "Ivory Coast" ; Times: 1
+	Query: "Acanthurus tennenti" ; Times: 1
+	Query: "latimeriidae" ; Times: 1
+	Query: "specificepithet:reticulatus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "scientificname:&#34;cottus immaculatus&#34;" ; Times: 1
+	Query: "Pitts" ; Times: 1
+	Query: "Acanthurus lineolatus mappable:1" ; Times: 1
+	Query: "River Otter" ; Times: 1
+	Query: "scientificname:&#34;pimephales vigilax&#34;" ; Times: 1
+	Query: "Astyanax fasciatus" ; Times: 1
+	Query: "scientificname:&#34;stolephorus indicus&#34;" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 3
+	Query: "ANSP 182218" ; Times: 1
+	Query: "196013" ; Times: 1
+	Query: "Polypteriformes" ; Times: 2
+	Query: "scientificname:&#34;pristobrycon calmoni&#34;" ; Times: 1
+	Query: "poecilia reticulata" ; Times: 1
+	Query: "scientificname:&#34;cyprinella leedsi&#34;" ; Times: 1
+	Query: "Acanthurus nigricans" ; Times: 5
+	Query: "woodward (woodward)" ; Times: 1
+	Query: "scientificname:&#34;cyprinella callistia&#34;" ; Times: 1
+	Query: "scientificname:&#34;acyrtus rubiginosus&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus werneri&#34;" ; Times: 1
+	Query: "scientificname:&#34;pylodictis olivaris&#34;" ; Times: 1
+	Query: "scientificname:&#34;leptocottus armatus&#34;" ; Times: 1
+	Query: "Hepatus nigrofuscus" ; Times: 2
+	Query: "scientificname:&#34;myoxocephalus polyacanthocephalus&#34;" ; Times: 1
+	Query: "scientificname:&#34;elops saurus&#34;" ; Times: 1
+	Query: "Pterois Volitans" ; Times: 2
+	Query: "Acanthurus glaucopareius mappable:1" ; Times: 1
+	Query: "costa rica" ; Times: 1
+	Query: "Rhinogobius giurinus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;pimelodus blochii&#34;" ; Times: 1
+	Query: "Mylopharyngodon piceus" ; Times: 3
+	Query: "scientificname:&#34;luxilus cornutus&#34;" ; Times: 1
+	Query: "scientificname:&#34;epinephelus nigritus&#34;" ; Times: 1
+	Query: "scientificname:&#34;myleus rubripinnis&#34;" ; Times: 1
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "locality:&#34;neblina base camp&#34; mappable:1" ; Times: 1
+	Query: "scientificname:&#34;artedius lateralis&#34;" ; Times: 1
+	Query: "distance(location,geopoint(43.9584544995,-95.1857501855))&lt;25378" ; Times: 4
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "scientificname:&#34;embiotoca lateralis&#34;" ; Times: 1
+	Query: "Acanthurus elongatus" ; Times: 2
+	Query: "Hucho taimen" ; Times: 1
+	Query: "stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "scientificname:&#34;serrasalmus irritans&#34;" ; Times: 1
+	Query: "prionace glauca" ; Times: 2
+	Query: "Awaous tajasica mappable:1" ; Times: 1
+	Query: "scientificname:&#34;leporinus nigrotaeniatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;escualosa thoracata&#34;" ; Times: 1
+	Query: "Acanthurus phlebotomus mappable:1" ; Times: 2
+	Query: "scientificname:&#34;ophiodon elongatus&#34;" ; Times: 1
+	Query: "Acanthurus chirurgus" ; Times: 3
+	Query: "&#34;Chesapeake&#34;" ; Times: 1
+	Query: "Acanthurus aliala mappable:1" ; Times: 1
+	Query: "Continent-scale" ; Times: 1
+	Query: "scientificname:&#34;thryssa hamiltonii&#34;" ; Times: 1
+	Query: "scientificname:&#34;notropis shumardi&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus concharius&#34;" ; Times: 1
+	Query: "Hepatus guttatus mappable:1" ; Times: 1
+	Query: "passer" ; Times: 1
+	Query: "scientificname:&#34;canthigaster rostrata&#34;" ; Times: 1
+	Query: "ramsden" ; Times: 2
+	Query: "79588" ; Times: 1
+	Query: "stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "scientificname:&#34;sphoeroides parvus&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus oxyrhynchus&#34;" ; Times: 1
+	Query: "distance(location,geopoint(44.9817493065001,-83.2618961995))&lt;9583" ; Times: 4
+	Query: "scientificname:&#34;notropis greenei&#34;" ; Times: 1
+	Query: "scientificname:&#34;leiodon cutcutia&#34;" ; Times: 1
+	Query: "Ginglymostoma cirratum" ; Times: 6
+	Query: "scientificname:&#34;erimystax harryi&#34;" ; Times: 1
+	Query: "scientificname:&#34;notropis nubilus&#34;" ; Times: 1
+	Query: "country:&#34;USA&#34;" ; Times: 1
+	Query: "scientificname:&#34;malacoctenus zonifer&#34;" ; Times: 1
+	Query: "scientificname:&#34;mylossoma duriventre&#34;" ; Times: 1
+	Query: "scientificname:&#34;platygillellus rubrocinctus&#34;" ; Times: 1
+	Query: "scientificname:&#34;astyanax mexicanus&#34;" ; Times: 1
+	Query: "calcarifer" ; Times: 2
+	Query: "Ctenochaetus flavicauda mappable:1" ; Times: 1
+	Query: "Naso vlamingii mappable:1" ; Times: 1
+	Query: "scientificname:&#34;hexagrammos stelleri&#34;" ; Times: 1
+	Query: "scientificname:&#34;takifugu oblongus&#34;" ; Times: 1
+	Query: "genus:Carcharhinus country:&#34;mexico&#34;" ; Times: 5
+	Query: "cyote" ; Times: 1
+	Query: "scientificname:&#34;tomicodon fasciatus&#34;" ; Times: 1
+	Query: "exodon paradoxus" ; Times: 1
+	Query: "scientificname:&#34;rhinichthys cataractae&#34;" ; Times: 1
+	Query: "Acanthurus fuliginosus mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "ANSP 180389" ; Times: 1
+	Query: "Acanthurus gahm mappable:1" ; Times: 2
+	Query: "scientificname:&#34;myleus levis&#34;" ; Times: 1
+	Query: "Acanthurus unicornis" ; Times: 1
+	Query: "torpedinidae" ; Times: 2
+	Query: "recordedby:L. Luna" ; Times: 1
+	Query: "Chaetodon lineatus mappable:1" ; Times: 1
+	Query: "Berkeley CA" ; Times: 1
+	Query: "Prionurus punctatus mappable:1" ; Times: 1
+	Query: "Culter brevicauda" ; Times: 3
+	Query: "specificepithet:irideus" ; Times: 1
+	Query: "scientificname:&#34;dorosoma cepedianum&#34;" ; Times: 1
+	Query: "scientificname:&#34;liparis florae&#34;" ; Times: 1
+	Query: "Glossogobius giuris" ; Times: 1
+	Query: "Naso hexacanthus" ; Times: 1
+	Query: "distance(location,geopoint(43.1414242245,-94.7876604945))&lt;15923" ; Times: 4
+	Query: "county:&#34;Colombia&#34;" ; Times: 1
+	Query: "ANSP 189043" ; Times: 1
+	Query: "distance(location,geopoint(42.212541833,-83.139158085))&lt;3263" ; Times: 4
+	Query: "ANSP 189041" ; Times: 1
+	Query: "scientificname:&#34;cottus cognatus&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "scientificname:&#34;trinectes fimbriatus&#34;" ; Times: 1
+	Query: "family:aplocheilidae country:&#34;Panama&#34;" ; Times: 1
+	Query: "Ctenochaetus striatus" ; Times: 3
+	Query: "Window" ; Times: 1
+	Query: "distance(location,geopoint(43.6598506715,-95.6794779779999))&lt;19593" ; Times: 4
+	Query: "uganda" ; Times: 1
+	Query: "scientificname:&#34;leporinus ortomaculatus&#34;" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus lujae&#34;" ; Times: 1
+	Query: "scientificname:&#34;emblemaria pandionis&#34;" ; Times: 1
+	Query: "scientificname:&#34;lepidosiren paradoxa&#34;" ; Times: 1
+	Query: "scientificname:&#34;enophrys lucasi&#34;" ; Times: 1
+	Query: "scientificname:&#34;gymnoscyphus ascitus&#34;" ; Times: 1
+	Query: "apteronotidae" ; Times: 1
+	Query: "carrikeri" ; Times: 2
+	Query: "scientificname:&#34;luxilus chrysocephalus&#34;" ; Times: 1
+	Query: "scientificname:&#34;artedius fenestralis&#34;" ; Times: 1
+	Query: "scientificname:&#34;corydoras sp.&#34;" ; Times: 1
+	Query: "146501" ; Times: 1
+	Query: "Acanthurus lituratus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;balistes polylepis&#34;" ; Times: 1
+	Query: "Xesurus punctatus" ; Times: 1
+	Query: "scientificname:&#34;notropis spectrunculus&#34;" ; Times: 1
+	Query: "Naso lituratus" ; Times: 2
+	Query: "Acanthurus crestonis" ; Times: 1
+	Query: "scientificname:&#34;chaenopsis coheni&#34;" ; Times: 1
+	Query: "Plagioscion squamosissimus" ; Times: 3
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "Guyana" ; Times: 2
+	Query: "scientificname:&#34;sphoeroides maculatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;notopterus notopterus&#34;" ; Times: 1
+	Query: "scientificname:&#34;roeboides occidentalis&#34;" ; Times: 1
+	Query: "aye aye" ; Times: 1
+	Query: "Acanthurus nigroris" ; Times: 2
+	Query: "scientificname:&#34;luxilus cerasinus&#34;" ; Times: 1
+	Query: "family:Apteronotidae continent:South America mappable:1" ; Times: 1
+	Query: "Hydrolycus tatauaia" ; Times: 1
+	Query: "(Washington )" ; Times: 1
+	Query: "scientificname:&#34;barbus everetti&#34;" ; Times: 1
+	Query: "Hauxwell" ; Times: 1
+	Query: "scientificname:&#34;hemiemblemaria simulus&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "Canis" ; Times: 1
+	Query: "scientificname:&#34;mylocheilus caurinus&#34;" ; Times: 1
+	Query: "scientificname:&#34;leporinus taeniatus&#34;" ; Times: 1
+	Query: "ANSP 18265" ; Times: 1
+	Query: "Acanthurus achilles mappable:1" ; Times: 1
+	Query: "county:&#34;imperial Co.&#34;" ; Times: 1
+	Query: "lepisosteiformes" ; Times: 1
+	Query: "scientificname:&#34;ptychocheilus grandis&#34;" ; Times: 1
+	Query: "scientificname:&#34;acyrtus artius&#34;" ; Times: 1
+	Query: "Acanthurus guttatus mappable:1" ; Times: 2
+	Query: "county:&#34;perry&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "scientificname:&#34;encrasicholina punctifer&#34;" ; Times: 1
+	Query: "Teuthis achilles mappable:1" ; Times: 1
+	Query: "scientificname:&#34;barbus castrasibutum&#34;" ; Times: 1
+	Query: "scientificname:&#34;nocomis raneyi&#34;" ; Times: 1
+	Query: "Naso annulatus" ; Times: 1
+	Query: "scientificname:&#34;lythrurus bellus&#34;" ; Times: 1
+	Query: "scientificname:&#34;meiacanthus kamoharai&#34;" ; Times: 1
+	Query: "Judson year &gt;= 1908" ; Times: 1
+	Query: "Callorhinchus callorhynchus" ; Times: 1
+	Query: "scientificname:&#34;eigenmannia virescens&#34;" ; Times: 1
+	Query: "scientificname:&#34;arcos nudus&#34;" ; Times: 1
+	Query: "scientificname:&#34;hemilepidotus hemilepidotus&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus burchelli&#34;" ; Times: 1
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 3
+	Query: "genus:&#34;petulanos&#34;" ; Times: 1
+	Query: "Teuthis atrimentatus mappable:1" ; Times: 1
+	Query: "Zebrasoma desjardinii mappable:1" ; Times: 2
+	Query: "scientificname:&#34;sphoeroides spengleri&#34;" ; Times: 1
+	Query: "stateprovince:&#34;guam&#34;" ; Times: 1
+	Query: "scientificname:&#34;dasyatis americana&#34;" ; Times: 1
+	Query: "Acanthurus tuberosus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;barbus kerstenii&#34;" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:benjamin year &gt;= 1895 year &lt;= 1895 institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:mykiss" ; Times: 1
+	Query: "scientificname:&#34;compsaraia samueli&#34;" ; Times: 1
+	Query: "michigan" ; Times: 5
+	Query: "scientificname:&#34;sardinella  albella&#34;" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 2
+	Query: "fish data" ; Times: 1
+	Query: "Acanthurus bleekeri mappable:1" ; Times: 2
+	Query: "locality:neblina base camp mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "Glossogobius giuris mappable:1" ; Times: 7
+	Query: "mylodon" ; Times: 1
+	Query: "genus:Salmo stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "scientificname:&#34;cottus klamathensis&#34;" ; Times: 1
+	Query: "scientificname:&#34;cyprinella  callitaenia&#34;" ; Times: 1
+	Query: "scientificname:&#34;colomesus psittacus&#34;" ; Times: 1
+	Query: "ANSP 189264" ; Times: 1
+	Query: "scientificname:&#34;liparis gibbus&#34;" ; Times: 1
+	Query: "Acanthurus mata mappable:1" ; Times: 3
+	Query: "gymnotus" ; Times: 1
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "scientificname:&#34;acanthostracion quadricornis&#34;" ; Times: 1
+	Query: "vntype:specimen institutioncode:ANSP distance(location,geopoint(2.591888984149953,16.171875))&lt;2447108" ; Times: 1
+	Query: "scientificname:&#34;anchoa hepsetus&#34;" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "scientificname:&#34;serrasalmus rhombeus&#34;" ; Times: 1
+	Query: "scientificname:&#34;labeo parvus&#34;" ; Times: 1
+	Query: "catalognumber:77146" ; Times: 1
+	Query: "1185" ; Times: 1
+	Query: "fieldnumber:464" ; Times: 1
+	Query: "ANSP 182223" ; Times: 1
+	Query: "county:&#34;colombia&#34;" ; Times: 1
+	Query: "Teuthis dussumieri" ; Times: 1
+	Query: "scientificname:&#34;semotilus corporalis&#34;" ; Times: 1
+	Query: "scientificname:&#34;omobranchus punctatus&#34;" ; Times: 1
+	Query: "Teuthis atrimentatus" ; Times: 1
+	Query: "scientificname:&#34;trichomycterus areolatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;prionotus ophryas&#34;" ; Times: 1
+	Query: "Teuthis guttatus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;serrasalmus eigenmanni&#34;" ; Times: 1
+	Query: "scientificname:&#34;sphoeroides dorsalis&#34;" ; Times: 1
+	Query: "specificepithet:glauca genus:Prionace" ; Times: 1
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 6
+	Query: "scientificname:&#34;roeboides myersii&#34;" ; Times: 1
+	Query: "institutioncode:ANSP distance(location,geopoint(-7.790459017521467,26.34521484375))&lt;1546457" ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 1
+	Query: "Acanthurus leucopareius" ; Times: 1
+	Query: "scientificname:&#34;icelinus quadriseriatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;pygocentrus piraya&#34;" ; Times: 1
+	Query: "scientificname:&#34;anostomus anostomus&#34;" ; Times: 1
+	Query: "scientificname:&#34;psychrolutes paradoxus&#34;" ; Times: 1
+	Query: "hydrolycus scomberoides" ; Times: 4
+	Query: "genus:Lampetra stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "scientificname:&#34;lythrurus fumeus&#34;" ; Times: 1
+	Query: "scientificname:&#34;cottus gulosus&#34;" ; Times: 1
+	Query: "scientificname:&#34;opisthonema libertate&#34;" ; Times: 1
+	Query: "scientificname:&#34;anchoa mitchilli&#34;" ; Times: 1
+	Query: "T. A. Hauxwell" ; Times: 1
+	Query: "Acanthurus thompsoni" ; Times: 1
+	Query: "scientificname:&#34;notropis dorsalis&#34;" ; Times: 1
+	Query: "astronotus ocellatus" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 2
+	Query: "scientificname:&#34;opsanus phobetron&#34;" ; Times: 1
+	Query: "scientificname:&#34;lepisosteus oculatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;serrasalmus medinai&#34;" ; Times: 1
+	Query: "Naso literatus" ; Times: 1
+	Query: "scientificname:&#34;xiphasia matsubarai&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Baja California Sur&#34;" ; Times: 2
+	Query: "Naso lituratus mappable:1" ; Times: 2
+	Query: "scientificname:&#34;bunocephalus coracoideus&#34;" ; Times: 1
+	Query: "country:&#34;CANADA&#34;" ; Times: 1
+	Query: "Acanthurus lituratus" ; Times: 1
+	Query: "scientificname:&#34;herklotsichthys dispilonotus&#34;" ; Times: 1
+	Query: "scientificname:&#34;synaptolaemus cingulatus&#34;" ; Times: 1
+	Query: "196029" ; Times: 2
+	Query: "scientificname:&#34;luxilus cardinalis&#34;" ; Times: 1
+	Query: "distance(location,geopoint(46.768171803,-84.957030002))&lt;549" ; Times: 4
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "specificepithet:limbatus genus:Carcharhinus" ; Times: 1
+	Query: "institutioncode:ansp" ; Times: 8
+	Query: "scientificname:&#34;liparis tunicatus&#34;" ; Times: 1
+	Query: "Naso tuberosus" ; Times: 3
+	Query: "scientificname:&#34;eumicrotremus spinosus&#34;" ; Times: 1
+	Query: "scientificname:&#34;acanthemblemaria rivasi&#34;" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "scientificname:&#34;esox americanus&#34;" ; Times: 1
+	Query: "scientificname:&#34;cyprinella trichroistia&#34;" ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 4
+	Query: "scientificname:&#34;engraulis mordax&#34;" ; Times: 1
+	Query: "scientificname:&#34;pygocentrus nattereri&#34;" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 18
+	Query: "distance(location,geopoint(44.0128904510001,-94.128736887))&lt;26613" ; Times: 4
+	Query: "scientificname:&#34;trinectes fonsecensis&#34;" ; Times: 1
+	Query: "scientificname:&#34;margariscus margarita&#34;" ; Times: 1
+	Query: "scientificname:&#34;notropis boops&#34;" ; Times: 1
+	Query: "locality:bois" ; Times: 1
+	Query: "114020" ; Times: 1
+	Query: "Acanthurus elongatus mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(43.779212493,-95.2178509615))&lt;17306" ; Times: 4
+	Query: "Sphyrna lewini" ; Times: 5
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "scientificname:&#34;malacoctenus triangulatus&#34;" ; Times: 1
+	Query: "institutioncode:ANSP hasmedia:1" ; Times: 1
+	Query: "Trichomycterus punctulatus" ; Times: 2
+	Query: "scientificname:&#34;percopsis omiscomaycus&#34;" ; Times: 1
+	Query: "Amblygobius phalaena" ; Times: 4
+	Query: "Acanthurus phlebotomus" ; Times: 2
+	Query: "grampus" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:sharp institutioncode:ANSP" ; Times: 2
+	Query: "Acanthurus lineatus mappable:1" ; Times: 1
+	Query: "window" ; Times: 3
+	Query: "Kupfer" ; Times: 2
+	Query: "Naso fageni" ; Times: 2
+	Query: "Actinopteri" ; Times: 3
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+	Query: "Stenogobius genivittatus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;luxilus zonatus&#34;" ; Times: 1
+	Query: "5020" ; Times: 1
+	Query: "Acanthurus mata" ; Times: 3
+	Query: "scientificname:&#34;barbus anoplus&#34;" ; Times: 1
+	Query: "river otters" ; Times: 4
+	Query: "scientificname:&#34;hemilepidotus spinosus&#34;" ; Times: 1
+	Query: "Metynnis luna" ; Times: 5
+	Query: "scientificname:&#34;notropis stramineus&#34;" ; Times: 1
+	Query: "scientificname:&#34;lagocephalus lagocephalus&#34;" ; Times: 1
+	Query: "USNM" ; Times: 2
+	Query: "(ott)" ; Times: 1
+	Query: "scientificname:&#34;icelinus burchami&#34;" ; Times: 1
+	Query: "ANSP 189141" ; Times: 1
+	Query: "Hepatus hepatus mappable:1" ; Times: 2
+	Query: "UMMZ 144632" ; Times: 1
+	Query: "Hepatus triostegus mappable:1" ; Times: 1
+	Query: "sand eels" ; Times: 2
+	Query: "scientificname:&#34;lepadichthys bolini&#34;" ; Times: 1
+	Query: "Acanthurus aliala" ; Times: 1
+	Query: "hypostomus watwata" ; Times: 1
+	Query: "Naso fageni mappable:1" ; Times: 2
+	Query: "Worcester" ; Times: 1
+	Query: "barbus plebejus" ; Times: 1
+	Query: "scientificname:&#34;hypomasticus megalepis&#34;" ; Times: 1
+	Query: "Acanthurus hepatus mappable:1" ; Times: 2
+	Query: "Awaous guamensis mappable:1" ; Times: 1
+	Query: "barbus cyclolepis" ; Times: 1
+	Query: "scientificname:&#34;alosa pseudoharengus&#34;" ; Times: 1
+	Query: "Prionurus laticlavius mappable:1" ; Times: 1
+	Query: "scientificname:&#34;derilissus altifrons&#34;" ; Times: 1
+	Query: "scientificname:&#34;algansea aphanea&#34;" ; Times: 1
+	Query: "scientificname:&#34;oligocottus maculosus&#34;" ; Times: 1
+	Query: "scientificname:&#34;semotilus thoreauianus&#34;" ; Times: 1
+	Query: "139594" ; Times: 1
+	Query: "scientificname:&#34;osteoglossum bicirrhosum&#34;" ; Times: 1
+	Query: "catalognumber:172267" ; Times: 1
+	Query: "scientificname:&#34;phenacobius catostomus&#34;" ; Times: 1
+	Query: "Sicydium altum mappable:1" ; Times: 1
+	Query: "scientificname:&#34;brevoortia tyrannus&#34;" ; Times: 1
+	Query: "85180" ; Times: 1
+	Query: "specificepithet:erythrurum genus:Moxostoma stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus fasciolatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;hypoclinemus mentalis&#34;" ; Times: 1
+	Query: "Awaous ocellaris mappable:1" ; Times: 1
+	Query: "specificepithet:cirratum genus:Ginglymostoma" ; Times: 2
+	Query: "ANSP-89454" ; Times: 1
+	Query: "scientificname:&#34;myleus torquatus&#34;" ; Times: 1
+	Query: "Etrumeus teres" ; Times: 2
+	Query: "scientificname:&#34;barbus callensis&#34;" ; Times: 1
+	Query: "scientificname:&#34;rhabdolichops zareti&#34;" ; Times: 1
+	Query: "scientificname:&#34;batrachoides liberiensis&#34;" ; Times: 1
+	Query: "scientificname:&#34;nocomis micropogon&#34;" ; Times: 1
+	Query: "scientificname:&#34;liparis pulchellus&#34;" ; Times: 1
+	Query: "Prionurus laticlavius" ; Times: 1
+	Query: "hystrix" ; Times: 1
+	Query: "scientificname:&#34;cyprinella analostana&#34;" ; Times: 1
+	Query: "scientificname:&#34;cyprinella camura&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 5
+	Query: "order:Gymnotiformes mappable:1" ; Times: 1
+	Query: "scientificname:&#34;cantherhines sandwichiensis&#34;" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 1
+	Query: "Pleurostictus" ; Times: 3
+	Query: "scientificname:&#34;lepadogaster lepadogaster&#34;" ; Times: 1
+	Query: "scientificname:&#34;minytrema melanops&#34;" ; Times: 1
+	Query: "scientificname:&#34;scorpaenichthys marmoratus&#34;" ; Times: 1
+	Query: "ANSP 182217" ; Times: 1
+	Query: "scientificname:&#34;notropis heterodon&#34;" ; Times: 1
+	Query: "scientificname:&#34;hypleurochilus pseudoaequipinnis&#34;" ; Times: 1
+	Query: "scientificname:&#34;noturus nocturnus&#34;" ; Times: 1
+	Query: "manatee" ; Times: 1
+	Query: "scientificname:&#34;sphoeroides lobatus&#34;" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 3
+	Query: "Teuthis triostegus" ; Times: 1
+	Query: "scientificname:&#34;notropis photogenis&#34;" ; Times: 1
+	Query: "Teuthis guttatus" ; Times: 1
+	Query: "scientificname:&#34;labrisomus nuchipinnis&#34;" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "Acanthurus bleekeri" ; Times: 2
+	Query: "scientificname:&#34;canthigaster jactator&#34;" ; Times: 1
+	Query: "Glossogobius callidus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;carpiodes carpio&#34;" ; Times: 1
+	Query: "Glossogobius celebius mappable:1" ; Times: 2
+	Query: "scientificname:&#34;leporinus fasciatus&#34;" ; Times: 1
+	Query: "metynnis" ; Times: 1
+	Query: "scientificname:&#34;couesius plumbeus&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Acanthurus fuliginosus" ; Times: 2
+	Query: "dasyatis sabina" ; Times: 5
+	Query: "92661" ; Times: 1
+	Query: "Naso brevirostris mappable:1" ; Times: 2
+	Query: "174405" ; Times: 1
+	Query: "R-194073" ; Times: 1
+	Query: "scientificname:&#34;achirus lineatus&#34;" ; Times: 1
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "sea otter" ; Times: 1
+	Query: "scientificname:&#34;notropis heterolepis&#34;" ; Times: 1
+	Query: "Naso literatus mappable:1" ; Times: 1
+	Query: "specificepithet:microps stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:annulatus genus:sphoeroides" ; Times: 1
+	Query: "scientificname:&#34;dasyatis guttata&#34;" ; Times: 1
+	Query: "scientificname:&#34;micropterus salmoides&#34;" ; Times: 1
+	Query: "scientificname:&#34;arcos macrophthalmus&#34;" ; Times: 1
+	Query: "Acanthurus olivaceus mappable:1" ; Times: 2
+	Query: "harvard university" ; Times: 2
+	Query: "Stenogobius hoesei mappable:1" ; Times: 1
+	Query: "pectinatus" ; Times: 1
+	Query: "scientificname:&#34;alosa aestivalis&#34;" ; Times: 1
+	Query: "Zebrasoma desjardinii" ; Times: 2
+	Query: "scientificname:&#34;hiodon alosoides&#34;" ; Times: 1
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "scientificname:&#34;opsanus beta&#34;" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "duck river" ; Times: 1
+	Query: "scientificname:&#34;rhamdia quelen&#34;" ; Times: 1
+	Query: "Ctenochaetus flavicauda" ; Times: 1
+	Query: "scientificname:&#34;myersglanis blythii&#34;" ; Times: 1
+	Query: "amiiformes" ; Times: 1
+	Query: "stateprovince:&#34;CA&#34;" ; Times: 1
+	Query: "scientificname:&#34;nocomis leptocephalus&#34;" ; Times: 1
+	Query: "scientificname:&#34;ilisha melastoma&#34;" ; Times: 1
+	Query: "scientificname:&#34;lagocephalus laevigatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus altus&#34;" ; Times: 1
+	Query: "scientificname:&#34;lythrurus matutinus&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus titius&#34;" ; Times: 1
+	Query: "scientificname:&#34;chologaster cornuta&#34;" ; Times: 1
+	Query: "scientificname:&#34;gobiesox strumosus&#34;" ; Times: 1
+	Query: "scientificname:&#34;pseudanos trimaculatus&#34;" ; Times: 1
+	Query: "Acanthurus bariene mappable:1" ; Times: 3
+	Query: "Acipenseriformes" ; Times: 1
+	Query: "smithsonian" ; Times: 1
+	Query: "scientificname:&#34;chaenopsis alepidota&#34;" ; Times: 1
+	Query: "scientificname:&#34;notropis scepticus&#34;" ; Times: 1
+	Query: "scientificname:&#34;aphredoderus sayanus&#34;" ; Times: 1
+	Query: "scientificname:&#34;notropis cornutus&#34;" ; Times: 1
+	Query: "scientificname:&#34;dionda melanops&#34;" ; Times: 1
+	Query: "distance(location,geopoint(43.0969710040001,-93.433419615))&lt;16732" ; Times: 4
+	Query: "scientificname:&#34;metynnis hypsauchen&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Washington&#34;" ; Times: 3
+	Query: "Acanthurus nigroris mappable:1" ; Times: 2
+	Query: "scientificname:&#34;cosmochilus harmandi&#34;" ; Times: 1
+	Query: "scientificname:&#34;lagodon rhomboides&#34;" ; Times: 1
+	Query: "isurus oxyrinchus" ; Times: 1
+	Query: "stoliczkae" ; Times: 1
+	Query: "scientificname:&#34;pimephales promelas&#34;" ; Times: 1
+	Query: "Pontinus" ; Times: 2
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 1
+	Query: "142457" ; Times: 1
+	Query: "stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "scientificname:&#34;saurenchelys cognita&#34;" ; Times: 1
+	Query: "Awaous banana mappable:1" ; Times: 2
+	Query: "scientificname:&#34;hypsoblennius gilberti&#34;" ; Times: 1
+	Query: "genus:&#34;amblygaster&#34;" ; Times: 1
+	Query: "scientificname:&#34;micrometrus minimus&#34;" ; Times: 1
+	Query: "country:&#34;Belize&#34;" ; Times: 2
+	Query: "1322" ; Times: 1
+	Query: "123022" ; Times: 1
+	Query: "scientificname:&#34;triportheus elongatus&#34;" ; Times: 1
+	Query: "clepsydra" ; Times: 2
+	Query: "Hepatus nigrofuscus mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 4
+	Query: "scientificname:&#34;menidia beryllina&#34;" ; Times: 1
+	Query: "Catlocarpio siamensis" ; Times: 1
+	Query: "ANSP 180841" ; Times: 1
+	Query: "scientificname:&#34;chalceus macrolepidotus&#34;" ; Times: 1
+	Query: "scientificname:&#34;engraulis japonicus&#34;" ; Times: 1
+	Query: "scientificname:&#34;hybopsis lineapunctata&#34;" ; Times: 1
+	Query: "scientificname:&#34;acantopsis  choirorhynchos&#34;" ; Times: 1
+	Query: "ANSP 180321" ; Times: 1
+	Query: "ANSP 180320" ; Times: 1
+	Query: "scientificname:&#34;campostoma oligolepis&#34;" ; Times: 1
+	Query: "genus:&#34;charax&#34;" ; Times: 1
+	Query: "ANSP 180242" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 2
+	Query: "rattlesnake" ; Times: 2
+	Query: "recordedby:Luna" ; Times: 1
+	Query: "scientificname:&#34;luxilus pilsbryi&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Connecticut&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "scientificname:&#34;gymnocanthus galeatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;garra fuliginosa&#34;" ; Times: 1
+	Query: "scientificname:&#34;zalembius rosaceus&#34;" ; Times: 1
+	Query: "barbus tyberinus" ; Times: 1
+	Query: "scientificname:&#34;barbus cyclolepis&#34;" ; Times: 1
+	Query: "Paracanthurus hepatus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;prochilodus nigricans&#34;" ; Times: 1
+	Query: "specificepithet:lobatus genus:sphoeroides" ; Times: 1
+	Query: "scientificname:&#34;pervagor spilosoma&#34;" ; Times: 1
+	Query: "ANSP 189010" ; Times: 2
+	Query: "scientificname:&#34;notropis bifrenatus&#34;" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 2
+	Query: "distance(location,geopoint(43.690410733,-94.672037924))&lt;14922" ; Times: 4
+	Query: "ANSP 189157" ; Times: 1
+	Query: "scientificname:&#34;clinus cottoides&#34;" ; Times: 1
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 2
+	Query: "Ctenochaetus strigosus" ; Times: 6
+	Query: "scientificname:&#34;lythrurus ardens&#34;" ; Times: 1
+	Query: "scientificname:&#34;cyprinella galactura&#34;" ; Times: 1
+	Query: "scientificname:&#34;roeboides dayi&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus spp.&#34;" ; Times: 1
+	Query: "Acanthurus hepatus" ; Times: 2
+	Query: "&#34;Pterygoplichthys pardalis&#34;" ; Times: 2
+	Query: "distance(location,geopoint(45.139607633725,-94.0595528125))&lt;16675" ; Times: 4
+	Query: "Hyena" ; Times: 1
+	Query: "scientificname:&#34;batrachoides gilberti&#34;" ; Times: 1
+	Query: "Weight" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:benjamin institutioncode:ANSP" ; Times: 1
+	Query: "Acanthurus lineolatus" ; Times: 1
+	Query: "scientificname:&#34;paracottus knerii&#34;" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 1
+	Query: "scientificname:&#34;clupeichthys aesarnensis&#34;" ; Times: 1
+	Query: "institutioncode:ANSP" ; Times: 4
+	Query: "scientificname:&#34;amphistichus argenteus&#34;" ; Times: 1
+	Query: "vulpes" ; Times: 1
+	Query: "Acanthurus dussumieri mappable:1" ; Times: 1
+	Query: "scientificname:&#34;barbus eutaenia&#34;" ; Times: 1
+	Query: "scientificname:&#34;amazonsprattus scintilla&#34;" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 16
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 4
+	Query: "Hepatus triostegus" ; Times: 1
+	Query: "scientificname:&#34;malacoctenus margaritae&#34;" ; Times: 1
+	Query: "Acanthurus triostegus" ; Times: 1
+	Query: "scientificname:&#34;barbus poechii&#34;" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "ANSP 178126" ; Times: 1
+	Query: "Naso hexacanthus mappable:1" ; Times: 1
+	Query: "ANSP 178129" ; Times: 1
+	Query: "scientificname:&#34;stolephorus waitei&#34;" ; Times: 1
+	Query: "scientificname:&#34;hexagrammos decagrammus&#34;" ; Times: 1
+	Query: "scientificname:&#34;nemacheilus masyae&#34;" ; Times: 1
+	Query: "Potamotrygon motoro" ; Times: 2
+	Query: "scientificname:&#34;hybopsis winchelli&#34;" ; Times: 1
+	Query: "13773" ; Times: 1
+	Query: "poecilia vivipara" ; Times: 1
+	Query: "Acanthurus bariene" ; Times: 3
+	Query: "Naso thynnoides mappable:1" ; Times: 2
+	Query: "scientificname:&#34;myleus asterias&#34;" ; Times: 1
+	Query: "Prionurus scalprus" ; Times: 1
+	Query: "scientificname:&#34;myoxocephalus jaok&#34;" ; Times: 1
+	Query: "13778" ; Times: 1
+	Query: "scientificname:&#34;gramma loreto&#34;" ; Times: 1
+	Query: "family:Clupeidae country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "anderson" ; Times: 1
+	Query: "scientificname:&#34;apterichtus kendalli&#34;" ; Times: 1
+	Query: "Prionurus scalprum" ; Times: 1
+	Query: "Acanthurus leucosternon mappable:1" ; Times: 2
+	Query: "scientificname:&#34;malacoctenus ebisui&#34;" ; Times: 1
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 1
+	Query: "genus:&#34;pseudobarbus&#34;" ; Times: 1
+	Query: "scientificname:&#34;exoglossum maxillingua&#34;" ; Times: 1
+	Query: "Monoceros garretti mappable:1" ; Times: 1
+	Query: "scientificname:&#34;sicydium plumieri&#34;" ; Times: 1
+	Query: "Acanthurus olivaceus" ; Times: 2
+	Query: "Hepatus lucillae" ; Times: 1
+	Query: "Acanthurus glaucopareius" ; Times: 1
+	Query: "Ogilbia suarezae" ; Times: 3
+	Query: "scientificname:&#34;hampala macrolepidota&#34;" ; Times: 1
+	Query: "Acanthurus gahm" ; Times: 2
+	Query: "distance(location,geopoint(45.0386038400001,-96.221293923))&lt;30445" ; Times: 4
+	Query: "scientificname:&#34;hybognathus hayi&#34;" ; Times: 1
+	Query: "Zebrasoma scopas mappable:1" ; Times: 1
+	Query: "genus:Oncorhynchus stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "skull" ; Times: 2
+	Query: "scientificname:&#34;notropis altipinnis&#34;" ; Times: 1
+	Query: "scientificname:&#34;ogcocephalus cubifrons&#34;" ; Times: 1
+	Query: "scientificname:&#34;pseudobarbus asper&#34;" ; Times: 1
+	Query: "ANSP 191200" ; Times: 1
+	Query: "Manta birostris" ; Times: 4
+	Query: "scientificname:&#34;barbus vittatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;thryssa dussumieri&#34;" ; Times: 1
+	Query: "genus:&#34;chelonodon&#34;" ; Times: 1
+	Query: "county:&#34;San Mateo&#34;" ; Times: 1
+	Query: "genus:Noturus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "scientificname:&#34;luxilus albeolus&#34;" ; Times: 1
+	Query: "scientificname:&#34;derilissus nanus&#34;" ; Times: 1
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;notropis atherinoides&#34;" ; Times: 1
+	Query: "scientificname:&#34;pseudanos gracilis&#34;" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:sharp year &gt;= 1895 year &lt;= 1895 institutioncode:ANSP" ; Times: 1
+	Query: "scientificname:&#34;roeboides affinis&#34;" ; Times: 1
+	Query: "scientificname:&#34;risor ruber&#34;" ; Times: 1
+	Query: "scientificname:&#34;cottus asper&#34;" ; Times: 1
+	Query: "scientificname:&#34;balistes chrysopterus&#34;" ; Times: 1
+	Query: "Zebrasoma scopas" ; Times: 1
+	Query: "Acanthurus dussumieri" ; Times: 1
+	Query: "scientificname:&#34;triglops scepticus&#34;" ; Times: 1
+	Query: "scientificname:&#34;cyprinella venusta&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus aeneus&#34;" ; Times: 1
+	Query: "scientificname:&#34;rhabdolichops electrogrammus&#34;" ; Times: 1
+	Query: "scientificname:&#34;luxilus coccogenis&#34;" ; Times: 1
+	Query: "108688" ; Times: 1
+	Query: "scientificname:&#34;notropis petersoni&#34;" ; Times: 1
+	Query: "CM" ; Times: 3
+	Query: "hasmedia:1" ; Times: 7
+	Query: "Acanthurus tractus" ; Times: 1
+	Query: "Acanthurus sohal" ; Times: 1
+	Query: "catenatus" ; Times: 2
+	Query: "scientificname:&#34;thoracocharax stellatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;stephanolepis hispidus&#34;" ; Times: 1
+	Query: "scientificname:&#34;sphoeroides testudineus&#34;" ; Times: 1
+	Query: "scientificname:&#34;cyprinella nivea&#34;" ; Times: 1
+	Query: "scientificname:&#34;anodontostoma chacunda&#34;" ; Times: 1
+	Query: "scientificname:&#34;erimystax dissimilis&#34;" ; Times: 1
+	Query: "diadema" ; Times: 1
+	Query: "scientificname:&#34;cottus hypselurus&#34;" ; Times: 1
+	Query: "scientificname:&#34;metynnis luna&#34;" ; Times: 1
+	Query: "Xesurus punctatus mappable:1" ; Times: 1
+	Query: "Macrognathus siamensis" ; Times: 2
+	Query: "scientificname:&#34;malacoctenus boehlkei&#34;" ; Times: 1
+	Query: "scientificname:&#34;myleus schomburgkii&#34;" ; Times: 1
+	Query: "recordedby:Rhoads institutioncode:ANSP" ; Times: 1
+	Query: "scientificname:&#34;lepisosteus platyrhincus&#34;" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "scientificname:&#34;barbus mattozi&#34;" ; Times: 1
+	Query: "specificepithet:crocodilus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "goodea atripinnis" ; Times: 1
+	Query: "Acanthurus bahianus" ; Times: 1
+	Query: "scientificname:&#34;aspasmodes briggsi&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus trimaculatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;notropis ariommus&#34;" ; Times: 1
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "scientificname:&#34;acanthemblemaria maria&#34;" ; Times: 1
+	Query: "Callicanthus lituratus" ; Times: 2
+	Query: "acipenseriformes" ; Times: 3
+	Query: "scientificname:&#34;campostoma ornatum&#34;" ; Times: 1
+	Query: "scientificname:&#34;thalassophryne maculosa&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Pando&#34; country:&#34;Bolivia&#34;" ; Times: 3
+	Query: "scientificname:&#34;hypleurochilus springeri&#34;" ; Times: 1
+	Query: "scientificname:&#34;pygocentrus cariba&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus viviparus&#34;" ; Times: 1
+	Query: "scientificname:&#34;paraclinus integripinnis&#34;" ; Times: 1
+	Query: "Hepatus lineolatus" ; Times: 1
+	Query: "scientificname:&#34;exoglossum laurae&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1892 download events in this period)
+Total number of records downloaded: 8848
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-15 ; Times: 4
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-28 ; Times: 5
+	Date: 2018-02-18 ; Times: 2
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "khemmarat" ; Times: 1
+	Query: "Potamotrygon motoro" ; Times: 1
+	Query: "genus:Salmo stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "passer" ; Times: 1
+	Query: "family:Apteronotidae continent:South America mappable:1" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "order:Gymnotiformes mappable:1" ; Times: 1
+	Query: "genus:Gila stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "michigan" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "Plagioscion squamosissimus" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "genus:Oncorhynchus stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "dasyatis sabina" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
