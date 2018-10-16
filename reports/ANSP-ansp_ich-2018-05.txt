@@ -1,0 +1,440 @@
+Report for Institution Code ANSP, Resource ansp_ich
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 446
+Number of records retrieved in searches: 8350
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Turkey ; Times: 2
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 3
+	Country: China ; Times: 8
+	Country: Chile ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 365
+	Country: Morocco ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 8
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 9
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 9
+	Date: 2018-05-29 ; Times: 12
+	Date: 2018-05-21 ; Times: 10
+	Date: 2018-05-22 ; Times: 4
+	Date: 2018-05-23 ; Times: 6
+	Date: 2018-05-24 ; Times: 14
+	Date: 2018-05-25 ; Times: 9
+	Date: 2018-05-26 ; Times: 6
+	Date: 2018-05-27 ; Times: 3
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 26
+	Date: 2018-05-04 ; Times: 85
+	Date: 2018-05-05 ; Times: 7
+	Date: 2018-05-02 ; Times: 12
+	Date: 2018-05-03 ; Times: 9
+	Date: 2018-05-01 ; Times: 8
+	Date: 2018-05-08 ; Times: 7
+	Date: 2018-05-09 ; Times: 6
+	Date: 2018-05-31 ; Times: 14
+	Date: 2018-05-30 ; Times: 9
+	Date: 2018-05-15 ; Times: 20
+	Date: 2018-05-14 ; Times: 26
+	Date: 2018-05-17 ; Times: 7
+	Date: 2018-05-16 ; Times: 14
+	Date: 2018-05-11 ; Times: 19
+	Date: 2018-05-10 ; Times: 59
+	Date: 2018-05-13 ; Times: 5
+	Date: 2018-05-12 ; Times: 5
+	Date: 2018-05-19 ; Times: 29
+	Date: 2018-05-18 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "sailfish" ; Times: 1
+	Query: "genus:Neetroplus institutioncode:ANSP" ; Times: 1
+	Query: "Senckenberg museum" ; Times: 1
+	Query: "specificepithet:microlepis family:Cichlidae institutioncode:ANSP" ; Times: 1
+	Query: "(morris) institutioncode:ANSP" ; Times: 2
+	Query: "panthera" ; Times: 1
+	Query: "specificepithet:dimerus family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "specificepithet:temporalis family:Cichlidae" ; Times: 1
+	Query: "LACM" ; Times: 2
+	Query: "distance(location,geopoint(41.8976029593885,-83.4753127642145))&lt;8319" ; Times: 1
+	Query: "specificepithet:facetus genus:Australoheros" ; Times: 1
+	Query: "139765 ansp" ; Times: 1
+	Query: "specificepithet:lentiginosus genus:Theraps" ; Times: 1
+	Query: "Labeo molybdinus" ; Times: 1
+	Query: "specificepithet:spurius genus:Heros" ; Times: 1
+	Query: "specificepithet:troschelii family:Cichlidae" ; Times: 3
+	Query: "Island Goldman" ; Times: 1
+	Query: "distance(location,geopoint(42.2832807888075,-83.1083580444698))&lt;9603" ; Times: 1
+	Query: "Texas" ; Times: 1
+	Query: "sand boa" ; Times: 1
+	Query: "ansp hrp" ; Times: 1
+	Query: "(gilmore) institutioncode:ANSP" ; Times: 2
+	Query: "specificepithet:thayeri family:Cichlidae" ; Times: 1
+	Query: "Trichomycterus hasemani" ; Times: 1
+	Query: "genus:Laetacara" ; Times: 2
+	Query: "genus:Thorichthys institutioncode:ANSP" ; Times: 1
+	Query: "155132" ; Times: 1
+	Query: "155131" ; Times: 1
+	Query: "genus:Hoplarchus" ; Times: 1
+	Query: "family:Cichlidae institutioncode:ANSP" ; Times: 2
+	Query: "specificepithet:panamensis family:Cichlidae" ; Times: 1
+	Query: "Cottus bairdii" ; Times: 3
+	Query: "distance(location,geopoint(43.9584463493511,-95.1858499928992))&lt;39197" ; Times: 1
+	Query: "ANSP 2552" ; Times: 1
+	Query: "typhlichthys" ; Times: 1
+	Query: "specificepithet:tetracanthus family:Cichlidae" ; Times: 2
+	Query: "genus:Paraneetroplus" ; Times: 1
+	Query: "specificepithet:coeruleopunctatus genus:Andinoacara" ; Times: 2
+	Query: "genus:Pterophyllum" ; Times: 1
+	Query: "specificepithet:bovinus genus:Cyprinodon" ; Times: 3
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "109699" ; Times: 1
+	Query: "specificepithet:orinocense family:Cichlidae" ; Times: 2
+	Query: "ansp herp" ; Times: 1
+	Query: "genus:Caquetaia" ; Times: 2
+	Query: "hastypestatus:1" ; Times: 1
+	Query: "specificepithet:taenia family:Cichlidae" ; Times: 1
+	Query: "country:&#34;costa rica&#34;" ; Times: 1
+	Query: "entomology" ; Times: 1
+	Query: "catostomus santaanae" ; Times: 1
+	Query: "Vandellia cirrhosa" ; Times: 3
+	Query: "specificepithet:latifrons genus:Andinoacara" ; Times: 1
+	Query: "FN 37 060" ; Times: 1
+	Query: "Museum of Comparative Zoology" ; Times: 1
+	Query: "country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "genus:Herotilapia" ; Times: 1
+	Query: "tandanus tandanus" ; Times: 1
+	Query: "specificepithet:insignis family:Cichlidae" ; Times: 1
+	Query: "specificepithet:panthera " ; Times: 2
+	Query: "genus:Heros" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "distance(location,geopoint(41.9258506977145,-83.3063313274999))&lt;5625" ; Times: 2
+	Query: "specificepithet:guyanae family:Cichlidae" ; Times: 2
+	Query: "pontianak" ; Times: 1
+	Query: "vntype:specimen (skeleton skull)" ; Times: 1
+	Query: "Robinsia" ; Times: 2
+	Query: "labeo niloticus" ; Times: 1
+	Query: "flamingo" ; Times: 1
+	Query: "specificepithet:severus genus:Heros institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:haitiensis family:Cichlidae" ; Times: 1
+	Query: "specificepithet:mariae genus:Bujurquina" ; Times: 1
+	Query: "37184" ; Times: 1
+	Query: "specificepithet:splendida genus:Petenia" ; Times: 1
+	Query: "125990" ; Times: 1
+	Query: "specificepithet:owroewefi family:Cichlidae" ; Times: 1
+	Query: "specificepithet:psittacus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:moriorum family:Cichlidae" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "genus:Cleithracara" ; Times: 1
+	Query: "asuncion country:&#34;paraguay&#34;" ; Times: 1
+	Query: "invertebrates" ; Times: 1
+	Query: "E. Goldman Island" ; Times: 1
+	Query: "specificepithet:meeki genus:Thorichthys" ; Times: 1
+	Query: "specificepithet:myrnae genus:Archocentrus" ; Times: 1
+	Query: "genus:Australoheros family:Cichlidae" ; Times: 2
+	Query: "genus:Semicossyphus" ; Times: 1
+	Query: "distance(location,geopoint(37.6772884172284,-89.0633709977937))&lt;27695" ; Times: 1
+	Query: "distance(location,geopoint(42.841622107,-93.677619575))&lt;6905" ; Times: 2
+	Query: "Morone americana " ; Times: 1
+	Query: "genus:Cryptoheros" ; Times: 1
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 2
+	Query: "specificepithet:efasciatus genus:Heros institutioncode:ANSP" ; Times: 1
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "specificepithet:argentea genus:Vieja" ; Times: 3
+	Query: "specificepithet:dimerus genus:Cichlasoma" ; Times: 2
+	Query: "genus:Tahuantinsuyoa" ; Times: 1
+	Query: "ZSM" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 3
+	Query: "Citing" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "149388" ; Times: 1
+	Query: "specificepithet:mirificus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:pulcher genus:Andinoacara" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "&#34;Labeo calbasu&#34;" ; Times: 1
+	Query: "veracruz" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "genus:Hypsophrys" ; Times: 1
+	Query: "specificepithet:egregius genus:Mesonauta" ; Times: 1
+	Query: "specificepithet:spurius genus:Heros institutioncode:ANSP" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 2
+	Query: "KU 5932" ; Times: 1
+	Query: "genus:Andinoacara" ; Times: 1
+	Query: "specificepithet:orinocense genus:Cichlasoma" ; Times: 1
+	Query: "specificepithet:kraussii family:Cichlidae" ; Times: 1
+	Query: "family:Cichlidae locality:xingu institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:hophrys family:Cichlidae" ; Times: 1
+	Query: "95215" ; Times: 1
+	Query: "labeo" ; Times: 1
+	Query: "distance(location,geopoint(42.9047169013261,-94.9236653676191))&lt;15109" ; Times: 2
+	Query: "A. Burr" ; Times: 1
+	Query: "genus:Neetroplus" ; Times: 1
+	Query: "specificepithet:stergiosi family:Cichlidae" ; Times: 1
+	Query: "genus:Theraps" ; Times: 1
+	Query: "Labeo microphthalmus" ; Times: 1
+	Query: "specificepithet:tuyrense family:Cichlidae" ; Times: 1
+	Query: "Dysommina" ; Times: 1
+	Query: "genus:Acaronia institutioncode:ANSP" ; Times: 1
+	Query: "distance(location,geopoint(44.3604113495001,-93.3289771619999))&lt;20441" ; Times: 2
+	Query: "nobilis" ; Times: 2
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "tyler j b" ; Times: 1
+	Query: "distance(location,geopoint(43.690410733,-94.672037924))&lt;14922" ; Times: 2
+	Query: "D. B. Rogers" ; Times: 1
+	Query: "distance(location,geopoint(39.152078820787,-93.5543637292319))&lt;66104" ; Times: 3
+	Query: "country:&#34;usa&#34;" ; Times: 1
+	Query: "specificepithet:moriorum genus:Bujurquina" ; Times: 1
+	Query: "nanay" ; Times: 1
+	Query: "distance(location,geopoint(43.6212740058635,-95.2482103224999))&lt;15916" ; Times: 2
+	Query: "specificepithet:geayi family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(42.0904418740985,-83.2832567278143))&lt;8407" ; Times: 1
+	Query: "distance(location,geopoint(43.1568148048088,-94.9628162599623))&lt;22978" ; Times: 1
+	Query: "107218" ; Times: 1
+	Query: "genus:Nannacara institutioncode:ANSP" ; Times: 1
+	Query: "mimosa" ; Times: 1
+	Query: "specificepithet:umbriferum genus:Cichlasoma" ; Times: 1
+	Query: "Labeo chrysophekadion" ; Times: 2
+	Query: "distance(location,geopoint(43.9584544995,-95.1857501855))&lt;25378" ; Times: 2
+	Query: "genus:Hypselecara" ; Times: 1
+	Query: "Furcifer" ; Times: 1
+	Query: "tyler j" ; Times: 1
+	Query: "genus:Mesonauta family:Cichlidae" ; Times: 1
+	Query: "genus:Thorichthys" ; Times: 1
+	Query: "9219" ; Times: 1
+	Query: "&#34;labeo nigripinnis&#34;" ; Times: 2
+	Query: "genus:Vieja" ; Times: 1
+	Query: "witch" ; Times: 8
+	Query: "specificepithet:ornatum family:Cichlidae" ; Times: 1
+	Query: "genus:Bujurquina" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "distance(location,geopoint(45.3941139210832,-96.4433876691735))&lt;48705" ; Times: 1
+	Query: "1348" ; Times: 2
+	Query: "helleri" ; Times: 1
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 1
+	Query: "distance(location,geopoint(43.779212493,-95.2178509615))&lt;17306" ; Times: 2
+	Query: "Labeo forskalii" ; Times: 1
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 1
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 2
+	Query: "specificepithet:beani family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(43.0969710040001,-93.433419615))&lt;16732" ; Times: 2
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "7799" ; Times: 1
+	Query: "genus:Australoheros" ; Times: 1
+	Query: "&#34;labeo parvus&#34;" ; Times: 1
+	Query: "Thayeria boehlkei" ; Times: 1
+	Query: "pseudochalceus" ; Times: 1
+	Query: "genus:Rocio" ; Times: 1
+	Query: "genus:Nandopsis" ; Times: 1
+	Query: "country:&#34;Pitcairn&#34;" ; Times: 1
+	Query: "specificepithet:ramsdeni family:Cichlidae" ; Times: 1
+	Query: "specificepithet:amarus" ; Times: 1
+	Query: "Chlopsis" ; Times: 1
+	Query: "genus:Astatheros" ; Times: 1
+	Query: "fieldnumber:dlm" ; Times: 1
+	Query: "tissue samples" ; Times: 1
+	Query: "distance(location,geopoint(42.0904418740985,-83.1130695620183))&lt;9302" ; Times: 1
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 1
+	Query: "genus:Mesonauta" ; Times: 1
+	Query: "genus:Archocentrus" ; Times: 1
+	Query: "alligator" ; Times: 1
+	Query: "specificepithet:nassa genus:Acaronia" ; Times: 1
+	Query: "distance(location,geopoint(43.0969653373316,-93.4336533711819))&lt;29868" ; Times: 1
+	Query: "tyler J B" ; Times: 3
+	Query: "vertebrate" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "vntype:observation" ; Times: 2
+	Query: "hyphessobrycon inconstans" ; Times: 1
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "genus:Mesonauta institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:panamensis family:Cichlidae institutioncode:ANSP" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Krobia" ; Times: 1
+	Query: "Puerto Rico" ; Times: 1
+	Query: "distance(location,geopoint(44.9817493065001,-83.2618961995))&lt;9583" ; Times: 2
+	Query: "&#34;chatham island&#34;" ; Times: 1
+	Query: "specificepithet:ductor genus:Naucrates institutioncode:ANSP" ; Times: 1
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "3779" ; Times: 1
+	Query: "specificepithet:troschelii family:Cichlidae institutioncode:ANSP" ; Times: 1
+	Query: "catalognumber:121173" ; Times: 1
+	Query: "distance(location,geopoint(43.1414242245,-94.7876604945))&lt;15923" ; Times: 2
+	Query: "distance(location,geopoint(45.139607633725,-94.0595528125))&lt;16675" ; Times: 2
+	Query: "genus:Guianacara" ; Times: 3
+	Query: "distance(location,geopoint(43.6598506715,-95.6794779779999))&lt;19593" ; Times: 2
+	Query: "locality:salamanca" ; Times: 1
+	Query: "specificepithet:semisquamatum genus:Pycnomma" ; Times: 1
+	Query: "distance(location,geopoint(44.0128878392582,-94.1287720894129))&lt;40780" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "specificepithet:altum family:Cichlidae institutioncode:ANSP" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 1
+	Query: "Papua Province BPBM" ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "133988" ; Times: 1
+	Query: "specificepithet:acora family:Cichlidae" ; Times: 1
+	Query: "catalognumber:151832" ; Times: 1
+	Query: "distance(location,geopoint(45.0386038400001,-96.221293923))&lt;30445" ; Times: 2
+	Query: "specificepithet:egregius" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+	Query: "specificepithet:menidia institutioncode:ANSP" ; Times: 2
+	Query: "&#34;labeo niloticus&#34;" ; Times: 1
+	Query: "genus:Theraps institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:dacrya family:Cichlidae" ; Times: 1
+	Query: "ANSP-2552" ; Times: 1
+	Query: "stateprovince:&#34;Mississippi&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "105031" ; Times: 1
+	Query: "bowling green" ; Times: 1
+	Query: "Rio pesqueria" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:flavilabris family:Cichlidae" ; Times: 1
+	Query: "specificepithet:taenia genus:Nannacara" ; Times: 1
+	Query: "distance(location,geopoint(41.9940224167435,-83.301798682683))&lt;9649" ; Times: 1
+	Query: "stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "genus:Krobia institutioncode:ANSP" ; Times: 2
+	Query: "genus:Australoheros institutioncode:ANSP" ; Times: 1
+	Query: "blangnanga ansp" ; Times: 1
+	Query: "specificepithet:severus family:Cichlidae" ; Times: 1
+	Query: "June sucker" ; Times: 1
+	Query: "specificepithet:mirificus genus:Mesonauta family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(44.0128904510001,-94.128736887))&lt;26613" ; Times: 2
+	Query: "&#34;charles island&#34;" ; Times: 1
+	Query: "distance(location,geopoint(42.186861331453,-83.1081271922452))&lt;9629" ; Times: 2
+	Query: "CM 9306" ; Times: 2
+	Query: "specificepithet:nematopus family:Cichlidae" ; Times: 1
+	Query: "ANSP" ; Times: 1
+	Query: "genus:Nannacara" ; Times: 1
+	Query: "dolphin" ; Times: 1
+	Query: "morone americana" ; Times: 3
+	Query: "genus:Cichlasoma institutioncode:ANSP" ; Times: 7
+	Query: "leporinus pearsoni" ; Times: 1
+	Query: "fannin" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:itanyi family:Cichlidae" ; Times: 1
+	Query: "usnm" ; Times: 2
+	Query: "entomologist" ; Times: 1
+	Query: "mola" ; Times: 1
+	Query: "genus:Acaronia" ; Times: 3
+	Query: "specificepithet:vigilax stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "genus:Tomocichla" ; Times: 1
+	Query: "specificepithet:hophrys" ; Times: 1
+	Query: "specificepithet:octofasciata genus:Rocio" ; Times: 1
+	Query: "specificepithet:taenia family:Cichlidae institutioncode:ANSP" ; Times: 1
+	Query: "rmnh" ; Times: 2
+	Query: "11051" ; Times: 1
+	Query: "distance(location,geopoint(46.768171803,-84.957030002))&lt;549" ; Times: 2
+	Query: "isla lobos" ; Times: 3
+	Query: "specificepithet:egregius genus:Mesonauta institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:altoflavus genus:Archocentrus" ; Times: 1
+	Query: "distance(location,geopoint(39.31619728166,-93.5515952485077))&lt;64020" ; Times: 3
+	Query: "xiphophorus helleri" ; Times: 2
+	Query: "specificepithet:huallagae family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(39.070019590351,-93.3608964360506))&lt;77242" ; Times: 3
+	Query: "genus:Tomocichla family:Cichlidae" ; Times: 1
+	Query: "35076" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "luteolus" ; Times: 1
+	Query: "distance(location,geopoint(41.8976029593885,-83.301798682683))&lt;9659" ; Times: 1
+	Query: "Burr" ; Times: 1
+	Query: "fisher" ; Times: 1
+	Query: "specificepithet:vultuosa genus:Acaronia" ; Times: 1
+	Query: "specificepithet:zebra family:Cichlidae" ; Times: 1
+	Query: "genus:Parachromis" ; Times: 1
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "lesion" ; Times: 2
+	Query: "percina" ; Times: 1
+	Query: "ansp" ; Times: 4
+	Query: "Labeo gregorii" ; Times: 2
+	Query: "specificepithet:efasciatus family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(43.6598489215647,-95.6791910181292))&lt;33610" ; Times: 1
+	Query: "genus:Heros institutioncode:ANSP" ; Times: 1
+	Query: "vntype:specimen locality:BUENAVISTA country:&#34;BOLIVIA&#34;" ; Times: 1
+	Query: "gulf of california" ; Times: 1
+	Query: "country:&#34;mexico&#34;" ; Times: 2
+	Query: "specificepithet:troschelii genus:Heros family:Cichlidae" ; Times: 1
+	Query: "gulo gulo" ; Times: 1
+	Query: "&#34;labeo pangusia&#34;" ; Times: 1
+	Query: "fishes" ; Times: 1
+	Query: "genus:Andinoacara institutioncode:ANSP" ; Times: 1
+	Query: "vntype:specimen (smithonian)" ; Times: 1
+	Query: "specificepithet:eurhinus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:irroratus" ; Times: 1
+	Query: "specificepithet:guttatus genus:epinephelus" ; Times: 2
+	Query: "LACM Fish" ; Times: 3
+	Query: "genus:Cichlasoma" ; Times: 1
+	Query: "Apogon retrosella" ; Times: 2
+	Query: "Serpentes" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "distance(location,geopoint(42.212541833,-83.139158085))&lt;3263" ; Times: 2
+	Query: "institutioncode:ANSP hastypestatus:1" ; Times: 3
+	Query: "Gobiesox adustus" ; Times: 3
+	Query: "ANSP 189205" ; Times: 1
+	Query: "distance(location,geopoint(39.2341380512235,-93.5623870643903))&lt;65495" ; Times: 3
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "MBU" ; Times: 1
+	Query: "Nigeria" ; Times: 1
+	Query: "Labeo gonius" ; Times: 3
+	Query: "distance(location,geopoint(45.259052436225,-93.979293029214))&lt;21143" ; Times: 2
+	Query: "egg" ; Times: 1
+	Query: "specificepithet:guianensis family:Cichlidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1178 download events in this period)
+Total number of records downloaded: 5727
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 13
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "lesion" ; Times: 2
+	Query: "percina" ; Times: 1
+	Query: "stateprovince:&#34;Mississippi&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Serpentes" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "family:Cichlidae institutioncode:ANSP" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "Chlopsis" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "stateprovince:&#34;Louisiana&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+
+
+End of report.
