@@ -1,0 +1,401 @@
+Report for Institution Code ANSP, Resource ansp_ich
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 412
+Number of records retrieved in searches: 8918
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 30
+	Country: Canada ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 4
+	Country: France ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Guatemala ; Times: 1
+	Country: China ; Times: 12
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 17
+	Country: Dominican Republic ; Times: 1
+	Country: United States ; Times: 249
+	Country: Sweden ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 3
+	Country: Romania ; Times: 1
+	Country: Portugal ; Times: 15
+	Country: Mexico ; Times: 35
+	Country: South Africa ; Times: 5
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 17
+	Date: 2018-09-23 ; Times: 3
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-03 ; Times: 3
+	Date: 2018-09-26 ; Times: 29
+	Date: 2018-09-01 ; Times: 4
+	Date: 2018-09-06 ; Times: 10
+	Date: 2018-09-21 ; Times: 27
+	Date: 2018-09-22 ; Times: 3
+	Date: 2018-09-05 ; Times: 12
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-28 ; Times: 13
+	Date: 2018-09-29 ; Times: 4
+	Date: 2018-09-30 ; Times: 4
+	Date: 2018-09-11 ; Times: 27
+	Date: 2018-09-10 ; Times: 30
+	Date: 2018-09-13 ; Times: 9
+	Date: 2018-09-12 ; Times: 26
+	Date: 2018-09-15 ; Times: 3
+	Date: 2018-09-14 ; Times: 24
+	Date: 2018-09-17 ; Times: 15
+	Date: 2018-09-16 ; Times: 14
+	Date: 2018-09-19 ; Times: 20
+	Date: 2018-09-18 ; Times: 15
+	Date: 2018-09-24 ; Times: 33
+	Date: 2018-09-25 ; Times: 21
+	Date: 2018-09-27 ; Times: 16
+	Date: 2018-09-20 ; Times: 16
+	Date: 2018-09-07 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "hypostomus coppenamensis" ; Times: 1
+	Query: "sea otter" ; Times: 1
+	Query: "Sarotherodon galilaeus" ; Times: 2
+	Query: "5178" ; Times: 1
+	Query: "Salmo salar" ; Times: 2
+	Query: "11240" ; Times: 1
+	Query: "locality:Lobos de afuera country:&#34;Peru&#34;" ; Times: 2
+	Query: "ansp 139763" ; Times: 1
+	Query: "ansp 139765" ; Times: 1
+	Query: "ansp 139764" ; Times: 1
+	Query: "(kansas state OR KSU)" ; Times: 4
+	Query: "a. kupfer" ; Times: 1
+	Query: "South Brother" ; Times: 1
+	Query: "astyanax cave" ; Times: 1
+	Query: "hoplerythrinus" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "ANSP 182609" ; Times: 1
+	Query: "Pimephales promelas" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "Silas" ; Times: 1
+	Query: "USNM 3090" ; Times: 1
+	Query: "gull" ; Times: 1
+	Query: "gasterosteus california &#34;san luis obispo&#34; vntype:specimen" ; Times: 1
+	Query: "Leporinus fasciatus" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "collection location" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "country:&#34;Bahamas&#34; institutioncode:ANSP" ; Times: 2
+	Query: "hypostomus macrops" ; Times: 1
+	Query: "Myrophis plumbeus" ; Times: 1
+	Query: "ANSP 187277" ; Times: 2
+	Query: "116396" ; Times: 1
+	Query: "country:&#34;British Honduras&#34;" ; Times: 1
+	Query: "148623" ; Times: 1
+	Query: "22579" ; Times: 1
+	Query: "187036 vntype:specimen institutioncode:ANSP" ; Times: 1
+	Query: "tk country:&#34;peru&#34;" ; Times: 1
+	Query: "hoplias brasiliensis" ; Times: 1
+	Query: "country:&#34;Bulgaria&#34;" ; Times: 1
+	Query: "specificepithet:scripta" ; Times: 1
+	Query: "university of oklahoma" ; Times: 1
+	Query: "Gymnothorax miliaris" ; Times: 1
+	Query: "country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "ANSP 188917" ; Times: 1
+	Query: "colombia" ; Times: 1
+	Query: "county:&#34;monterrey&#34;" ; Times: 1
+	Query: "fishes catalog" ; Times: 1
+	Query: "country:&#34;Dominican republic&#34;" ; Times: 1
+	Query: "genus:Homalopterula specificepithet:ripleyi" ; Times: 1
+	Query: "&#34;hypostomus papariae&#34;" ; Times: 2
+	Query: "Macropus" ; Times: 1
+	Query: "Utiaritichthys sennaebragai" ; Times: 1
+	Query: "TC 1980" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Witmer &#34;Cape May&#34; institutioncode:ANSP" ; Times: 3
+	Query: "Potamotrygon scobina" ; Times: 2
+	Query: "catalognumber:20411 institutioncode:ANSP basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hypostomus niceforoi" ; Times: 2
+	Query: "mirza" ; Times: 1
+	Query: "catalognumber:149669" ; Times: 1
+	Query: "country:&#34;cuba&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "anguilla rostrata susquehanna" ; Times: 1
+	Query: "ansp 115283" ; Times: 1
+	Query: "FMNH 1034" ; Times: 2
+	Query: "recordedby:Witmer Stone" ; Times: 1
+	Query: "159797" ; Times: 1
+	Query: "dasyatis" ; Times: 1
+	Query: "WITMER STONE COLLECTION &#34;Cape May&#34; institutioncode:ANSP" ; Times: 1
+	Query: "stateprovince:&#34;New Jersey&#34; recordedby:Stone" ; Times: 1
+	Query: "yasuni" ; Times: 1
+	Query: "95157" ; Times: 1
+	Query: "WITMER STONE COLLECTION institutioncode:ANSP" ; Times: 2
+	Query: "potamotrygon tigrina" ; Times: 2
+	Query: "Fundulus heteroclitus" ; Times: 2
+	Query: "catalognumber:115555" ; Times: 1
+	Query: "westermanni" ; Times: 1
+	Query: "stateprovince:&#34;Espirito Santo&#34; country:&#34;Brazil&#34; institutioncode:ANSP" ; Times: 1
+	Query: "eidolon" ; Times: 1
+	Query: "Danio rerio" ; Times: 2
+	Query: "Sebastes flavidus" ; Times: 1
+	Query: "specificepithet:gilberti stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "bryce brown" ; Times: 5
+	Query: "Reading" ; Times: 1
+	Query: "salvelinus malma" ; Times: 1
+	Query: "pempheris mangula" ; Times: 1
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "Peckoltia vittata" ; Times: 1
+	Query: "lucania goodei" ; Times: 1
+	Query: "dekeyseria amazonica" ; Times: 1
+	Query: "ansp 61177" ; Times: 1
+	Query: "ANSP 191354" ; Times: 1
+	Query: "ansp 61175" ; Times: 1
+	Query: "ANSP 180242" ; Times: 1
+	Query: "sarotherodon galilaeus" ; Times: 3
+	Query: "Polyodon spathula" ; Times: 3
+	Query: "playas" ; Times: 1
+	Query: "Liparis callyodon" ; Times: 1
+	Query: "cooter" ; Times: 1
+	Query: "potamotrygon signata" ; Times: 5
+	Query: "heterodon" ; Times: 1
+	Query: "internet" ; Times: 1
+	Query: "(Florida)" ; Times: 1
+	Query: "brunneus" ; Times: 1
+	Query: "specificepithet:miurus genus:Noturus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "117645" ; Times: 2
+	Query: "michigan state" ; Times: 1
+	Query: "ANSP 189159" ; Times: 1
+	Query: "Trichomycteridae" ; Times: 1
+	Query: "database" ; Times: 3
+	Query: "recordedby:Witmer Stone institutioncode:ANSP" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Hemigrammus ocellifer" ; Times: 1
+	Query: "hypostomus papariae" ; Times: 3
+	Query: "(Tennessee OR Georgia)" ; Times: 1
+	Query: "ANSP 178126" ; Times: 1
+	Query: "distance(location,geopoint(-12.006230714144326,-37.878616699745066))&lt;100000" ; Times: 1
+	Query: "witch" ; Times: 10
+	Query: "117648" ; Times: 1
+	Query: "Xiphister atropurpureus" ; Times: 1
+	Query: "country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "project a014" ; Times: 2
+	Query: "hypostomus macushi" ; Times: 1
+	Query: "notropis chiliticus" ; Times: 1
+	Query: "county:&#34;Dade&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "uncertainty" ; Times: 1
+	Query: "95155" ; Times: 1
+	Query: "95154" ; Times: 1
+	Query: "tigre" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "ANSP 192865" ; Times: 2
+	Query: "stateprovince:&#34;Minas Gerais&#34; institutioncode:ANSP" ; Times: 1
+	Query: "&#34;Lucania goodei&#34;" ; Times: 2
+	Query: "hypostomus nudiventris" ; Times: 1
+	Query: "institutioncode:ANSP" ; Times: 2
+	Query: "Chlorophthalmus agassizi" ; Times: 1
+	Query: "genus:astyanax country:&#34;mexico&#34;" ; Times: 1
+	Query: "ANSP 187435" ; Times: 1
+	Query: "ANSP 189141" ; Times: 1
+	Query: "lake erie" ; Times: 1
+	Query: "stateprovince:&#34;San Luis Potosi&#34;" ; Times: 1
+	Query: "recordedby:W. Stone" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "lacm" ; Times: 2
+	Query: "Pycnomma semisquamatum" ; Times: 1
+	Query: "123479" ; Times: 1
+	Query: "Cyprinus rubrofuscus" ; Times: 1
+	Query: "Gambusia holbrooki" ; Times: 3
+	Query: "168352 vntype:specimen institutioncode:ANSP" ; Times: 1
+	Query: "Peckoltia brevis" ; Times: 1
+	Query: "Muraena melanotis" ; Times: 1
+	Query: "canis" ; Times: 2
+	Query: "SMF" ; Times: 1
+	Query: "recordedby:Stone institutioncode:ANSP" ; Times: 2
+	Query: "river otter" ; Times: 1
+	Query: "Phycis mediterraneus" ; Times: 1
+	Query: "ANSP 178284" ; Times: 1
+	Query: "nicefori" ; Times: 1
+	Query: "Hypsoblennius gentilis" ; Times: 1
+	Query: "hoplias aimara" ; Times: 1
+	Query: "devil" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "Channa maculata" ; Times: 1
+	Query: "molokai" ; Times: 2
+	Query: "hypostomus oculeus" ; Times: 1
+	Query: "Guatemala" ; Times: 1
+	Query: "vntype:observation" ; Times: 2
+	Query: "hippocampus abdominalis" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "Stone &#34;Cape May&#34; institutioncode:ANSP" ; Times: 1
+	Query: "stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; institutioncode:ANSP" ; Times: 1
+	Query: "church rock" ; Times: 3
+	Query: "specificepithet:lowei" ; Times: 1
+	Query: "Syngnathus abaster" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 5
+	Query: "Anarchias similis" ; Times: 1
+	Query: "WAM" ; Times: 1
+	Query: "117622" ; Times: 1
+	Query: "county:&#34;mexico&#34;" ; Times: 1
+	Query: "Ulvicola sanctaerosae" ; Times: 1
+	Query: "Cutucu vntype:specimen institutioncode:ANSP" ; Times: 1
+	Query: "SFC 10" ; Times: 1
+	Query: "Clupea harengus" ; Times: 2
+	Query: "vntype:specimen specificepithet:galeatus" ; Times: 1
+	Query: "Liparis mucosus" ; Times: 1
+	Query: "Sardinella aurita ANSP FISH 95591" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;yucatan&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "gambusia nobilis" ; Times: 1
+	Query: "monopterus" ; Times: 1
+	Query: "USNM" ; Times: 1
+	Query: "country:&#34;USA&#34;" ; Times: 1
+	Query: "116390" ; Times: 2
+	Query: "astyanax san luis potosi" ; Times: 1
+	Query: "Lepidopus" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "recordedby:holt" ; Times: 1
+	Query: "ansp 182020" ; Times: 1
+	Query: "catalognumber:102026" ; Times: 1
+	Query: "Sousa" ; Times: 1
+	Query: "WITMER STONE COLLECTION &#34;cape may&#34;" ; Times: 1
+	Query: "Salmo" ; Times: 1
+	Query: "A robert country:&#34;brazil&#34;" ; Times: 1
+	Query: "notropis allegheny" ; Times: 1
+	Query: "Heterodon" ; Times: 3
+	Query: "Lt. Couch" ; Times: 2
+	Query: "recordedby:Karen" ; Times: 1
+	Query: "locality:bahia" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;california&#34; year &gt;= 1890 year &lt;= 1970" ; Times: 2
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 1
+	Query: "institutioncode:ansp" ; Times: 3
+	Query: "vntype:specimen stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "acanthurus bahianus" ; Times: 1
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "j 808" ; Times: 1
+	Query: "country:&#34;brazil&#34;" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;san luis potosi&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "specificepithet:undulatus genus:menticirrhus" ; Times: 1
+	Query: "117643" ; Times: 2
+	Query: "Peckoltia sabaji" ; Times: 1
+	Query: "ANSP 159797" ; Times: 1
+	Query: "furcifer" ; Times: 2
+	Query: "catalognumber:113563" ; Times: 1
+	Query: "india" ; Times: 1
+	Query: "Morona-Santiago vntype:specimen institutioncode:ANSP" ; Times: 1
+	Query: "anemone" ; Times: 1
+	Query: "torpedo californica" ; Times: 1
+	Query: "TK 5411" ; Times: 1
+	Query: "trinitatus" ; Times: 1
+	Query: "country:&#34;brazil&#34; institutioncode:ANSP" ; Times: 1
+	Query: "kupfer" ; Times: 1
+	Query: "lambs" ; Times: 1
+	Query: "Hemichromis bimaculatus" ; Times: 1
+	Query: "Peckoltia cavatica" ; Times: 1
+	Query: "September country:&#34;USA&#34;" ; Times: 1
+	Query: "ANSP 180205" ; Times: 1
+	Query: "Cichlasoma gephyrum" ; Times: 1
+	Query: "Genus Sousa" ; Times: 1
+	Query: "hypostomus peckoltoides" ; Times: 1
+	Query: "country:&#34;India&#34;" ; Times: 2
+	Query: "oklahoma state university" ; Times: 1
+	Query: "99925" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Potamotrygon marinae" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;USA&#34; continent:North America" ; Times: 1
+	Query: "&#34;plecostomus plecostomus papariae&#34;" ; Times: 1
+	Query: "catfish" ; Times: 1
+	Query: "93278" ; Times: 1
+	Query: "distance(location,geopoint(-11.986814717847798,-37.96911656929285))&lt;100000" ; Times: 1
+	Query: "Paget" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "117617" ; Times: 1
+	Query: "169168 vntype:specimen institutioncode:ANSP" ; Times: 1
+	Query: "catalognumber:176513" ; Times: 1
+	Query: "palmas" ; Times: 3
+	Query: "OSU" ; Times: 1
+	Query: "85020 institutioncode:ANSP" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "acanthurus tractus" ; Times: 4
+	Query: "hoplias microlepis" ; Times: 1
+	Query: "ANSP 180389" ; Times: 1
+	Query: "mimosa" ; Times: 1
+	Query: "Adontosternarchus nebulosus" ; Times: 1
+	Query: "recordedby:Saunders" ; Times: 2
+	Query: "Sardinella aurita" ; Times: 2
+	Query: "stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Goodwin" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "Aulostomus maculatus" ; Times: 1
+	Query: "Anomalurus" ; Times: 2
+	Query: "locality:Borneo" ; Times: 1
+	Query: "24792 institutioncode:ANSP" ; Times: 1
+	Query: "Constanta" ; Times: 1
+	Query: "gasterosteus california vntype:specimen" ; Times: 3
+	Query: "80729" ; Times: 1
+	Query: "octopus" ; Times: 1
+	Query: "tanzania" ; Times: 4
+	Query: "county:&#34;Colombia&#34;" ; Times: 1
+	Query: "117615" ; Times: 1
+	Query: "Paget Island" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "genus:gasterosteus county:&#34;Humboldt&#34;" ; Times: 13
+	Query: "recordedby:Dr. Witmer Stone. institutioncode:ANSP" ; Times: 2
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "hasmedia:1" ; Times: 1
+	Query: "Laticauda" ; Times: 3
+	Query: "sphoeroides nephelus" ; Times: 1
+	Query: "Galeocerdo cuvier" ; Times: 12
+	Query: "continent:South America" ; Times: 1
+	Query: "Hemichromis fasciatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 846 download events in this period)
+Total number of records downloaded: 7889
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-11 ; Times: 3
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 1
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "Potamotrygon marinae" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "tk country:&#34;peru&#34;" ; Times: 1
+	Query: "potamotrygon tigrina" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "country:&#34;cuba&#34;" ; Times: 1
+	Query: "A. robert country:&#34;brazil&#34;" ; Times: 1
+	Query: "distance(location,geopoint(-12.006230714144326,-37.878616699745066))&lt;100000" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+
+
+End of report.
