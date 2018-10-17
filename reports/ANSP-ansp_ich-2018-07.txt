@@ -1,0 +1,470 @@
+Report for Institution Code ANSP, Resource ansp_ich
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 473
+Number of records retrieved in searches: 7034
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 3
+	Country: Unknown ; Times: 13
+	Country: France ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Argentina ; Times: 7
+	Country: Australia ; Times: 3
+	Country: Iran ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: China ; Times: 6
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Finland ; Times: 5
+	Country: United States ; Times: 364
+	Country: Kenya ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Mexico ; Times: 18
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 12
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-01 ; Times: 9
+	Date: 2018-07-02 ; Times: 22
+	Date: 2018-07-03 ; Times: 11
+	Date: 2018-07-28 ; Times: 3
+	Date: 2018-07-29 ; Times: 2
+	Date: 2018-07-08 ; Times: 3
+	Date: 2018-07-09 ; Times: 7
+	Date: 2018-07-04 ; Times: 17
+	Date: 2018-07-05 ; Times: 7
+	Date: 2018-07-06 ; Times: 12
+	Date: 2018-07-21 ; Times: 14
+	Date: 2018-07-26 ; Times: 13
+	Date: 2018-07-27 ; Times: 13
+	Date: 2018-07-24 ; Times: 26
+	Date: 2018-07-25 ; Times: 16
+	Date: 2018-07-13 ; Times: 19
+	Date: 2018-07-12 ; Times: 25
+	Date: 2018-07-11 ; Times: 9
+	Date: 2018-07-10 ; Times: 25
+	Date: 2018-07-17 ; Times: 12
+	Date: 2018-07-16 ; Times: 17
+	Date: 2018-07-15 ; Times: 78
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-31 ; Times: 30
+	Date: 2018-07-30 ; Times: 15
+	Date: 2018-07-19 ; Times: 15
+	Date: 2018-07-18 ; Times: 8
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-23 ; Times: 29
+	Date: 2018-07-20 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "38006 institutioncode:ANSP" ; Times: 1
+	Query: "ansp 17195" ; Times: 1
+	Query: "sea otter" ; Times: 1
+	Query: "89544" ; Times: 1
+	Query: "usnm" ; Times: 1
+	Query: "serrasalmus eigenmanni" ; Times: 1
+	Query: "tachira" ; Times: 1
+	Query: "133024" ; Times: 1
+	Query: "county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; institutioncode:ANSP" ; Times: 2
+	Query: "Marshall Co" ; Times: 1
+	Query: "44690" ; Times: 1
+	Query: "mcz 65862" ; Times: 3
+	Query: "38097 institutioncode:ANSP" ; Times: 4
+	Query: "38061 institutioncode:ANSP" ; Times: 1
+	Query: "(cameta)" ; Times: 2
+	Query: "166417" ; Times: 1
+	Query: "Olson" ; Times: 1
+	Query: "chicken" ; Times: 1
+	Query: "&#34;Nanay&#34;" ; Times: 1
+	Query: "country:&#34;Bolivia&#34;" ; Times: 2
+	Query: "3418" ; Times: 1
+	Query: "Ancistrus dolichopterus." ; Times: 1
+	Query: "catalognumber:7987 institutioncode:ANSP" ; Times: 3
+	Query: "24722 institutioncode:ANSP" ; Times: 2
+	Query: "specificepithet:versicolor" ; Times: 1
+	Query: "38149 institutioncode:ANSP" ; Times: 1
+	Query: "38102 institutioncode:ANSP" ; Times: 2
+	Query: "38096 institutioncode:ANSP" ; Times: 2
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "ansp 19297" ; Times: 1
+	Query: "AM 3468" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 3
+	Query: "arapaima" ; Times: 2
+	Query: "24639 institutioncode:ANSP" ; Times: 2
+	Query: "China" ; Times: 2
+	Query: "Tomeurus" ; Times: 1
+	Query: "104695" ; Times: 1
+	Query: "Ebosia" ; Times: 1
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "38347 institutioncode:ANSP" ; Times: 1
+	Query: "22763" ; Times: 2
+	Query: "specificepithet:guttatus genus:epinephelus year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "hastypestatus:1" ; Times: 1
+	Query: "fish community" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "catalognumber:163245 institutioncode:ANSP" ; Times: 1
+	Query: "82901" ; Times: 1
+	Query: "MCZ" ; Times: 1
+	Query: "20167" ; Times: 1
+	Query: "185774" ; Times: 2
+	Query: "83545" ; Times: 1
+	Query: "38191 institutioncode:ANSP" ; Times: 2
+	Query: "24597 institutioncode:ANSP" ; Times: 2
+	Query: "Ophidion scrippsae" ; Times: 2
+	Query: "38047 institutioncode:ANSP" ; Times: 1
+	Query: "genus:percina" ; Times: 1
+	Query: "Saltator institutioncode:ANSP" ; Times: 1
+	Query: "ANSP tissue" ; Times: 1
+	Query: "136338" ; Times: 1
+	Query: "stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "catalognumber:24157 institutioncode:ANSP" ; Times: 1
+	Query: "6399" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "7252" ; Times: 1
+	Query: "29686" ; Times: 1
+	Query: "Puntius filamentosus" ; Times: 1
+	Query: "Felix" ; Times: 1
+	Query: "clupea harengus" ; Times: 1
+	Query: "155904" ; Times: 1
+	Query: "189116 ANSP" ; Times: 1
+	Query: "38013 institutioncode:ANSP" ; Times: 2
+	Query: "90043" ; Times: 4
+	Query: "92002" ; Times: 1
+	Query: "serrasalmus gouldingi" ; Times: 1
+	Query: "2259" ; Times: 1
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "AMNH 12703" ; Times: 2
+	Query: "country:&#34;Keeling&#34;" ; Times: 1
+	Query: "6188" ; Times: 1
+	Query: "2796" ; Times: 1
+	Query: "2250" ; Times: 3
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish" ; Times: 2
+	Query: "38354 institutioncode:ANSP" ; Times: 3
+	Query: "158094" ; Times: 1
+	Query: "genus:Chelidoperca" ; Times: 1
+	Query: "6188 ansp" ; Times: 1
+	Query: "Hyphessobrycon metae" ; Times: 1
+	Query: "24769 institutioncode:ANSP" ; Times: 1
+	Query: "Hyphessobrycon rosaceus" ; Times: 1
+	Query: "24703 institutioncode:ANSP" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "(badius)" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "flamingo" ; Times: 2
+	Query: "24663 institutioncode:ANSP" ; Times: 1
+	Query: "harris county" ; Times: 1
+	Query: "Cetorhinus" ; Times: 1
+	Query: "genus:notropis stateprovince:&#34;NEW YORK&#34;" ; Times: 1
+	Query: "99162" ; Times: 2
+	Query: "WM 3" ; Times: 2
+	Query: "8589" ; Times: 1
+	Query: "3704" ; Times: 4
+	Query: "24745 institutioncode:ANSP" ; Times: 2
+	Query: "Heterodon" ; Times: 2
+	Query: "catalognumber:162821 institutioncode:ANSP" ; Times: 3
+	Query: "38057 institutioncode:ANSP" ; Times: 1
+	Query: "Agosia chrysogaster pima" ; Times: 2
+	Query: "serrasalmus humeralis" ; Times: 1
+	Query: "ANSP 4865" ; Times: 1
+	Query: "24792 institutioncode:ANSP" ; Times: 2
+	Query: "155094" ; Times: 1
+	Query: "9524" ; Times: 1
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "serrasalmus manueli" ; Times: 1
+	Query: "5840" ; Times: 1
+	Query: "24883 institutioncode:ANSP" ; Times: 1
+	Query: "fieldnumber:B R 1053" ; Times: 1
+	Query: "Barbodes hemictenus" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "Geronimo" ; Times: 1
+	Query: "MNHN 1995-27" ; Times: 1
+	Query: "county:&#34;Colombia&#34;" ; Times: 1
+	Query: "brunei" ; Times: 1
+	Query: "38127 institutioncode:ANSP" ; Times: 2
+	Query: "Ensifera ensifera mappable:1" ; Times: 1
+	Query: "vntype:observation continent:Asia" ; Times: 1
+	Query: "Hunter Island" ; Times: 1
+	Query: "38041 institutioncode:ANSP" ; Times: 1
+	Query: "Hering institutioncode:ANSP" ; Times: 1
+	Query: "Anguilla marmorata" ; Times: 1
+	Query: "Crenicichla johanna" ; Times: 1
+	Query: "38063 institutioncode:ANSP" ; Times: 2
+	Query: "3318" ; Times: 1
+	Query: "megalops" ; Times: 1
+	Query: "SP 3239" ; Times: 1
+	Query: "witch" ; Times: 6
+	Query: "38188 institutioncode:ANSP" ; Times: 1
+	Query: "mammal" ; Times: 1
+	Query: "Schultze" ; Times: 1
+	Query: "(Blair county pennsylvania)" ; Times: 1
+	Query: "kenya" ; Times: 1
+	Query: "38009 institutioncode:ANSP" ; Times: 4
+	Query: "bamberg" ; Times: 2
+	Query: "131302" ; Times: 1
+	Query: "38117 institutioncode:ANSP" ; Times: 1
+	Query: "139124" ; Times: 2
+	Query: "100529" ; Times: 1
+	Query: "5083" ; Times: 1
+	Query: "institutioncode:ansp" ; Times: 2
+	Query: "catalognumber:41070 institutioncode:ANSP" ; Times: 2
+	Query: "7373 F" ; Times: 1
+	Query: "Santa Catarina" ; Times: 5
+	Query: "specificepithet:STRAMINEUS genus:notropis stateprovince:&#34;NEW YORK&#34;" ; Times: 1
+	Query: "ansp 7974" ; Times: 1
+	Query: "FLMNH" ; Times: 1
+	Query: "genus:Trigonectes" ; Times: 1
+	Query: "Ancistrus" ; Times: 2
+	Query: "13038" ; Times: 1
+	Query: "FMNH" ; Times: 1
+	Query: "stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "ANSP 175865" ; Times: 1
+	Query: "38420 institutioncode:ANSP" ; Times: 1
+	Query: "68499" ; Times: 1
+	Query: "38380 institutioncode:ANSP" ; Times: 2
+	Query: "country:&#34;kenya&#34; (Mara river)" ; Times: 2
+	Query: "genus:guttulatum OR holmbergi" ; Times: 1
+	Query: "country:&#34;Barthelemy&#34;" ; Times: 1
+	Query: "7931" ; Times: 1
+	Query: "Chihuahua" ; Times: 1
+	Query: "148193" ; Times: 1
+	Query: "sphoeroides pachygaster" ; Times: 2
+	Query: "38257 institutioncode:ANSP" ; Times: 1
+	Query: "stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "hyphessobrycon metae" ; Times: 1
+	Query: "24646 institutioncode:ANSP" ; Times: 1
+	Query: "Hypophthalmichthys" ; Times: 1
+	Query: "38098 institutioncode:ANSP" ; Times: 2
+	Query: "121394" ; Times: 1
+	Query: "121395" ; Times: 1
+	Query: "cruentata" ; Times: 1
+	Query: "Malapterurus stiassnyae" ; Times: 1
+	Query: "Latimeria" ; Times: 2
+	Query: "Pterois antennata" ; Times: 2
+	Query: "Pterois radiata" ; Times: 1
+	Query: "1196 p" ; Times: 1
+	Query: "38153 institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:semisquamatum" ; Times: 1
+	Query: "institutioncode:ANSP" ; Times: 8
+	Query: "locality:Cametá country:&#34;Brazil&#34;" ; Times: 1
+	Query: "recordedby:Nuttall" ; Times: 2
+	Query: "160666 ANSP" ; Times: 1
+	Query: "Hyphessobrycon peruvianus" ; Times: 1
+	Query: "cyprinella caerulea" ; Times: 1
+	Query: "89930" ; Times: 1
+	Query: "57433" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "38042 institutioncode:ANSP" ; Times: 1
+	Query: "73161" ; Times: 1
+	Query: "7826" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018" ; Times: 2
+	Query: "158958" ; Times: 1
+	Query: "danio rerio" ; Times: 1
+	Query: "ANSP 3285" ; Times: 1
+	Query: "Martin Island" ; Times: 1
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "distribution" ; Times: 2
+	Query: "platydoras costatus" ; Times: 1
+	Query: "nanay" ; Times: 3
+	Query: "locality:Delicia " ; Times: 1
+	Query: "76389" ; Times: 1
+	Query: "ansp 16525" ; Times: 1
+	Query: "country:&#34;Guatemala&#34; recordedby:De schauensee" ; Times: 1
+	Query: "Channa micropeltes" ; Times: 2
+	Query: "10046" ; Times: 1
+	Query: "Gadus morhua" ; Times: 1
+	Query: "Hyphessobrycon scholzei" ; Times: 1
+	Query: "ummz" ; Times: 1
+	Query: "recordedby:J. D. Allen" ; Times: 1
+	Query: "specificepithet:rerio genus:danio" ; Times: 5
+	Query: "(Mara river)" ; Times: 4
+	Query: "32863" ; Times: 2
+	Query: "74358" ; Times: 1
+	Query: "24717 institutioncode:ANSP" ; Times: 1
+	Query: "121463" ; Times: 1
+	Query: "schultz creek" ; Times: 1
+	Query: "963" ; Times: 1
+	Query: "Samar Philippines" ; Times: 1
+	Query: "5958" ; Times: 1
+	Query: "serrasalmus hollandi" ; Times: 1
+	Query: "Conover" ; Times: 1
+	Query: "serrasalmus medinai" ; Times: 1
+	Query: "Jefferson county heterodon" ; Times: 1
+	Query: "38190 institutioncode:ANSP" ; Times: 2
+	Query: "county:&#34;marin&#34; stateprovince:&#34;california&#34; recordedby:snyder" ; Times: 1
+	Query: "38353 institutioncode:ANSP" ; Times: 1
+	Query: "catalognumber:54826 institutioncode:ANSP" ; Times: 4
+	Query: "8933" ; Times: 1
+	Query: "USNM 83" ; Times: 1
+	Query: "nanay maculata" ; Times: 1
+	Query: "vntype:specimen specificepithet:rerio genus:danio" ; Times: 3
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018 hastypestatus:1" ; Times: 2
+	Query: "38044 institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:rerio genus:Danio" ; Times: 2
+	Query: "38740 institutioncode:ANSP" ; Times: 2
+	Query: "14651" ; Times: 1
+	Query: "rasbora elegans" ; Times: 2
+	Query: "100446" ; Times: 2
+	Query: "7287" ; Times: 1
+	Query: "sargocentron poco" ; Times: 1
+	Query: "38185 institutioncode:ANSP" ; Times: 2
+	Query: "126440" ; Times: 1
+	Query: "Alepisaurus ferox" ; Times: 1
+	Query: "recordedby:De schauensee" ; Times: 1
+	Query: "fieldnumber:pep" ; Times: 1
+	Query: "country:&#34;Barthélemy&#34;" ; Times: 1
+	Query: "serrasalmus irritans" ; Times: 1
+	Query: "catalognumber:25865 institutioncode:ANSP" ; Times: 3
+	Query: "6505" ; Times: 1
+	Query: "India" ; Times: 1
+	Query: "149959" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 2
+	Query: "san martin" ; Times: 1
+	Query: "Scarus perrico" ; Times: 1
+	Query: "vntype:specimen locality:Annai" ; Times: 1
+	Query: "country:&#34;India&#34;" ; Times: 2
+	Query: "Pimephales notatus" ; Times: 1
+	Query: "ANSP 186791" ; Times: 1
+	Query: "locality:san andreas" ; Times: 1
+	Query: "24 August 1997" ; Times: 1
+	Query: "Trigonectes" ; Times: 1
+	Query: "hasmedia:1" ; Times: 3
+	Query: "nanay peru" ; Times: 1
+	Query: "24821 institutioncode:ANSP" ; Times: 1
+	Query: "clupeonella" ; Times: 1
+	Query: "tanzania" ; Times: 1
+	Query: "6063" ; Times: 1
+	Query: "catalognumber:52844" ; Times: 1
+	Query: "calotomus carolinus" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "locality:Cameta stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "alepisaurus ferox" ; Times: 1
+	Query: "Hyphessobrycon minor" ; Times: 1
+	Query: "38024 institutioncode:ANSP" ; Times: 2
+	Query: "locality:green rock" ; Times: 1
+	Query: "skull institutioncode:ANSP" ; Times: 1
+	Query: "24788 institutioncode:ANSP" ; Times: 2
+	Query: "32613" ; Times: 1
+	Query: "ANSP-3285" ; Times: 1
+	Query: "38246 institutioncode:ANSP" ; Times: 1
+	Query: "7815" ; Times: 2
+	Query: "serrasalmus elongatus" ; Times: 1
+	Query: "2706" ; Times: 1
+	Query: "percina" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "erimyzon sucetta" ; Times: 1
+	Query: "Cirrhinus molitorella" ; Times: 2
+	Query: "Anguis" ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 9
+	Query: "fieldnumber:mgl" ; Times: 1
+	Query: "ansp 16527" ; Times: 1
+	Query: "recordedby:J.D. Allen" ; Times: 1
+	Query: "ANSP 7565" ; Times: 1
+	Query: "1552" ; Times: 1
+	Query: "25097 institutioncode:ANSP" ; Times: 1
+	Query: "160666" ; Times: 1
+	Query: "Hyphessobrycon reticulatus" ; Times: 1
+	Query: "Hyphessobrycon sweglesi" ; Times: 1
+	Query: "24664 institutioncode:ANSP" ; Times: 1
+	Query: "UMMZ" ; Times: 1
+	Query: "2422" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 3
+	Query: "ansp 6188" ; Times: 2
+	Query: "38121 institutioncode:ANSP" ; Times: 1
+	Query: "38071 institutioncode:ANSP" ; Times: 2
+	Query: "38739 institutioncode:ANSP" ; Times: 2
+	Query: "24750 institutioncode:ANSP" ; Times: 2
+	Query: "195163" ; Times: 1
+	Query: "Serpentes" ; Times: 1
+	Query: "Aberdeen" ; Times: 3
+	Query: "cat" ; Times: 1
+	Query: "38260 institutioncode:ANSP" ; Times: 1
+	Query: "genus:Rhinichthys" ; Times: 1
+	Query: "38712 institutioncode:ANSP" ; Times: 2
+	Query: "38058 institutioncode:ANSP" ; Times: 1
+	Query: "genus:Dendrochirus" ; Times: 2
+	Query: "catalognumber:103722 institutioncode:ANSP" ; Times: 2
+	Query: "121036" ; Times: 1
+	Query: "Dendrochirus zebra" ; Times: 1
+	Query: "38162 institutioncode:ANSP" ; Times: 2
+	Query: "midas" ; Times: 1
+	Query: "Hyphessobrycon robustulus" ; Times: 1
+	Query: "paucidens" ; Times: 1
+	Query: "catalognumber:121016" ; Times: 1
+	Query: "locality:Cameta country:&#34;Brazil&#34;" ; Times: 1
+	Query: "158960" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 977 download events in this period)
+Total number of records downloaded: 1880
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 10
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 5
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-06 ; Times: 3
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-26 ; Times: 4
+	Date: 2018-07-27 ; Times: 3
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chihuahua" ; Times: 1
+	Query: "karnataka" ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 1
+	Query: "(cameta)" ; Times: 1
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Scarus perrico" ; Times: 1
+	Query: "locality:Cameta country:&#34;Brazil&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "calotomus carolinus" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "locality:Cameta stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Louisiana&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "Pterois volitans" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018" ; Times: 3
+	Query: "vntype:observation continent:Asia" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "Hering institutioncode:ANSP" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Santa Catarina" ; Times: 2
+	Query: "vntype:observation continent:Asia year &gt;= 2007 year &lt;= 2018" ; Times: 2
+	Query: "Saltator institutioncode:ANSP" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+	Query: "Dendrochirus zebra" ; Times: 1
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "recordedby:J.D. Allen" ; Times: 1
+	Query: "Pterois radiata" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+
+
+End of report.
