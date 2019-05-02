@@ -1,0 +1,467 @@
+Report for Institution Code ANSP, Resource ansp_ich
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 531
+Number of records retrieved in searches: 8971
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 170
+	Country: Canada ; Times: 3
+	Country: Italy ; Times: 2
+	Country: France ; Times: 7
+	Country: Peru ; Times: 7
+	Country: Argentina ; Times: 3
+	Country: Norway ; Times: 23
+	Country: Australia ; Times: 1
+	Country: El Salvador ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Chile ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Turkey ; Times: 2
+	Country: United States ; Times: 266
+	Country: Sweden ; Times: 5
+	Country: Vietnam ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Mexico ; Times: 16
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 10
+	Date: 2019-04-19 ; Times: 120
+	Date: 2019-04-18 ; Times: 10
+	Date: 2019-04-05 ; Times: 8
+	Date: 2019-04-12 ; Times: 10
+	Date: 2019-04-11 ; Times: 12
+	Date: 2019-04-10 ; Times: 5
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-16 ; Times: 18
+	Date: 2019-04-15 ; Times: 21
+	Date: 2019-04-14 ; Times: 7
+	Date: 2019-04-30 ; Times: 5
+	Date: 2019-04-21 ; Times: 3
+	Date: 2019-04-01 ; Times: 7
+	Date: 2019-04-02 ; Times: 132
+	Date: 2019-04-03 ; Times: 6
+	Date: 2019-04-06 ; Times: 3
+	Date: 2019-04-04 ; Times: 17
+	Date: 2019-04-23 ; Times: 12
+	Date: 2019-04-20 ; Times: 8
+	Date: 2019-04-07 ; Times: 4
+	Date: 2019-04-26 ; Times: 27
+	Date: 2019-04-27 ; Times: 3
+	Date: 2019-04-24 ; Times: 15
+	Date: 2019-04-25 ; Times: 22
+	Date: 2019-04-28 ; Times: 5
+	Date: 2019-04-29 ; Times: 12
+	Date: 2019-04-08 ; Times: 19
+	Date: 2019-04-09 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Chaenopsis coheni" ; Times: 2
+	Query: "rom" ; Times: 1
+	Query: "Stathmonotus stahli mappable:1" ; Times: 1
+	Query: "Emblemariopsis bottomei mappable:1" ; Times: 1
+	Query: "ansp 139763" ; Times: 1
+	Query: "ansp 139764" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 4
+	Query: "aum" ; Times: 5
+	Query: "Protemblemaria punctata" ; Times: 1
+	Query: "Wilder AND Island" ; Times: 1
+	Query: "SCARUS rubroviolaceus" ; Times: 1
+	Query: "Larimus breviceps mappable:1" ; Times: 2
+	Query: "recordedby:mclean year &gt;= 1900 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:altivelis genus:Sebastolobus year &gt;= 1800 year &lt;= 1889" ; Times: 1
+	Query: "80729" ; Times: 3
+	Query: "pterois volitans" ; Times: 1
+	Query: "139554" ; Times: 1
+	Query: "Lucayablennius zingaro" ; Times: 1
+	Query: "Cetengraulis edentulus mappable:1" ; Times: 2
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Paralonchurus brasiliensis mappable:1" ; Times: 2
+	Query: "mammal" ; Times: 1
+	Query: "Ekemblemaria myersi" ; Times: 2
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "109475" ; Times: 1
+	Query: "Menticirrhus americanus mappable:1" ; Times: 1
+	Query: "ummz" ; Times: 2
+	Query: "genus:Agonostomus" ; Times: 2
+	Query: "Swift fox" ; Times: 1
+	Query: "Coralliozetus springeri mappable:1" ; Times: 2
+	Query: "Coralliozetus micropes" ; Times: 2
+	Query: "Poecilia vivipara mappable:1" ; Times: 1
+	Query: "chicago" ; Times: 2
+	Query: "Trinectes paulistanus mappable:1" ; Times: 2
+	Query: "Otocinclus affinis" ; Times: 1
+	Query: "137236" ; Times: 1
+	Query: "116789" ; Times: 1
+	Query: "Astyanax mexicanus" ; Times: 1
+	Query: "Polydactylus virginicus mappable:1" ; Times: 2
+	Query: "135690" ; Times: 1
+	Query: "Stathmonotus lugubris mappable:1" ; Times: 1
+	Query: "137546" ; Times: 2
+	Query: "Chaenopsis resh mappable:1" ; Times: 2
+	Query: "Vilhena" ; Times: 1
+	Query: "Sander vitreus" ; Times: 4
+	Query: "Baryancistrus niveatus" ; Times: 1
+	Query: "Emblemariopsis diaphana mappable:1" ; Times: 1
+	Query: "Coralliozetus cardonae mappable:1" ; Times: 2
+	Query: "squalus acanthias" ; Times: 2
+	Query: "135099" ; Times: 1
+	Query: "pauciradiatus" ; Times: 1
+	Query: "canis" ; Times: 5
+	Query: "fundulus chrysotus" ; Times: 1
+	Query: "avicennia" ; Times: 1
+	Query: "Emblemaria piratica mappable:1" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 2
+	Query: "Caranx latus mappable:1" ; Times: 2
+	Query: "institutioncode:ANSP" ; Times: 2
+	Query: "Chaenopsis coheni mappable:1" ; Times: 2
+	Query: "Chaenopsis roseola" ; Times: 2
+	Query: "145378" ; Times: 3
+	Query: "Trichopsis vittata" ; Times: 2
+	Query: "145372" ; Times: 1
+	Query: "Ophioscion punctatissimus mappable:1" ; Times: 2
+	Query: "Oligosarcus acutirostris mappable:1" ; Times: 1
+	Query: "Ruvettus pretiosus" ; Times: 2
+	Query: "Garra rufa" ; Times: 1
+	Query: "stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Gymnotus carapo mappable:1" ; Times: 1
+	Query: "Emblemaria pandionis" ; Times: 1
+	Query: "Emblemaria pandionis mappable:1" ; Times: 1
+	Query: "mykiss" ; Times: 1
+	Query: "country:&#34;Zaire&#34; continent:Africa" ; Times: 1
+	Query: "anemone" ; Times: 1
+	Query: "Steindachnerina elegans mappable:1" ; Times: 1
+	Query: "catalognumber:143263" ; Times: 1
+	Query: "pini" ; Times: 1
+	Query: "Ophichthus cylindroideus mappable:1" ; Times: 2
+	Query: "Stathmonotus hemphillii" ; Times: 1
+	Query: "175723" ; Times: 1
+	Query: "Menticirrhus littoralis mappable:1" ; Times: 1
+	Query: "Stathmonotus lugubris" ; Times: 1
+	Query: "93566" ; Times: 1
+	Query: "Paraopeba" ; Times: 3
+	Query: "&#34;leslie salt&#34;" ; Times: 1
+	Query: "Protemblemaria punctata mappable:1" ; Times: 1
+	Query: "flmnh" ; Times: 1
+	Query: "salminus" ; Times: 4
+	Query: "zanobatus" ; Times: 1
+	Query: "Hemiemblemaria simulus" ; Times: 1
+	Query: "140271" ; Times: 1
+	Query: "Micropogonias furnieri mappable:1" ; Times: 2
+	Query: "119950" ; Times: 1
+	Query: "119953" ; Times: 1
+	Query: "47737" ; Times: 1
+	Query: "84999" ; Times: 1
+	Query: "R-192222" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 2
+	Query: "Emblemaria piratula" ; Times: 1
+	Query: "Ekemblemaria myersi mappable:1" ; Times: 2
+	Query: "institutioncode:ANSP country:Israel" ; Times: 1
+	Query: "Chaenopsis alepidota" ; Times: 4
+	Query: "Hyphessobrycon eques mappable:1" ; Times: 1
+	Query: "county:&#34;Loreto&#34;" ; Times: 1
+	Query: "Bairdiella ronchus mappable:1" ; Times: 2
+	Query: "Emblemariopsis diaphana" ; Times: 1
+	Query: "SCARUS ghobban" ; Times: 1
+	Query: "Chaenopsis ocellata" ; Times: 2
+	Query: "Clupea harengus mappable:1" ; Times: 2
+	Query: "Emblemaria australis mappable:1" ; Times: 2
+	Query: "107950" ; Times: 1
+	Query: "Emblemaria caldwelli mappable:1" ; Times: 2
+	Query: "Stathmonotus culebrai mappable:1" ; Times: 1
+	Query: "Myanmar institutioncode:ANSP" ; Times: 2
+	Query: "103378" ; Times: 1
+	Query: "Pimelodus maculatus mappable:1" ; Times: 2
+	Query: "Hemiemblemaria simulus mappable:1" ; Times: 1
+	Query: "ANSP-119930" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "canada" ; Times: 1
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "Emblemariopsis occidentalis mappable:1" ; Times: 1
+	Query: "scarus ghobban" ; Times: 3
+	Query: "Pygocentrus piraya mappable:1" ; Times: 1
+	Query: "Stathmonotus gymnodermis mappable:1" ; Times: 1
+	Query: "Hoplias intermedius mappable:1" ; Times: 1
+	Query: "Chaenopsis deltarrhis" ; Times: 2
+	Query: "Hoplosternum littorale mappable:1" ; Times: 1
+	Query: "country:&#34;peru&#34;" ; Times: 1
+	Query: "Stathmonotus sinuscalifornici" ; Times: 1
+	Query: "Serrasalmus marginatus mappable:1" ; Times: 1
+	Query: "196693" ; Times: 1
+	Query: "catalognumber:132320" ; Times: 1
+	Query: "locality:Para Mus" ; Times: 1
+	Query: "trachichthys australis" ; Times: 1
+	Query: "Emblemaria atlantica mappable:1" ; Times: 2
+	Query: "Awaous tajasica mappable:1" ; Times: 2
+	Query: "nhm" ; Times: 1
+	Query: "institutioncode:ANSP country:Palestine" ; Times: 3
+	Query: "Cathorops spixii mappable:1" ; Times: 2
+	Query: "salminus hilarii" ; Times: 1
+	Query: "Coralliozetus micropes mappable:1" ; Times: 2
+	Query: "86174" ; Times: 2
+	Query: "LUK" ; Times: 1
+	Query: "Hoplias brasiliensis mappable:1" ; Times: 1
+	Query: "Cynoscion leiarchus mappable:1" ; Times: 1
+	Query: "Rhamdia quelen mappable:1" ; Times: 1
+	Query: "Emblemariopsis bottomei" ; Times: 1
+	Query: "M-5742" ; Times: 1
+	Query: "poromitra crassiceps" ; Times: 1
+	Query: "Centriscus scutatus" ; Times: 1
+	Query: "Chaenopsis megalops mappable:1" ; Times: 2
+	Query: "ZMUC" ; Times: 1
+	Query: "Chaenopsis megalops" ; Times: 2
+	Query: "Nebris microps mappable:1" ; Times: 2
+	Query: "Coralliozetus boehlkei" ; Times: 2
+	Query: "Symphurus tessellatus mappable:1" ; Times: 2
+	Query: "sternarchogiton nattereri" ; Times: 1
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 1
+	Query: "Metynnis lippincottianus mappable:1" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 3
+	Query: "Synbranchus marmoratus mappable:1" ; Times: 1
+	Query: "Zostera marina" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 2
+	Query: "Emblemaria atlantica" ; Times: 2
+	Query: "Emblemariopsis ruetzleri" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Hyphessobrycon bifasciatus mappable:1" ; Times: 1
+	Query: "145380" ; Times: 1
+	Query: "Coryphopterus" ; Times: 1
+	Query: "Pygocentrus nattereri mappable:1" ; Times: 1
+	Query: "137989" ; Times: 2
+	Query: "182650" ; Times: 1
+	Query: "Atherinella brasiliensis mappable:1" ; Times: 2
+	Query: "Stathmonotus tekla mappable:1" ; Times: 1
+	Query: "Serranus flaviventris mappable:1" ; Times: 1
+	Query: "161314" ; Times: 1
+	Query: "Anchoa parva mappable:1" ; Times: 2
+	Query: "Emblemariopsis dianae" ; Times: 1
+	Query: "Petticoat creek" ; Times: 1
+	Query: "specificepithet:osculus genus:Rhinichthys" ; Times: 1
+	Query: "Notarius grandicassis mappable:1" ; Times: 2
+	Query: "Conodon nobilis mappable:1" ; Times: 2
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+	Query: "Cynoscion virescens mappable:1" ; Times: 2
+	Query: "Scorpaena isthmensis mappable:1" ; Times: 1
+	Query: "WJ 150" ; Times: 1
+	Query: "chicken" ; Times: 1
+	Query: "Neoclinus blanchardi mappable:1" ; Times: 1
+	Query: "county:&#34;Erie&#34; stateprovince:&#34;Pennsylvania&#34; institutioncode:ANSP" ; Times: 1
+	Query: "100969" ; Times: 1
+	Query: "stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "specificepithet:osculus genus:Rhinichthys stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Bagre bagre mappable:1" ; Times: 1
+	Query: "specificepithet:gobio genus:Cottus" ; Times: 2
+	Query: "192345" ; Times: 1
+	Query: "Prochilodus costatus mappable:1" ; Times: 1
+	Query: "ANSP-154966" ; Times: 1
+	Query: "21264" ; Times: 2
+	Query: "oreochromis niloticus" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "Narcine brasiliensis mappable:1" ; Times: 1
+	Query: "ANSP 1179" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Emblemariopsis occidentalis" ; Times: 1
+	Query: "catalognumber:131327" ; Times: 1
+	Query: "Chaenopsis roseola mappable:1" ; Times: 2
+	Query: "catalognumber:131321" ; Times: 1
+	Query: "Crenicichla lacustris mappable:1" ; Times: 1
+	Query: "poecilia reticulata" ; Times: 1
+	Query: "catalognumber:90043" ; Times: 1
+	Query: "Isopisthus parvipinnis mappable:1" ; Times: 2
+	Query: "Halicampus" ; Times: 2
+	Query: "Emblemaria piratula mappable:1" ; Times: 1
+	Query: "Scorpaena dispar mappable:1" ; Times: 1
+	Query: "Emblemariopsis signifer" ; Times: 1
+	Query: "carcharhinus limbatus" ; Times: 1
+	Query: "catalognumber:160879" ; Times: 1
+	Query: "KU 5932" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "Lutjanus jocu mappable:1" ; Times: 2
+	Query: "155796" ; Times: 1
+	Query: "xray" ; Times: 1
+	Query: "Prochilodus lineatus mappable:1" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 1
+	Query: "115761" ; Times: 1
+	Query: "Chaenopsis limbaughi mappable:1" ; Times: 2
+	Query: "Teeth" ; Times: 1
+	Query: "145278" ; Times: 1
+	Query: "115758" ; Times: 1
+	Query: "Emblemariopsis signifer mappable:1" ; Times: 1
+	Query: "RM 4940" ; Times: 1
+	Query: "115753" ; Times: 1
+	Query: "institutioncode:ansp" ; Times: 1
+	Query: "Stathmonotus sinuscalifornici mappable:1" ; Times: 1
+	Query: "115755" ; Times: 1
+	Query: "Chaenopsis ocellata mappable:1" ; Times: 2
+	Query: "Emblemaria australis" ; Times: 2
+	Query: "75298" ; Times: 1
+	Query: "137246" ; Times: 1
+	Query: "Hoplias malabaricus" ; Times: 2
+	Query: "81285" ; Times: 1
+	Query: "Eugerres brasilianus mappable:1" ; Times: 1
+	Query: "Zostera marina mappable:1" ; Times: 1
+	Query: "institutioncode:ANSP hasmedia:1" ; Times: 1
+	Query: "Pellona harroweri mappable:1" ; Times: 2
+	Query: "Utiariti" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 2
+	Query: "catalognumber:132317" ; Times: 2
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Coralliozetus springeri" ; Times: 2
+	Query: "Doryrhamphus negrosensis" ; Times: 4
+	Query: "Emblemariopsis bahamensis" ; Times: 1
+	Query: "Emblemariopsis dianae mappable:1" ; Times: 1
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "Lycengraulis grossidens mappable:1" ; Times: 1
+	Query: "Stellifer stellifer mappable:1" ; Times: 1
+	Query: "clarias gariepinus" ; Times: 1
+	Query: "ansp 135764" ; Times: 1
+	Query: "ansp 135763" ; Times: 1
+	Query: "Genidens genidens mappable:1" ; Times: 2
+	Query: "NMU" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 2
+	Query: "Lucayablennius zingaro mappable:1" ; Times: 1
+	Query: "156150" ; Times: 1
+	Query: "Emblemaria piratica" ; Times: 1
+	Query: "Anarhichas lupus mappable:1" ; Times: 9
+	Query: "Chaenopsis limbaughi" ; Times: 2
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 1
+	Query: "Stathmonotus tekla" ; Times: 1
+	Query: "190310" ; Times: 1
+	Query: "walter koelz" ; Times: 5
+	Query: "county:&#34;Mexico&#34;" ; Times: 1
+	Query: "flavicauda" ; Times: 1
+	Query: "Porichthys porosissimus mappable:1" ; Times: 1
+	Query: "174335" ; Times: 1
+	Query: "174336" ; Times: 1
+	Query: "174337" ; Times: 1
+	Query: "&#34;Sander vitreus&#34;" ; Times: 2
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 4
+	Query: "Emblemaria caldwelli" ; Times: 2
+	Query: "Zonata" ; Times: 1
+	Query: "Tanichthys albonubes" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "pennsylvania" ; Times: 1
+	Query: "Macropodus ocellatus" ; Times: 1
+	Query: "country:&#34;Philippine&#34;" ; Times: 1
+	Query: "SCARUS perrico" ; Times: 3
+	Query: "75419" ; Times: 1
+	Query: "Stathmonotus hemphillii mappable:1" ; Times: 1
+	Query: "Stathmonotus culebrai" ; Times: 1
+	Query: "Paralichthys brasiliensis mappable:1" ; Times: 1
+	Query: "115767" ; Times: 1
+	Query: "stateprovince:&#34;CA&#34;" ; Times: 2
+	Query: "Odontognathus mucronatus mappable:1" ; Times: 2
+	Query: "Stathmonotus gymnodermis" ; Times: 1
+	Query: "catalognumber:142330" ; Times: 1
+	Query: "recordedby:McLean" ; Times: 1
+	Query: "Lophiosilurus alexandri mappable:1" ; Times: 1
+	Query: "Neoclinus blanchardi" ; Times: 1
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "Chaenopsis alepidota mappable:1" ; Times: 5
+	Query: "Coralliozetus boehlkei mappable:1" ; Times: 2
+	Query: "135136" ; Times: 1
+	Query: "specificepithet:(personatus OR hyalinus) genus:Coryphopterus" ; Times: 7
+	Query: "Emblemariopsis ruetzleri mappable:1" ; Times: 1
+	Query: "images" ; Times: 1
+	Query: "137536" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "Aspistor luniscutis mappable:1" ; Times: 2
+	Query: "50360" ; Times: 1
+	Query: "family:Synbranchidae country:&#34;Trinidad&#34;" ; Times: 2
+	Query: "Gambusia affinis" ; Times: 3
+	Query: "Prionotus punctatus mappable:1" ; Times: 2
+	Query: "nmu" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "PARA MUS" ; Times: 1
+	Query: "ANSP-102580" ; Times: 1
+	Query: "optivus elongatus" ; Times: 4
+	Query: "Bothus ocellatus mappable:1" ; Times: 1
+	Query: "Prochilodus vimboides mappable:1" ; Times: 1
+	Query: "ANSP-138613" ; Times: 1
+	Query: "Emblemariopsis bahamensis mappable:1" ; Times: 1
+	Query: "Squaliforma emarginata" ; Times: 1
+	Query: "Sorubimichthys planiceps" ; Times: 1
+	Query: "catalognumber:170470" ; Times: 2
+	Query: "55268" ; Times: 1
+	Query: "locality:round island" ; Times: 2
+	Query: "Clarias gariepinus mappable:1" ; Times: 1
+	Query: "173062" ; Times: 1
+	Query: "ANSP Mammal" ; Times: 1
+	Query: "recordedby:herron" ; Times: 1
+	Query: "Coralliozetus cardonae" ; Times: 2
+	Query: "astyanax mexicanus" ; Times: 3
+	Query: "specificepithet:altivelis genus:Sebastolobus year &lt;= 1889" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 4
+	Query: "Hippocampus" ; Times: 1
+	Query: "uf" ; Times: 1
+	Query: "Leporinus copelandii mappable:1" ; Times: 1
+	Query: "Gadus morhua mappable:1" ; Times: 4
+	Query: "141864" ; Times: 1
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "Oligodon institutioncode:ANSP" ; Times: 1
+	Query: "Chaenopsis resh" ; Times: 2
+	Query: "Mugil liza mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;washington&#34; institutioncode:ANSP" ; Times: 2
+	Query: "hasmedia:1" ; Times: 2
+	Query: "Agonostomus monticola" ; Times: 2
+	Query: "119949" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "senckenberg" ; Times: 1
+	Query: "Stathmonotus stahli" ; Times: 1
+	Query: "Stellifer rastrifer mappable:1" ; Times: 2
+	Query: "fishes" ; Times: 1
+	Query: "vntype:specimen (mud turtle)" ; Times: 2
+	Query: "Chaenopsis deltarrhis mappable:1" ; Times: 2
+	Query: "145540" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1263 download events in this period)
+Total number of records downloaded: 314
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 6
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-02 ; Times: 1
+	Date: 2019-04-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;washington&#34; institutioncode:ANSP" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "county:&#34;Loreto&#34;" ; Times: 1
+	Query: "clarias gariepinus" ; Times: 1
+	Query: "specificepithet:pandora genus:Gila stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "specificepithet:gobio genus:Cottus" ; Times: 1
+	Query: "walter koelz" ; Times: 1
+	Query: "Sander vitreus" ; Times: 1
+
+
+End of report.
