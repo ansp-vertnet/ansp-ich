@@ -1,0 +1,458 @@
+Report for Institution Code ANSP, Resource ansp_ich
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 452
+Number of records retrieved in searches: 11454
+Number of different countries where searches have been originated: 30
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 10
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Bolivia ; Times: 1
+	Country: Venezuela ; Times: 5
+	Country: Ecuador ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: China ; Times: 1
+	Country: Belgium ; Times: 6
+	Country: Germany ; Times: 7
+	Country: Spain ; Times: 2
+	Country: Netherlands ; Times: 3
+	Country: Gambia ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 347
+	Country: Vietnam ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 6
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 16
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 5
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 25
+	Date: 2019-07-18 ; Times: 26
+	Date: 2019-07-19 ; Times: 18
+	Date: 2019-07-08 ; Times: 151
+	Date: 2019-07-12 ; Times: 13
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 15
+	Date: 2019-07-11 ; Times: 6
+	Date: 2019-07-16 ; Times: 12
+	Date: 2019-07-17 ; Times: 5
+	Date: 2019-07-14 ; Times: 3
+	Date: 2019-07-15 ; Times: 13
+	Date: 2019-07-02 ; Times: 6
+	Date: 2019-07-03 ; Times: 14
+	Date: 2019-07-23 ; Times: 11
+	Date: 2019-07-22 ; Times: 4
+	Date: 2019-07-21 ; Times: 5
+	Date: 2019-07-20 ; Times: 3
+	Date: 2019-07-27 ; Times: 3
+	Date: 2019-07-26 ; Times: 6
+	Date: 2019-07-25 ; Times: 12
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-01 ; Times: 4
+	Date: 2019-07-30 ; Times: 9
+	Date: 2019-07-29 ; Times: 13
+	Date: 2019-07-28 ; Times: 28
+	Date: 2019-07-05 ; Times: 15
+	Date: 2019-07-04 ; Times: 7
+	Date: 2019-07-07 ; Times: 8
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-31 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Schistura " ; Times: 2
+	Query: "genus:Pseudobunocephalus specificepithet:rugosus" ; Times: 1
+	Query: "genus:Lycengraulis specificepithet:grossidens" ; Times: 1
+	Query: "genus:Uaru specificepithet:amphiacanthoides" ; Times: 1
+	Query: "genus:Exallias specificepithet:brevis" ; Times: 1
+	Query: "genus:Holocentrus specificepithet:adscensionis" ; Times: 1
+	Query: "río Mizque" ; Times: 1
+	Query: "genus:Amblyopsis specificepithet:spelaea" ; Times: 1
+	Query: "South Mills river" ; Times: 1
+	Query: "catalognumber:149386" ; Times: 1
+	Query: "ansp mam" ; Times: 2
+	Query: "catalognumber:63610" ; Times: 3
+	Query: "genus:Cottus specificepithet:immaculatus" ; Times: 1
+	Query: "Etheostoma variatum" ; Times: 1
+	Query: "genus:Boleophthalmus specificepithet:boddarti" ; Times: 1
+	Query: "genus:Umbra" ; Times: 1
+	Query: "peces" ; Times: 1
+	Query: "7044" ; Times: 1
+	Query: "(&#34;Turtle Creek&#34;)" ; Times: 3
+	Query: "genus:Pimephales specificepithet:tenellus" ; Times: 1
+	Query: "genus:Steindachneridion" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "genus:Sphyraena specificepithet:sphyraena" ; Times: 1
+	Query: "Aspidontus tractus" ; Times: 2
+	Query: "genus:Osmerus specificepithet:eperlanus" ; Times: 1
+	Query: "bellis" ; Times: 2
+	Query: "genus:Dasyatis specificepithet:zugei" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:schoepfii" ; Times: 1
+	Query: "Yunnan-fu" ; Times: 1
+	Query: "genus:Ameiurus" ; Times: 1
+	Query: "genus:Pseudobunocephalus specificepithet:amazonicus" ; Times: 1
+	Query: "genus:Ophioblennius specificepithet:atlanticus" ; Times: 1
+	Query: "mollis" ; Times: 1
+	Query: "genus:Gudusia specificepithet:chapra" ; Times: 1
+	Query: "catalognumber:183180 institutioncode:ANSP" ; Times: 2
+	Query: "genus:Triacanthus specificepithet:biaculeatus" ; Times: 1
+	Query: "genus:Henonemus" ; Times: 1
+	Query: "locality:Entre Ríos country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "genus:Mesonauta specificepithet:insignis" ; Times: 1
+	Query: "genus:Macrhybopsis" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "72640-1-2" ; Times: 1
+	Query: "183181 ANSP" ; Times: 1
+	Query: "genus:Lobocheilos specificepithet:melanotaenia" ; Times: 1
+	Query: "genus:Amia" ; Times: 1
+	Query: "irrorata" ; Times: 1
+	Query: "90369" ; Times: 1
+	Query: "(frozen)" ; Times: 1
+	Query: "genus:Leporinus specificepithet:arcus" ; Times: 1
+	Query: "genus:Mallotus specificepithet:villosus" ; Times: 1
+	Query: "erimyzon sucetta" ; Times: 1
+	Query: "institutioncode:ANSP" ; Times: 1
+	Query: "nycteris" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:starksi" ; Times: 1
+	Query: "genus:Paratilapia specificepithet:polleni" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:sharp year &gt;= 1895 year &lt;= 1895 institutioncode:ANSP" ; Times: 1
+	Query: "genus:Leporinus specificepithet:muyscorum" ; Times: 1
+	Query: "AUM" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 5
+	Query: "specificepithet:stoliczkae" ; Times: 1
+	Query: "locality:Coronados" ; Times: 1
+	Query: "vntype:specimen family:cyprinidae stateprovince:&#34;washington&#34; institutioncode:ANSP" ; Times: 1
+	Query: "genus:Cleithracara specificepithet:maronii" ; Times: 1
+	Query: "genus:Notemigonus" ; Times: 1
+	Query: "genus:Pygidianops specificepithet:eigenmanni" ; Times: 1
+	Query: "genus:Harttiella specificepithet:longicauda" ; Times: 1
+	Query: "specificepithet:chacoensis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Lepomis specificepithet:marginatus" ; Times: 1
+	Query: "genus:Gelanoglanis specificepithet:stroudi" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "pterois radiata" ; Times: 1
+	Query: "genus:Harengula specificepithet:clupeola" ; Times: 1
+	Query: "ANSP 7098" ; Times: 1
+	Query: "genus:Aeoliscus specificepithet:strigatus" ; Times: 1
+	Query: "Raja binoculata" ; Times: 3
+	Query: "genus:Awaous specificepithet:ocellaris" ; Times: 1
+	Query: "pterois antennata" ; Times: 1
+	Query: "Zonata year &gt;= 2000 year &lt;= 2019" ; Times: 2
+	Query: "country:&#34;mexico&#34;" ; Times: 1
+	Query: "usnm 20966" ; Times: 2
+	Query: "fg" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "103585 ANSP" ; Times: 4
+	Query: "west virginia" ; Times: 1
+	Query: "genus:Hypophthalmus specificepithet:edentatus (ama 1)" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:antillarum" ; Times: 1
+	Query: "genus:Pellonula specificepithet:vorax" ; Times: 1
+	Query: "Zonata zonata" ; Times: 19
+	Query: "stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "itaberaba" ; Times: 1
+	Query: "107251" ; Times: 1
+	Query: "genus:Acantopsis specificepithet:choirorhynchos" ; Times: 1
+	Query: "Sardina pilchardus mappable:1" ; Times: 1
+	Query: "115894" ; Times: 1
+	Query: "Trachylepis" ; Times: 1
+	Query: "stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "genus:Chilara" ; Times: 1
+	Query: "Guatemala" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "genus:Cottus specificepithet:gulosus" ; Times: 1
+	Query: "Cichlidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Parupeneus macronemus" ; Times: 1
+	Query: "API" ; Times: 2
+	Query: "acipenser" ; Times: 1
+	Query: "genus:Tometes" ; Times: 1
+	Query: "107388" ; Times: 1
+	Query: "Utila" ; Times: 1
+	Query: "genus:Gobiesocidae" ; Times: 1
+	Query: "gasterosteus" ; Times: 1
+	Query: "genus:Hisonotus specificepithet:maculipinnis" ; Times: 1
+	Query: "77592" ; Times: 1
+	Query: "genus:Acantopsis specificepithet:sp" ; Times: 1
+	Query: "catalognumber:145415" ; Times: 1
+	Query: "genus:Rhinoptera specificepithet:steindachneri" ; Times: 1
+	Query: "BPBM" ; Times: 2
+	Query: "stahl Puerto Rico year &lt;= 1890" ; Times: 1
+	Query: "104942 institutioncode:ANSP" ; Times: 2
+	Query: "genus:Oxyropsis specificepithet:ephippia" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:spinosus" ; Times: 1
+	Query: "country:&#34;ecuador&#34;" ; Times: 1
+	Query: "laucala" ; Times: 1
+	Query: "76722" ; Times: 1
+	Query: "genus:Ilisha specificepithet:elongata" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:macrops" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "epinephelus aden" ; Times: 1
+	Query: "seductus" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:oceanops" ; Times: 1
+	Query: "132114" ; Times: 1
+	Query: "genus:Geophagus specificepithet:crassilabris" ; Times: 1
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "genus:Anarchopterus specificepithet:criniger" ; Times: 1
+	Query: "genus:Odontognathus specificepithet:mucronatus" ; Times: 1
+	Query: "Opistognathus" ; Times: 3
+	Query: "Parabramis pekinensis" ; Times: 1
+	Query: "genus:Ichthyomyzon specificepithet:bdellium" ; Times: 1
+	Query: "ecuador" ; Times: 2
+	Query: "stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Psettina" ; Times: 2
+	Query: "Clepticus" ; Times: 1
+	Query: "porcupine" ; Times: 3
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "genus:Pereulixia specificepithet:kosiensis" ; Times: 1
+	Query: "county:&#34;co&#34;" ; Times: 1
+	Query: "Auburn" ; Times: 1
+	Query: "littoralis" ; Times: 1
+	Query: "oryzias latipes" ; Times: 1
+	Query: "Penju" ; Times: 1
+	Query: "genus:Enchelyopus" ; Times: 1
+	Query: "stahl Puerto Rico year &lt;= 1870" ; Times: 1
+	Query: "Cichla temensis" ; Times: 1
+	Query: "42-480" ; Times: 1
+	Query: "ANSP" ; Times: 1
+	Query: "country:&#34;USA&#34;" ; Times: 1
+	Query: "genus:Anguilla specificepithet:rostrata" ; Times: 1
+	Query: "Canthidermis maculata" ; Times: 1
+	Query: "genus:Coryphoblennius specificepithet:galerita" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:virescens" ; Times: 1
+	Query: "genus:Hypomesus specificepithet:olidus" ; Times: 1
+	Query: "genus:Clupea specificepithet:harengus" ; Times: 1
+	Query: "Raja stellulata" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:antennatus" ; Times: 1
+	Query: "genus:Rhinoptera specificepithet:bonasus" ; Times: 1
+	Query: "locality:Isla Santa Catalina" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; year &gt;= 1895 year &lt;= 1895 month &gt;= 6 month &lt;= 6 institutioncode:ANSP" ; Times: 1
+	Query: "genus:Acantharchus specificepithet:pomotis" ; Times: 1
+	Query: "SOSC 476" ; Times: 1
+	Query: "genus:Etheostoma specificepithet:maculatum" ; Times: 1
+	Query: "ansp nycteris" ; Times: 2
+	Query: "117975 ANSP" ; Times: 2
+	Query: "161486 institutioncode:ANSP" ; Times: 2
+	Query: "vntype:specimen country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "genus:Dellichthys specificepithet:morelandi" ; Times: 1
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 1
+	Query: "Galápagos" ; Times: 1
+	Query: "LACM" ; Times: 1
+	Query: "nutria" ; Times: 1
+	Query: "genus:Hirtella specificepithet:carinata" ; Times: 1
+	Query: "genus:Cottus specificepithet:gobio" ; Times: 1
+	Query: "specificepithet:variatum genus:Etheostoma stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "USNM 6573" ; Times: 1
+	Query: "genus:Antennarius specificepithet:commerson" ; Times: 1
+	Query: "genus:Poroderma specificepithet:pantherinum" ; Times: 1
+	Query: "Catostomus santaanae" ; Times: 3
+	Query: "genus:Ostichthys" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "genus:Metriaclima" ; Times: 1
+	Query: "54-213" ; Times: 1
+	Query: "UMMZ" ; Times: 2
+	Query: "guatemala" ; Times: 1
+	Query: "genus:Cottus specificepithet:poecilopus" ; Times: 1
+	Query: "genus:Sardina specificepithet:pilchardus" ; Times: 1
+	Query: "Moxostoma lacerum" ; Times: 4
+	Query: "Pauxi pauxi" ; Times: 1
+	Query: "Doryrhamphus" ; Times: 7
+	Query: "MNHN 1999" ; Times: 1
+	Query: "Collins AND Island" ; Times: 1
+	Query: "genus:Ostracion specificepithet:cubicus" ; Times: 1
+	Query: "Hoplosternum littorale" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; year &gt;= 1895 year &lt;= 1895 institutioncode:ANSP" ; Times: 1
+	Query: "Huanuco" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; institutioncode:ANSP" ; Times: 1
+	Query: "tioman country:&#34;malaysia&#34;" ; Times: 1
+	Query: "FRLM" ; Times: 1
+	Query: "143609 ANSP" ; Times: 2
+	Query: "genus:Pristigaster specificepithet:cayana" ; Times: 1
+	Query: "genus:Cottus specificepithet:klamathensis" ; Times: 1
+	Query: "A947" ; Times: 1
+	Query: "genus:Ulvaria specificepithet:subbifurcata" ; Times: 1
+	Query: "genus:Aspidoras" ; Times: 1
+	Query: "0453" ; Times: 1
+	Query: "Galapagos OR Galápagos" ; Times: 1
+	Query: "institutioncode:ANSP hasmedia:1" ; Times: 2
+	Query: "stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "137095" ; Times: 1
+	Query: "Microphis" ; Times: 5
+	Query: "Ictalurus furcatus" ; Times: 2
+	Query: "175065" ; Times: 1
+	Query: "genus:Chelonodon" ; Times: 1
+	Query: "genus:Ramnogaster specificepithet:arcuata" ; Times: 1
+	Query: "locality:Santa Cruz Island stateprovince:&#34;California&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "161908" ; Times: 1
+	Query: "0671" ; Times: 1
+	Query: "159912 institutioncode:ANSP" ; Times: 1
+	Query: "genus:Cottus specificepithet:baileyi" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:guttata" ; Times: 1
+	Query: "91591 institutioncode:ANSP" ; Times: 1
+	Query: "genus:Cetengraulis specificepithet:edentulus" ; Times: 1
+	Query: "genus:Gymnocorymbus specificepithet:ternetzi" ; Times: 1
+	Query: "genus:Pseudolithoxus specificepithet:tigris" ; Times: 1
+	Query: "192234 institutioncode:ANSP" ; Times: 1
+	Query: "Río Santiago" ; Times: 1
+	Query: "genus:Leuroglossus specificepithet:stilbius" ; Times: 1
+	Query: "12108" ; Times: 1
+	Query: "Moenkhausia sanctaefilomenae" ; Times: 1
+	Query: "genus:Cheilopogon specificepithet:melanurus" ; Times: 1
+	Query: "mexico" ; Times: 1
+	Query: "Galapagos" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Dasyatis specificepithet:akajei" ; Times: 1
+	Query: "locality:lemon bay stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:humboldtii" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "genus:Glanapteryx specificepithet:anguilla" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Acanthemblemaria rivasi" ; Times: 9
+	Query: "117916" ; Times: 1
+	Query: "caracara" ; Times: 1
+	Query: "genus:Leporinus specificepithet:friderici" ; Times: 1
+	Query: "genus:Charax" ; Times: 1
+	Query: "genus:Aspasmogaster specificepithet:tasmaniensis" ; Times: 1
+	Query: "Zonata" ; Times: 8
+	Query: "genus:Anchovia specificepithet:macrolepidota" ; Times: 1
+	Query: "161267" ; Times: 1
+	Query: "genus:Blennius specificepithet:ocellaris" ; Times: 1
+	Query: "genus:Hypoptopoma specificepithet:thoracatum" ; Times: 1
+	Query: "genus:Labridae" ; Times: 1
+	Query: "catalognumber:78979" ; Times: 1
+	Query: "ansp bat" ; Times: 1
+	Query: "tanager" ; Times: 2
+	Query: "genus:Panaqolus" ; Times: 1
+	Query: "genus:Parenchelyurus specificepithet:hepburni" ; Times: 1
+	Query: "genus:Chirocentrodon specificepithet:bleekerianus" ; Times: 1
+	Query: "genus:Ictiobus specificepithet:bubalus" ; Times: 1
+	Query: "bananal" ; Times: 2
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:reticulatus" ; Times: 1
+	Query: "genus:Parotocinclus specificepithet:maculicauda" ; Times: 1
+	Query: "Kellog" ; Times: 1
+	Query: "San Louis" ; Times: 1
+	Query: "genus:Homalopterula specificepithet:ripleyi" ; Times: 1
+	Query: "W 65-52" ; Times: 2
+	Query: "genus:Elacatinus specificepithet:puncticulatus" ; Times: 1
+	Query: "99109" ; Times: 1
+	Query: "stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "genus:Etmopterus specificepithet:bullisi" ; Times: 1
+	Query: "locality:El Llano" ; Times: 1
+	Query: "genus:Cottus specificepithet:cognatus" ; Times: 1
+	Query: "specificepithet:(personatus OR hyalinus) genus:Coryphopterus" ; Times: 6
+	Query: "genus:Cottus specificepithet:hypselurus" ; Times: 1
+	Query: "genus:Micropterus" ; Times: 1
+	Query: "genus:Opsopoeodus" ; Times: 1
+	Query: "FHB 6648" ; Times: 1
+	Query: "tick island" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "torpedo california" ; Times: 1
+	Query: "genus:Risor specificepithet:ruber" ; Times: 1
+	Query: "genus:Rhynchocypris" ; Times: 1
+	Query: "genus:Pterengraulis specificepithet:atherinoides" ; Times: 1
+	Query: "Geotria australis" ; Times: 1
+	Query: "Russia" ; Times: 1
+	Query: "genus:Characidium" ; Times: 1
+	Query: "Stahl Puerto Rico year &lt;= 1880" ; Times: 1
+	Query: "stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Rhinosardinia specificepithet:amazonica" ; Times: 1
+	Query: "Ebosia bleekeri" ; Times: 1
+	Query: "bonsucesso" ; Times: 1
+	Query: "country:&#34;honduras&#34;" ; Times: 1
+	Query: "genus:Doraops specificepithet:zuloagai" ; Times: 1
+	Query: "86476" ; Times: 1
+	Query: "stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "genus:Narcine specificepithet:brasiliensis" ; Times: 1
+	Query: "genus:Colossoma specificepithet:macropomum" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:thaleichthys" ; Times: 1
+	Query: "genus:Pseudobunocephalus specificepithet:iheringii" ; Times: 1
+	Query: "genus:Parauchenoglanis" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:americana" ; Times: 1
+	Query: "Aspidontus" ; Times: 1
+	Query: "genus:Phoxocampus specificepithet:belcheri" ; Times: 1
+	Query: "catalognumber:75901" ; Times: 1
+	Query: "Pentacerotidae" ; Times: 1
+	Query: "opistognathus" ; Times: 2
+	Query: "168060 institutioncode:ANSP" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Ernstichthys" ; Times: 1
+	Query: "genus:Bagarius specificepithet:yarrelli" ; Times: 1
+	Query: "Oxyeleotris marmorata" ; Times: 1
+	Query: "Amazona" ; Times: 1
+	Query: "epinephelus somalia" ; Times: 1
+	Query: "171555" ; Times: 1
+	Query: "Ambassis kopsii" ; Times: 1
+	Query: "104941 institutioncode:ANSP" ; Times: 1
+	Query: "vestitus" ; Times: 1
+	Query: "genus:Akysis specificepithet:hardmani" ; Times: 1
+	Query: "country:&#34;India&#34;" ; Times: 2
+	Query: "genus:Callogobius" ; Times: 1
+	Query: "genus:Anableps specificepithet:anableps" ; Times: 1
+	Query: "hasmedia:1" ; Times: 5
+	Query: "Caranx caballus" ; Times: 1
+	Query: "megalops cyprinoides gulf" ; Times: 1
+	Query: "genus:Entomacrodus specificepithet:nigricans" ; Times: 1
+	Query: "ansp" ; Times: 1
+	Query: "genus:Gymnotocinclus specificepithet:anosteos" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "fishes" ; Times: 2
+	Query: "genus:Homaloptera specificepithet:sexmaculata" ; Times: 1
+	Query: "genus:Cottus specificepithet:asper" ; Times: 1
+	Query: "genus:Cranoglanis" ; Times: 1
+	Query: "Macroramphosidae" ; Times: 2
+	Query: "continent:South America" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 985 download events in this period)
+Total number of records downloaded: 540
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-02 ; Times: 3
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Coronados" ; Times: 1
+	Query: "ansp mam" ; Times: 1
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "genus:Macrhybopsis" ; Times: 2
+	Query: "Acanthemblemaria rivasi" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "genus:Macrhybopsis stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
