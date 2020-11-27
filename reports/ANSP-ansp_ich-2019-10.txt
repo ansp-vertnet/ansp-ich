@@ -1,0 +1,608 @@
+Report for Institution Code ANSP, Resource ansp_ich
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 865
+Number of records retrieved in searches: 12984
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 18
+	Country: Unknown ; Times: 15
+	Country: Panama ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 4
+	Country: Benin ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 10
+	Country: Spain ; Times: 1
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 432
+	Country: New Zealand ; Times: 283
+	Country: Albania ; Times: 3
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 16
+	Country: India ; Times: 21
+	Country: United Kingdom ; Times: 29
+	Country: Colombia ; Times: 3
+	Country: Taiwan ; Times: 1
+	Country: Cyprus ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 49
+	Date: 2019-10-08 ; Times: 6
+	Date: 2019-10-21 ; Times: 71
+	Date: 2019-10-20 ; Times: 7
+	Date: 2019-10-27 ; Times: 9
+	Date: 2019-10-26 ; Times: 4
+	Date: 2019-10-25 ; Times: 4
+	Date: 2019-10-22 ; Times: 15
+	Date: 2019-10-01 ; Times: 9
+	Date: 2019-10-03 ; Times: 26
+	Date: 2019-10-02 ; Times: 14
+	Date: 2019-10-05 ; Times: 4
+	Date: 2019-10-04 ; Times: 9
+	Date: 2019-10-07 ; Times: 30
+	Date: 2019-10-06 ; Times: 5
+	Date: 2019-10-23 ; Times: 179
+	Date: 2019-10-24 ; Times: 158
+	Date: 2019-10-29 ; Times: 26
+	Date: 2019-10-18 ; Times: 14
+	Date: 2019-10-19 ; Times: 10
+	Date: 2019-10-12 ; Times: 5
+	Date: 2019-10-13 ; Times: 3
+	Date: 2019-10-10 ; Times: 50
+	Date: 2019-10-11 ; Times: 10
+	Date: 2019-10-16 ; Times: 24
+	Date: 2019-10-31 ; Times: 29
+	Date: 2019-10-14 ; Times: 17
+	Date: 2019-10-17 ; Times: 4
+	Date: 2019-10-15 ; Times: 35
+	Date: 2019-10-28 ; Times: 21
+	Date: 2019-10-30 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:98520" ; Times: 1
+	Query: "Mustelus norrisi" ; Times: 2
+	Query: "lacm" ; Times: 1
+	Query: "143822" ; Times: 1
+	Query: "ansp 139764" ; Times: 2
+	Query: "gbifdatasetid:temp-ansp-ich-datasetid" ; Times: 1
+	Query: "Exocoetus volitans" ; Times: 2
+	Query: "Chanos chanos vntype:specimen" ; Times: 1
+	Query: "Torpedo fuscomaculata" ; Times: 2
+	Query: "vitreus Sander" ; Times: 2
+	Query: "Mustelus mosis" ; Times: 2
+	Query: "Raja clavata" ; Times: 2
+	Query: "Torpedo sinuspersici" ; Times: 1
+	Query: "hastypestatus:1" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "Myliobatis freminvillei" ; Times: 2
+	Query: "125203" ; Times: 1
+	Query: "Pseudomonacanthus macrurus mappable:1" ; Times: 2
+	Query: "Q. S. Q. AND Island" ; Times: 1
+	Query: "Poroderma pantherinum" ; Times: 2
+	Query: "96152" ; Times: 2
+	Query: "Mustelus manazo" ; Times: 2
+	Query: "143742" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "mammal" ; Times: 1
+	Query: "catalognumber:132431" ; Times: 1
+	Query: "Callorhinchus capensis" ; Times: 2
+	Query: "Mustelus canis" ; Times: 2
+	Query: "stateprovince:&#34;nebraska&#34;" ; Times: 3
+	Query: "71718" ; Times: 1
+	Query: "Heterodontus francisci" ; Times: 2
+	Query: "192928" ; Times: 2
+	Query: "porites" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "195456" ; Times: 1
+	Query: "Chimaera phantasma" ; Times: 2
+	Query: "68252" ; Times: 1
+	Query: "ogcocephalus" ; Times: 2
+	Query: "middlesex county" ; Times: 2
+	Query: "fundulus grandis" ; Times: 1
+	Query: "Carcharhinus sorrah" ; Times: 2
+	Query: "Isurus oxyrinchus" ; Times: 2
+	Query: "Pseudalutarius nasicornis mappable:1" ; Times: 2
+	Query: "polypteriformes" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 3
+	Query: "Carcharhinus brevipinna" ; Times: 2
+	Query: "SU 28247" ; Times: 1
+	Query: "Chirostoma jordani" ; Times: 1
+	Query: "39463" ; Times: 1
+	Query: "stateprovince:&#34;nevada&#34;" ; Times: 3
+	Query: "Paramonacanthus oblongus mappable:1" ; Times: 2
+	Query: "Mustelus higmani" ; Times: 1
+	Query: "stateprovince:&#34;*Madras*&#34;" ; Times: 1
+	Query: "raccoon" ; Times: 2
+	Query: "Carcharhinus hemiodon" ; Times: 1
+	Query: "Halaelurus natalensis" ; Times: 1
+	Query: "&#34;Selar crumenophthalmus&#34;" ; Times: 2
+	Query: "Squatina squatina" ; Times: 2
+	Query: "africa" ; Times: 1
+	Query: "porichthys" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 2
+	Query: "notropis blennius" ; Times: 2
+	Query: "raja ackleyi" ; Times: 2
+	Query: "Aluterus schoepfii" ; Times: 1
+	Query: "Aluterus heudelotii" ; Times: 1
+	Query: "stateprovince:Madras" ; Times: 1
+	Query: "Paramonacanthus choirocephalus mappable:1" ; Times: 2
+	Query: "Acanthaluteres spilomelanurus mappable:1" ; Times: 2
+	Query: "alligator" ; Times: 1
+	Query: "institutioncode:ANSP" ; Times: 4
+	Query: "Carcharhinus galapagensis" ; Times: 2
+	Query: "Gymnura altavela" ; Times: 2
+	Query: "Cephaloscyllium sufflans" ; Times: 1
+	Query: "M 1607" ; Times: 1
+	Query: "AUM" ; Times: 2
+	Query: "Scoliodon laticaudus" ; Times: 2
+	Query: "Dipturus kwangtungensis" ; Times: 2
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Zalieutes" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "5952" ; Times: 1
+	Query: "locality:Farquhar Island year &gt;= 1964 year &lt;= 1964" ; Times: 1
+	Query: "cas" ; Times: 1
+	Query: "family:Achiridae" ; Times: 2
+	Query: "BMNH" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 2
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "specificepithet:spatula genus:Atractosteus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Benthobatis marcida" ; Times: 1
+	Query: "Pervagor melanocephalus mappable:1" ; Times: 2
+	Query: "catalognumber:82531" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "Hydrolagus trolli" ; Times: 1
+	Query: "Chimaera monstrosa" ; Times: 2
+	Query: "Rhizoprionodon porosus" ; Times: 1
+	Query: "Etmopterus lucifer" ; Times: 2
+	Query: "Chlamydoselachus anguineus" ; Times: 2
+	Query: "mcz 65443" ; Times: 1
+	Query: "Hydrolagus affinis" ; Times: 2
+	Query: "Pristis microdon" ; Times: 1
+	Query: "Myliobatis aquila" ; Times: 2
+	Query: "gonorynchiformes" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+	Query: "country:&#34;mexico&#34;" ; Times: 1
+	Query: "Protopterus" ; Times: 1
+	Query: "vinciguerria" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "platypus" ; Times: 6
+	Query: "Himantura uarnak" ; Times: 2
+	Query: "frable" ; Times: 1
+	Query: "128383" ; Times: 1
+	Query: "moyobamba" ; Times: 1
+	Query: "country:&#34;Panamá&#34;" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 2
+	Query: "stateprovince:*Madras*" ; Times: 1
+	Query: "199088" ; Times: 1
+	Query: "Raja radula" ; Times: 2
+	Query: "105301 institutioncode:ANSP" ; Times: 1
+	Query: "schwartz" ; Times: 1
+	Query: "Orectolobus ornatus" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Negaprion brevirostris" ; Times: 2
+	Query: "93814" ; Times: 2
+	Query: "Sphyrna vespertina" ; Times: 1
+	Query: "hartii Rivulus" ; Times: 1
+	Query: "Parupeneus ciliatus mappable:1" ; Times: 4
+	Query: "Texas" ; Times: 1
+	Query: "Thamnaconus modestus mappable:1" ; Times: 2
+	Query: "aphos" ; Times: 1
+	Query: "Triakis scyllium" ; Times: 2
+	Query: "Cantherhines macrocerus" ; Times: 1
+	Query: "heron" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 3
+	Query: "128314" ; Times: 1
+	Query: "Pervagor spilosoma mappable:1" ; Times: 2
+	Query: "argentina" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 2
+	Query: "country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Leuciscus waleckii" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "toxotes" ; Times: 2
+	Query: "Gymnura poecilura" ; Times: 2
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "76703 institutioncode:ANSP" ; Times: 2
+	Query: "Gulo gulo" ; Times: 8
+	Query: "Cerralvo stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "country:&#34;Trinidad&#34;" ; Times: 1
+	Query: "9902" ; Times: 2
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "Rhinochimaera pacifica" ; Times: 1
+	Query: "vntype:specimen (Grasseichthys)" ; Times: 1
+	Query: "Gymnocephalus baloni" ; Times: 1
+	Query: "Squalus megalops" ; Times: 2
+	Query: "locality:irvine" ; Times: 1
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "Poroderma africanum" ; Times: 2
+	Query: "Rudarius ercodes mappable:1" ; Times: 2
+	Query: "Aluterus heudelotii mappable:1" ; Times: 3
+	Query: "Galeocerdo cuvier" ; Times: 2
+	Query: "Trygonoptera testacea" ; Times: 2
+	Query: "Chiloscyllium plagiosum" ; Times: 2
+	Query: "Parupeneus barberinus mappable:1" ; Times: 4
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "chanos chanos" ; Times: 1
+	Query: "Harriotta raleighana" ; Times: 1
+	Query: "(Mexico)" ; Times: 1
+	Query: "eagle" ; Times: 1
+	Query: "Rhizoprionodon oligolinx" ; Times: 1
+	Query: "wisconsin" ; Times: 2
+	Query: "Amanses scopas mappable:1" ; Times: 2
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "porites porites" ; Times: 1
+	Query: "Hypnos monopterygius" ; Times: 2
+	Query: "Hydrolagus waitei" ; Times: 1
+	Query: "Siphateles bicolor" ; Times: 1
+	Query: "Paraluteres prionurus mappable:1" ; Times: 2
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "Hemiscyllium ocellatum" ; Times: 2
+	Query: "63905" ; Times: 1
+	Query: "locality:Saltville" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "ummz 65302" ; Times: 1
+	Query: "Callorhinchus milii" ; Times: 2
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "vntype:specimen country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "temensis Cichla" ; Times: 2
+	Query: "distance(location,geopoint(34.3968331473169,-119.471169108105))&lt;269545.637102603" ; Times: 11
+	Query: "Mola mola mappable:1" ; Times: 10
+	Query: "Chaetodermis penicilligerus mappable:1" ; Times: 2
+	Query: "colombia" ; Times: 2
+	Query: "Dasyatis pastinaca" ; Times: 2
+	Query: "Taeniura lymma" ; Times: 2
+	Query: "Narcine timlei" ; Times: 2
+	Query: "Chiloscyllium indicum" ; Times: 2
+	Query: "Squalus cubensis" ; Times: 2
+	Query: "9404" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "Prionace glauca" ; Times: 2
+	Query: "6985" ; Times: 3
+	Query: "stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "180131" ; Times: 1
+	Query: "bpbm" ; Times: 1
+	Query: "Raja chinensis" ; Times: 1
+	Query: "ZMUC" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 2
+	Query: "Ginglymostoma cirratum" ; Times: 2
+	Query: "Lamna nasus" ; Times: 2
+	Query: "Chromis margaritifer" ; Times: 2
+	Query: "Chelidonichthys kumu" ; Times: 1
+	Query: "28676" ; Times: 1
+	Query: "Lamiopsis temminckii" ; Times: 2
+	Query: "country:Ecuador " ; Times: 3
+	Query: "Mobula japanica" ; Times: 2
+	Query: "Mustelus sinusmexicanus" ; Times: 1
+	Query: "249016" ; Times: 1
+	Query: "Torpedo panthera" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "Gymnura marmorata" ; Times: 2
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "Hydrolagus pallidus" ; Times: 1
+	Query: "Chiloscyllium griseum" ; Times: 2
+	Query: "palm tree" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "Sphyrna tiburo" ; Times: 3
+	Query: "Anacanthus barbatus mappable:1" ; Times: 2
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Pervagor nigrolineatus mappable:1" ; Times: 2
+	Query: "vntype:specimen (Phractolaemus)" ; Times: 1
+	Query: "eggs" ; Times: 2
+	Query: "county:&#34;Middlesex&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 3
+	Query: "Plagioscion squamosissimus" ; Times: 1
+	Query: "stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Squalius cephalus" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Carcharhinus plumbeus" ; Times: 2
+	Query: "Chromis agilis" ; Times: 1
+	Query: "Pervagor aspricaudus mappable:1" ; Times: 2
+	Query: "dog" ; Times: 1
+	Query: "Sphyrna tudes" ; Times: 3
+	Query: "rmnh" ; Times: 1
+	Query: "Callorhinchus callorynchus" ; Times: 2
+	Query: "Carcharhinus leucas" ; Times: 2
+	Query: "Carcharhinus humani" ; Times: 1
+	Query: "Hydrolagus bemisi" ; Times: 1
+	Query: "stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Mustelus palumbes" ; Times: 2
+	Query: "Rhizoprionodon taylori" ; Times: 2
+	Query: "chicken" ; Times: 1
+	Query: "Meuschenia freycineti mappable:1" ; Times: 2
+	Query: "Leuciscus aspius" ; Times: 1
+	Query: "Scyliorhinus capensis" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "Hydrolagus novaezealandiae" ; Times: 1
+	Query: "fmnh" ; Times: 1
+	Query: "specificepithet:spatula genus:Atractosteus" ; Times: 2
+	Query: "Vimba vimba" ; Times: 1
+	Query: "Cephaloscyllium ventriosum" ; Times: 1
+	Query: "cowan" ; Times: 1
+	Query: "Rudarius minutus mappable:1" ; Times: 2
+	Query: "128373" ; Times: 1
+	Query: "Raja asterias" ; Times: 2
+	Query: "23763" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 5
+	Query: "Alburnus chalcoides" ; Times: 1
+	Query: "Holohalaelurus regani" ; Times: 1
+	Query: "BPBM 3468" ; Times: 1
+	Query: "catalognumber:189865 institutioncode:ANSP" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Humboldt" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "104766" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "MZB" ; Times: 1
+	Query: "Stephanolepis auratus mappable:1" ; Times: 2
+	Query: "amarus Rhodeus" ; Times: 1
+	Query: "Hydrolagus marmoratus" ; Times: 1
+	Query: "vntype:specimen locality:North Carolina" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "69978" ; Times: 1
+	Query: "Mustelus minicanis" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 2
+	Query: "Leucoraja lentiginosa" ; Times: 1
+	Query: "&#34;Myrophis plumbeus&#34;" ; Times: 1
+	Query: "madras" ; Times: 4
+	Query: "locality:Madras" ; Times: 1
+	Query: "Etmopterus bullisi" ; Times: 1
+	Query: "Pacific Project and Cruz Island" ; Times: 2
+	Query: "Carcharhinus acronotus" ; Times: 2
+	Query: "187306" ; Times: 1
+	Query: "costa rica" ; Times: 1
+	Query: "catalognumber:192566 institutioncode:ANSP" ; Times: 2
+	Query: "A-182322" ; Times: 1
+	Query: "catalognumber:175828" ; Times: 1
+	Query: "40047" ; Times: 1
+	Query: "141323" ; Times: 1
+	Query: "distance(location,geopoint(40.7463637403232,-105.116497784516))&lt;594922.666421315" ; Times: 42
+	Query: "143722" ; Times: 1
+	Query: "178304" ; Times: 2
+	Query: "distance(location,geopoint(40.7463637403232,-105.116497784516))&lt;594922.666421313" ; Times: 25
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "Sphyrna zygaena" ; Times: 3
+	Query: "stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "Squaliolus laticaudus" ; Times: 1
+	Query: "cichla monoculus" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "Scyliorhinus canicula" ; Times: 2
+	Query: "white tiger" ; Times: 1
+	Query: "cm 1322" ; Times: 2
+	Query: "stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Universidad nacional" ; Times: 1
+	Query: "Anoxypristis cuspidata" ; Times: 2
+	Query: "santo domingo" ; Times: 1
+	Query: "vntype:specimen (Cromeria)" ; Times: 1
+	Query: "stateprovince:&#34;Mexico&#34;" ; Times: 1
+	Query: "country:&#34;india&#34;" ; Times: 1
+	Query: "Aetomylaeus nichofii" ; Times: 2
+	Query: "Percina brevicauda" ; Times: 1
+	Query: "stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "catalognumber:91476" ; Times: 1
+	Query: "17684" ; Times: 1
+	Query: "Acreichthys radiatus mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;Madras&#34;" ; Times: 3
+	Query: "Gymnura japonica" ; Times: 2
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "&#34;Negaprion brevirostris&#34;" ; Times: 1
+	Query: "cow" ; Times: 1
+	Query: "Hydrolagus mitsukurii" ; Times: 2
+	Query: "Paramonacanthus frenatus mappable:1" ; Times: 2
+	Query: "texas" ; Times: 1
+	Query: "141513" ; Times: 1
+	Query: "141514" ; Times: 1
+	Query: "distance(location,geopoint(38.245377204844,-107.45914695031))&lt;521019.392285124" ; Times: 2
+	Query: "Neoharriotta pumila" ; Times: 1
+	Query: "Urobatis jamaicensis" ; Times: 2
+	Query: "asper Cottus" ; Times: 4
+	Query: "walter koelz" ; Times: 2
+	Query: "Carcharhinus porosus" ; Times: 1
+	Query: "lepomis gibbosus" ; Times: 1
+	Query: "Lamiopsis tephrodes" ; Times: 2
+	Query: "catfish" ; Times: 1
+	Query: "Coyote" ; Times: 1
+	Query: "Etheostoma gracile" ; Times: 1
+	Query: "176443" ; Times: 2
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "llanos" ; Times: 1
+	Query: "tepui" ; Times: 1
+	Query: "vntype:specimen county:&#34;Mexico&#34;" ; Times: 1
+	Query: "leopard" ; Times: 1
+	Query: "Aluterus schoepfii mappable:1" ; Times: 4
+	Query: "county:&#34;Ocosingo&#34; stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Baja&#34;" ; Times: 2
+	Query: "Aetobatus narinari" ; Times: 2
+	Query: "country:&#34;Thailand&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Nebraska&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "Rhinochimaera africana" ; Times: 1
+	Query: "Rhynchobatus djiddensis" ; Times: 2
+	Query: "Scyliorhinus retifer" ; Times: 1
+	Query: "Etmopterus spinax" ; Times: 2
+	Query: "Raja miraletus" ; Times: 2
+	Query: "Cantherhines pullus mappable:1" ; Times: 3
+	Query: "sea otter" ; Times: 1
+	Query: "Raja texana" ; Times: 2
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "Aetomylaeus maculatus" ; Times: 2
+	Query: "locality:tobati" ; Times: 1
+	Query: "Rhizoprionodon lalandii" ; Times: 2
+	Query: "stateprovince:&#34;New MExico&#34;" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 3
+	Query: "stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "Cantherhines pardalis mappable:1" ; Times: 2
+	Query: "pondicherry" ; Times: 2
+	Query: "Sphyrna" ; Times: 1
+	Query: "Mobula eregoodootenkee" ; Times: 2
+	Query: "Rhizoprionodon acutus" ; Times: 2
+	Query: "Rhinoptera steindachneri" ; Times: 2
+	Query: "family:labridae country:&#34;america&#34;" ; Times: 1
+	Query: "Pelecus cultratus" ; Times: 1
+	Query: "Heteroscymnoides marleyi" ; Times: 1
+	Query: "Carcharhinus dussumieri" ; Times: 2
+	Query: "Narcine vermiculatus" ; Times: 1
+	Query: "176633" ; Times: 1
+	Query: "Monacanthus tuckeri mappable:1" ; Times: 2
+	Query: "Aluterus scriptus mappable:1" ; Times: 3
+	Query: "532 institutioncode:ANSP" ; Times: 1
+	Query: "Geomys" ; Times: 2
+	Query: "collectioncode:fish" ; Times: 1
+	Query: "manam" ; Times: 2
+	Query: "162261" ; Times: 2
+	Query: "stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Leucoraja circularis" ; Times: 2
+	Query: "Engraulis eurystole" ; Times: 1
+	Query: "Carcharhinus cerdale" ; Times: 1
+	Query: "locality:El Yagual" ; Times: 1
+	Query: "stateprovince:&#34;baja california sur&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Holohalaelurus punctatus" ; Times: 1
+	Query: "county:&#34;Rice&#34; stateprovince:&#34;Minnesota&#34; year &gt;= 1900" ; Times: 1
+	Query: "Percina macrolepida" ; Times: 1
+	Query: "tick island" ; Times: 2
+	Query: "marinus" ; Times: 1
+	Query: "genus:Gobius" ; Times: 5
+	Query: "BPBM 19" ; Times: 1
+	Query: "ck 2642" ; Times: 1
+	Query: "Chromis iomelas" ; Times: 3
+	Query: "103914" ; Times: 1
+	Query: "Oxymonacanthus longirostris mappable:1" ; Times: 2
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "country:&#34;Lebanon&#34;" ; Times: 1
+	Query: "specificepithet:nigripes" ; Times: 3
+	Query: "Pliotrema warreni" ; Times: 2
+	Query: "beavers" ; Times: 1
+	Query: "zoological survey of india" ; Times: 2
+	Query: "Mustelus mento" ; Times: 2
+	Query: "Squatina africana" ; Times: 1
+	Query: "krameri Umbra" ; Times: 1
+	Query: "Cantherhines macrocerus mappable:1" ; Times: 3
+	Query: "catalognumber:160983" ; Times: 1
+	Query: "Paramonacanthus cryptodon mappable:1" ; Times: 2
+	Query: "Chimaera panthera" ; Times: 1
+	Query: "distance(location,geopoint(37.6248603205723,-120.56732170815))&lt;702880.516635425" ; Times: 1
+	Query: "Cornell" ; Times: 1
+	Query: "120011" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 2
+	Query: "Heteronarce garmani" ; Times: 1
+	Query: "USNM rostrata" ; Times: 2
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "Narke dipterygia" ; Times: 1
+	Query: "genus:Mylossoma family:Serrasalmidae country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Cantherhines sandwichiensis mappable:1" ; Times: 2
+	Query: "Pristiophorus schroederi" ; Times: 1
+	Query: "143710" ; Times: 1
+	Query: "Mimosa" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 2
+	Query: "Chiloscyllium punctatum" ; Times: 2
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "chanos chanos vntype:specimen" ; Times: 1
+	Query: "173976" ; Times: 1
+	Query: "Raja stellulata" ; Times: 2
+	Query: "mylossoma" ; Times: 2
+	Query: "178836" ; Times: 2
+	Query: "Stephanolepis setifer" ; Times: 1
+	Query: "139695" ; Times: 2
+	Query: "110218" ; Times: 1
+	Query: "Stephanolepis cirrhifer" ; Times: 2
+	Query: "jellyfish" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "Africa" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "Narke japonica" ; Times: 2
+	Query: "acropora" ; Times: 1
+	Query: "hispaniola" ; Times: 1
+	Query: "Tick Island" ; Times: 3
+	Query: "Stephanolepis cirrhifer mappable:1" ; Times: 8
+	Query: "labroides dimidiatus" ; Times: 1
+	Query: "14/Pha/14/a/5" ; Times: 1
+	Query: "Sander canadensis" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 3
+	Query: "131983" ; Times: 1
+	Query: "Amblypharyngodon mola" ; Times: 1
+	Query: "Chimaera lignaria" ; Times: 1
+	Query: "52049" ; Times: 1
+	Query: "insignis" ; Times: 1
+	Query: "Andaman" ; Times: 1
+	Query: "Raja africana" ; Times: 1
+	Query: "locality:El Yagual stateprovince:&#34;Bolivar&#34;" ; Times: 2
+	Query: "186599" ; Times: 1
+	Query: "109732" ; Times: 1
+	Query: "141501" ; Times: 1
+	Query: "hasmedia:1" ; Times: 6
+	Query: "1298 institutioncode:ANSP" ; Times: 1
+	Query: "Centroscyllium fabricii" ; Times: 1
+	Query: "135675" ; Times: 1
+	Query: "Koelz" ; Times: 2
+	Query: "ouachita" ; Times: 1
+	Query: "Leucoraja garmani" ; Times: 2
+	Query: "stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 3
+	Query: "Hemiscyllium freycineti" ; Times: 1
+	Query: "Sympterygia brevicaudata" ; Times: 2
+	Query: "Galeus melastomus" ; Times: 2
+	Query: "Galeorhinus galeus" ; Times: 2
+	Query: "Carcharhinus albimarginatus" ; Times: 2
+	Query: "vntype:specimen (DRD) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Raja ackleyi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1308 download events in this period)
+Total number of records downloaded: 418
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "genus:Gobius" ; Times: 1
+	Query: "platypus" ; Times: 2
+	Query: "porites porites" ; Times: 1
+	Query: "vntype:specimen (Cromeria)" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "stateprovince:&#34;Madras&#34;" ; Times: 1
+	Query: "genus:Galeorhinus stateprovince:California" ; Times: 1
+	Query: "country:&#34;india&#34;" ; Times: 1
+
+
+End of report.
